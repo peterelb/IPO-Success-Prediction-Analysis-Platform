@@ -1,0 +1,151 @@
+﻿CompanyName,factor_name,factor_type,actual_value,baseline_value,deviation,weighted_impact,importance_rank,factor_rank,pk
+Apex Financial Group,MarketMonthTrend,strength,1.1,0.2738,0.6309,0.01346,17,1,Apex Financial Group__MarketMonthTrend__strength
+Apex Financial Group,Market6MonthTrend,strength,1.3,0.7271,0.4826,0.01133,11,2,Apex Financial Group__Market6MonthTrend__strength
+Apex Financial Group,logMarketCap,strength,21.31,20.5095,0.3878,0.011184,8,3,Apex Financial Group__logMarketCap__strength
+Bolt,logMarketCap,strength,22.8,20.5095,1.1097,0.032,8,1,Bolt__logMarketCap__strength
+Bolt,MarketCap,strength,8.0E9,5.7373061879488E9,0.0909,0.002763,6,2,Bolt__MarketCap__strength
+Bolt,marketCapToRevenue,strength,13.33,8.0285,0.1517,0.002684,25,3,Bolt__marketCapToRevenue__strength
+Canva,logMarketCap,strength,24.46,20.5095,1.914,0.055192,8,1,Canva__logMarketCap__strength
+Canva,MarketCap,strength,4.2E10,5.7373061879488E9,1.4573,0.044286,6,2,Canva__MarketCap__strength
+Canva,MarketMonthTrend,strength,0.5,0.2738,0.1727,0.003686,17,3,Canva__MarketMonthTrend__strength
+Cerebras Systems,logMarketCap,strength,22.82,20.5095,1.1194,0.03228,8,1,Cerebras Systems__logMarketCap__strength
+Cerebras Systems,marketCapToRevenue,strength,40.5,8.0285,0.9293,0.016438,25,2,Cerebras Systems__marketCapToRevenue__strength
+Cerebras Systems,MarketCap,strength,8.1E9,5.7373061879488E9,0.095,0.002885,6,3,Cerebras Systems__MarketCap__strength
+CloudVault Software,logMarketCap,strength,22.23,20.5095,0.8336,0.024037,8,1,CloudVault Software__logMarketCap__strength
+CloudVault Software,MarketMonthTrend,strength,1.3,0.2738,0.7836,0.016718,17,2,CloudVault Software__MarketMonthTrend__strength
+CloudVault Software,MarketYearTrend,strength,1.8,0.9348,0.7538,0.01655,15,3,CloudVault Software__MarketYearTrend__strength
+Cohere,logMarketCap,strength,22.67,20.5095,1.0468,0.030184,8,1,Cohere__logMarketCap__strength
+Cohere,marketCapToRevenue,strength,46.67,8.0285,1.1059,0.019562,25,2,Cohere__marketCapToRevenue__strength
+Cohere,MarketCap,strength,7.0E9,5.7373061879488E9,0.0507,0.001542,6,3,Cohere__MarketCap__strength
+Cohesity,logMarketCap,strength,23.56,20.5095,1.478,0.042618,8,1,Cohesity__logMarketCap__strength
+Cohesity,MarketCap,strength,1.7E10,5.7373061879488E9,0.4526,0.013755,6,2,Cohesity__MarketCap__strength
+Cohesity,marketCapToRevenue,strength,21.25,8.0285,0.3784,0.006693,25,3,Cohesity__marketCapToRevenue__strength
+Crusoe Energy,logMarketCap,strength,22.33,20.5095,0.882,0.025434,8,1,Crusoe Energy__logMarketCap__strength
+Crusoe Energy,marketCapToRevenue,strength,10.0,8.0285,0.0564,9.98E-4,25,2,Crusoe Energy__marketCapToRevenue__strength
+Crusoe Energy,netIncome_M,strength,-200.0,-2543.1109,0.0174,4.1E-4,10,3,Crusoe Energy__netIncome_M__strength
+Databricks,MarketCap,strength,1.34E11,5.7373061879488E9,5.1546,0.156642,6,1,Databricks__MarketCap__strength
+Databricks,logMarketCap,strength,25.62,20.5095,2.476,0.071399,8,2,Databricks__logMarketCap__strength
+Databricks,MarketMonthTrend,strength,1.2,0.2738,0.7072,0.015089,17,3,Databricks__MarketMonthTrend__strength
+Deel,logMarketCap,strength,23.26,20.5095,1.3326,0.038427,8,1,Deel__logMarketCap__strength
+Deel,MarketCap,strength,1.26E10,5.7373061879488E9,0.2758,0.008381,6,2,Deel__MarketCap__strength
+Deel,MarketMonthTrend,strength,0.6,0.2738,0.2491,0.005315,17,3,Deel__MarketMonthTrend__strength
+Discord,logMarketCap,strength,23.43,20.5095,1.415,0.040802,8,1,Discord__logMarketCap__strength
+Discord,MarketCap,strength,1.5E10,5.7373061879488E9,0.3722,0.011312,6,2,Discord__MarketCap__strength
+Discord,marketCapToRevenue,strength,18.75,8.0285,0.3068,0.005428,25,3,Discord__marketCapToRevenue__strength
+Forgent Power Solutions,logMarketCap,strength,22.9,20.5095,1.1582,0.033397,8,1,Forgent Power Solutions__logMarketCap__strength
+Forgent Power Solutions,MarketMonthTrend,strength,1.3,0.2738,0.7836,0.016718,17,2,Forgent Power Solutions__MarketMonthTrend__strength
+Forgent Power Solutions,Market6MonthTrend,strength,1.4,0.7271,0.5668,0.013308,11,3,Forgent Power Solutions__Market6MonthTrend__strength
+K2 Space,marketCapToRevenue,strength,60.0,8.0285,1.4874,0.02631,25,1,K2 Space__marketCapToRevenue__strength
+K2 Space,logMarketCap,strength,21.82,20.5095,0.6349,0.018309,8,2,K2 Space__logMarketCap__strength
+K2 Space,lastFiscalYearGrowth,strength,3.0,2.1615,0.0286,4.54E-4,30,3,K2 Space__lastFiscalYearGrowth__strength
+Kraken,logMarketCap,strength,23.72,20.5095,1.5555,0.044854,8,1,Kraken__logMarketCap__strength
+Kraken,MarketCap,strength,2.0E10,5.7373061879488E9,0.5732,0.017418,6,2,Kraken__MarketCap__strength
+Kraken,MarketMonthTrend,strength,1.0,0.2738,0.5545,0.011831,17,3,Kraken__MarketMonthTrend__strength
+Lime,logMarketCap,strength,21.82,20.5095,0.6349,0.018309,8,1,Lime__logMarketCap__strength
+Lime,netIncome_M,strength,-40.0,-2543.1109,0.0186,4.38E-4,10,2,Lime__netIncome_M__strength
+Lime,profitMargin,strength,-0.073,529.1493,-0.0319,-6.23E-4,19,3,Lime__profitMargin__strength
+Medline Technologies,logMarketCap,strength,21.89,20.5095,0.6688,0.019287,8,1,Medline Technologies__logMarketCap__strength
+Medline Technologies,MarketMonthTrend,strength,1.4,0.2738,0.8599,0.018347,17,2,Medline Technologies__MarketMonthTrend__strength
+Medline Technologies,Market6MonthTrend,strength,1.5,0.7271,0.651,0.015285,11,3,Medline Technologies__Market6MonthTrend__strength
+Motive,logMarketCap,strength,22.33,20.5095,0.882,0.025434,8,1,Motive__logMarketCap__strength
+Motive,MarketMonthTrend,strength,0.4,0.2738,0.0964,0.002057,17,2,Motive__MarketMonthTrend__strength
+Motive,netIncome_M,strength,-60.0,-2543.1109,0.0184,4.34E-4,10,3,Motive__netIncome_M__strength
+NovaBio Therapeutics,MarketMonthTrend,strength,1.5,0.2738,0.9363,0.019976,17,1,NovaBio Therapeutics__MarketMonthTrend__strength
+NovaBio Therapeutics,Market6MonthTrend,strength,1.7,0.7271,0.8195,0.019241,11,2,NovaBio Therapeutics__Market6MonthTrend__strength
+NovaBio Therapeutics,MarketYearTrend,strength,1.9,0.9348,0.8409,0.018463,15,3,NovaBio Therapeutics__MarketYearTrend__strength
+OpenAI,MarketCap,strength,5.0E11,5.7373061879488E9,19.8632,0.603623,6,1,OpenAI__MarketCap__strength
+OpenAI,logMarketCap,strength,26.94,20.5095,3.1156,0.08984,8,2,OpenAI__logMarketCap__strength
+OpenAI,marketCapToRevenue,strength,41.67,8.0285,0.9628,0.017031,25,3,OpenAI__marketCapToRevenue__strength
+Quantinuum,marketCapToRevenue,strength,83.33,8.0285,2.1551,0.038121,25,1,Quantinuum__marketCapToRevenue__strength
+Quantinuum,logMarketCap,strength,23.03,20.5095,1.2212,0.035214,8,2,Quantinuum__logMarketCap__strength
+Quantinuum,MarketCap,strength,1.0E10,5.7373061879488E9,0.1713,0.005206,6,3,Quantinuum__MarketCap__strength
+Shein,logMarketCap,strength,24.41,20.5095,1.8898,0.054494,8,1,Shein__logMarketCap__strength
+Shein,MarketCap,strength,4.0E10,5.7373061879488E9,1.3769,0.041844,6,2,Shein__MarketCap__strength
+Shein,employees,strength,16000.0,10076.6252,0.1668,0.003748,13,3,Shein__employees__strength
+SpaceX,MarketCap,strength,3.5E11,5.7373061879488E9,13.8351,0.420434,6,1,SpaceX__MarketCap__strength
+SpaceX,logMarketCap,strength,26.58,20.5095,2.9411,0.084811,8,2,SpaceX__logMarketCap__strength
+SpaceX,LastSale,strength,95.0,37.5823,0.943,0.037914,3,3,SpaceX__LastSale__strength
+Strava,logMarketCap,strength,21.51,20.5095,0.4847,0.013978,8,1,Strava__logMarketCap__strength
+Strava,companyAgeAtIPO,strength,17.0,15.0968,0.0708,9.49E-4,35,2,Strava__companyAgeAtIPO__strength
+Strava,netIncome_M,strength,-30.0,-2543.1109,0.0187,4.39E-4,10,3,Strava__netIncome_M__strength
+Stripe,MarketCap,strength,1.06E11,5.7373061879488E9,4.0293,0.122447,6,1,Stripe__MarketCap__strength
+Stripe,logMarketCap,strength,25.39,20.5095,2.3646,0.068185,8,2,Stripe__logMarketCap__strength
+Stripe,LastSale,strength,70.0,37.5823,0.5324,0.021406,3,3,Stripe__LastSale__strength
+TerraGrid Energy,MarketMonthTrend,strength,1.6,0.2738,1.0126,0.021605,17,1,TerraGrid Energy__MarketMonthTrend__strength
+TerraGrid Energy,Market6MonthTrend,strength,1.8,0.7271,0.9037,0.021218,11,2,TerraGrid Energy__Market6MonthTrend__strength
+TerraGrid Energy,MarketYearTrend,strength,2.0,0.9348,0.928,0.020376,15,3,TerraGrid Energy__MarketYearTrend__strength
+Apex Financial Group,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,1,Apex Financial Group__yearDifference__risk
+Apex Financial Group,employees,risk,2200.0,10076.6252,-0.2218,-0.004984,13,2,Apex Financial Group__employees__risk
+Apex Financial Group,MarketCap,risk,1.8E9,5.7373061879488E9,-0.1582,-0.004808,6,3,Apex Financial Group__MarketCap__risk
+Bolt,CEOAge,risk,30.0,54.7803,-3.234,-0.047973,34,1,Bolt__CEOAge__risk
+Bolt,PresidentAge,risk,30.0,53.5274,-3.1881,-0.04784,32,2,Bolt__PresidentAge__risk
+Bolt,Market6MonthTrend,risk,-0.5,0.7271,-1.0336,-0.024267,11,3,Bolt__Market6MonthTrend__risk
+Canva,CEOAge,risk,37.0,54.7803,-2.3205,-0.034422,34,1,Canva__CEOAge__risk
+Canva,PresidentAge,risk,37.0,53.5274,-2.2395,-0.033606,32,2,Canva__PresidentAge__risk
+Canva,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,3,Canva__yearDifference__risk
+Cerebras Systems,CEOAge,risk,40.0,54.7803,-1.9289,-0.028614,34,1,Cerebras Systems__CEOAge__risk
+Cerebras Systems,PresidentAge,risk,40.0,53.5274,-1.833,-0.027506,32,2,Cerebras Systems__PresidentAge__risk
+Cerebras Systems,Market6MonthTrend,risk,-0.3,0.7271,-0.8651,-0.020312,11,3,Cerebras Systems__Market6MonthTrend__risk
+CloudVault Software,PresidentAge,risk,42.0,53.5274,-1.562,-0.02344,32,1,CloudVault Software__PresidentAge__risk
+CloudVault Software,CEOAge,risk,44.0,54.7803,-1.4069,-0.02087,34,2,CloudVault Software__CEOAge__risk
+CloudVault Software,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,3,CloudVault Software__yearDifference__risk
+Cohere,CEOAge,risk,30.0,54.7803,-3.234,-0.047973,34,1,Cohere__CEOAge__risk
+Cohere,PresidentAge,risk,30.0,53.5274,-3.1881,-0.04784,32,2,Cohere__PresidentAge__risk
+Cohere,Market3MonthTrend,risk,-1.5,0.5402,-1.6577,-0.035439,16,3,Cohere__Market3MonthTrend__risk
+Cohesity,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,1,Cohesity__yearDifference__risk
+Cohesity,PresidentAge,risk,50.0,53.5274,-0.478,-0.007172,32,2,Cohesity__PresidentAge__risk
+Cohesity,Market6MonthTrend,risk,0.4,0.7271,-0.2755,-0.006468,11,3,Cohesity__Market6MonthTrend__risk
+Crusoe Energy,CEOAge,risk,34.0,54.7803,-2.712,-0.040229,34,1,Crusoe Energy__CEOAge__risk
+Crusoe Energy,PresidentAge,risk,34.0,53.5274,-2.646,-0.039707,32,2,Crusoe Energy__PresidentAge__risk
+Crusoe Energy,Market6MonthTrend,risk,-0.7,0.7271,-1.2021,-0.028222,11,3,Crusoe Energy__Market6MonthTrend__risk
+Databricks,PresidentAge,risk,45.0,53.5274,-1.1555,-0.017339,32,1,Databricks__PresidentAge__risk
+Databricks,CEOAge,risk,47.0,54.7803,-1.0154,-0.015062,34,2,Databricks__CEOAge__risk
+Databricks,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,3,Databricks__yearDifference__risk
+Deel,CEOAge,risk,30.0,54.7803,-3.234,-0.047973,34,1,Deel__CEOAge__risk
+Deel,PresidentAge,risk,30.0,53.5274,-3.1881,-0.04784,32,2,Deel__PresidentAge__risk
+Deel,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,3,Deel__yearDifference__risk
+Discord,PresidentAge,risk,39.0,53.5274,-1.9685,-0.02954,32,1,Discord__PresidentAge__risk
+Discord,CEOAge,risk,41.0,54.7803,-1.7984,-0.026678,34,2,Discord__CEOAge__risk
+Discord,Market6MonthTrend,risk,-0.1,0.7271,-0.6967,-0.016356,11,3,Discord__Market6MonthTrend__risk
+Forgent Power Solutions,PresidentAge,risk,49.0,53.5274,-0.6135,-0.009206,32,1,Forgent Power Solutions__PresidentAge__risk
+Forgent Power Solutions,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,2,Forgent Power Solutions__yearDifference__risk
+Forgent Power Solutions,CEOAge,risk,52.0,54.7803,-0.3628,-0.005382,34,3,Forgent Power Solutions__CEOAge__risk
+K2 Space,Market3MonthTrend,risk,-2.0,0.5402,-2.064,-0.044124,16,1,K2 Space__Market3MonthTrend__risk
+K2 Space,Market6MonthTrend,risk,-1.5,0.7271,-1.8759,-0.044043,11,2,K2 Space__Market6MonthTrend__risk
+K2 Space,MarketYearTrend,risk,-1.2,0.9348,-1.8598,-0.040835,15,3,K2 Space__MarketYearTrend__risk
+Kraken,PresidentAge,risk,40.0,53.5274,-1.833,-0.027506,32,1,Kraken__PresidentAge__risk
+Kraken,CEOAge,risk,43.0,54.7803,-1.5374,-0.022806,34,2,Kraken__CEOAge__risk
+Kraken,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,3,Kraken__yearDifference__risk
+Lime,Market3MonthTrend,risk,-1.2,0.5402,-1.414,-0.030228,16,1,Lime__Market3MonthTrend__risk
+Lime,Market6MonthTrend,risk,-0.8,0.7271,-1.2863,-0.0302,11,2,Lime__Market6MonthTrend__risk
+Lime,PresidentAge,risk,40.0,53.5274,-1.833,-0.027506,32,3,Lime__PresidentAge__risk
+Medline Technologies,PresidentAge,risk,49.0,53.5274,-0.6135,-0.009206,32,1,Medline Technologies__PresidentAge__risk
+Medline Technologies,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,2,Medline Technologies__yearDifference__risk
+Medline Technologies,CEOAge,risk,52.0,54.7803,-0.3628,-0.005382,34,3,Medline Technologies__CEOAge__risk
+Motive,PresidentAge,risk,35.0,53.5274,-2.5105,-0.037673,32,1,Motive__PresidentAge__risk
+Motive,CEOAge,risk,37.0,54.7803,-2.3205,-0.034422,34,2,Motive__CEOAge__risk
+Motive,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,3,Motive__yearDifference__risk
+NovaBio Therapeutics,PresidentAge,risk,46.0,53.5274,-1.02,-0.015306,32,1,NovaBio Therapeutics__PresidentAge__risk
+NovaBio Therapeutics,CEOAge,risk,48.0,54.7803,-0.8849,-0.013126,34,2,NovaBio Therapeutics__CEOAge__risk
+NovaBio Therapeutics,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,3,NovaBio Therapeutics__yearDifference__risk
+OpenAI,PresidentAge,risk,39.0,53.5274,-1.9685,-0.02954,32,1,OpenAI__PresidentAge__risk
+OpenAI,CEOAge,risk,41.0,54.7803,-1.7984,-0.026678,34,2,OpenAI__CEOAge__risk
+OpenAI,Market6MonthTrend,risk,-0.2,0.7271,-0.7809,-0.018334,11,3,OpenAI__Market6MonthTrend__risk
+Quantinuum,Market3MonthTrend,risk,-1.8,0.5402,-1.9015,-0.04065,16,1,Quantinuum__Market3MonthTrend__risk
+Quantinuum,Market6MonthTrend,risk,-1.3,0.7271,-1.7075,-0.040088,11,2,Quantinuum__Market6MonthTrend__risk
+Quantinuum,MarketYearTrend,risk,-1.0,0.9348,-1.6856,-0.03701,15,3,Quantinuum__MarketYearTrend__risk
+Shein,PresidentAge,risk,40.0,53.5274,-1.833,-0.027506,32,1,Shein__PresidentAge__risk
+Shein,CEOAge,risk,42.0,54.7803,-1.6679,-0.024742,34,2,Shein__CEOAge__risk
+Shein,Market6MonthTrend,risk,0.3,0.7271,-0.3597,-0.008446,11,3,Shein__Market6MonthTrend__risk
+SpaceX,PresidentAge,risk,43.0,53.5274,-1.4265,-0.021406,32,1,SpaceX__PresidentAge__risk
+SpaceX,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,2,SpaceX__yearDifference__risk
+SpaceX,revenuePerEmployee,risk,1153846.15,3.59388906807E8,-0.1131,-0.001949,26,3,SpaceX__revenuePerEmployee__risk
+Strava,Market3MonthTrend,risk,-0.7,0.5402,-1.0077,-0.021543,16,1,Strava__Market3MonthTrend__risk
+Strava,Market6MonthTrend,risk,-0.3,0.7271,-0.8651,-0.020312,11,2,Strava__Market6MonthTrend__risk
+Strava,MarketYearTrend,risk,-0.1,0.9348,-0.9015,-0.019794,15,3,Strava__MarketYearTrend__risk
+Stripe,PresidentAge,risk,34.0,53.5274,-2.646,-0.039707,32,1,Stripe__PresidentAge__risk
+Stripe,CEOAge,risk,36.0,54.7803,-2.451,-0.036358,34,2,Stripe__CEOAge__risk
+Stripe,yearDifference,risk,2.0,14.0987,-0.4552,-0.006754,33,3,Stripe__yearDifference__risk
+TerraGrid Energy,PresidentAge,risk,47.0,53.5274,-0.8845,-0.013273,32,1,TerraGrid Energy__PresidentAge__risk
+TerraGrid Energy,CEOAge,risk,50.0,54.7803,-0.6239,-0.009254,34,2,TerraGrid Energy__CEOAge__risk
+TerraGrid Energy,yearDifference,risk,0.0,14.0987,-0.5304,-0.007871,33,3,TerraGrid Energy__yearDifference__risk

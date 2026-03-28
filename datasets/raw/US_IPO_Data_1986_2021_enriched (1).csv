@@ -1,0 +1,1322 @@
+﻿company,state,ticker,exchange,profit_MUSD,debt_MUSD,assets_MUSD,ipo_date,ipo_fees_MUSD,ipo_price_USDshare,ipo_amount_MUSD,industry,is_synthetic
+Microsoft Corp,Washington,MSFT,Nasdaq,46.3,1.9,65.1,1986-02-03,7.071,21.0,58.695,IT,0
+Watson Pharmaceuticals Inc,New Jersey,WPI,Nasdaq,8.1,2.1,31.3,1992-03-06,9.25,12.0,43.2,Chemical,0
+Citrix Systems Inc,Florida,CTXS,Nasdaq,0.3,0.1,3.9,1995-10-24,9.551,15.0,37.5,IT,0
+Pharmaceutical Product Development Inc,North Carolina,PPDI,Nasdaq,0.0,1.4,27.5,1995-11-03,9.507,18.0,36.0,Agriculture,0
+Conceptus Inc,California,CPTS,Nasdaq,-5.6,0.0,6.1,1995-11-30,8.656,14.0,42.0,Health,0
+FBL Financial Group Inc,Iowa,FFG,New York,0.0,24.6,3090.9,1996-05-02,7.932,17.5,70.0,Finance,0
+Kilroy Realty Corp,California,KRC,New York,27.9,270.4,128.3,1996-11-05,7.591,23.0,287.5,Finance,0
+Golf Trust of America Inc,South Carolina,GTA,American,11.5,4.3,86.7,1996-11-12,11.205,21.0,71.4,Finance,0
+CIENA Corp,Maryland,CIEN,Nasdaq,18.3,0.0,67.4,1996-12-12,7.854,23.0,112.166078,IT,0
+Radiant Systems Inc,Georgia,RADS,Nasdaq,-1.2,4.1,14.6,1996-12-12,8.578,9.5,27.55,IT,0
+Oyo Geospace Corp,Texas,OYOG,Nasdaq,12.7,1.0,35.1,1997-09-30,8.553,14.0,28.0,Machinery,0
+Tier Technologies Inc,Virginia,TIER,Nasdaq,1.7,0.2,13.1,1997-10-10,11.229,8.5,28.9,IT,0
+Tag-It Pacific Inc,California,TAG,American,1.1,0.0,5.4,1997-10-21,21.688,4.0,6.72,Machinery,0
+VeriSign Inc,Virginia,VRSN,Nasdaq,-18.1,0.0,25.1,1997-11-21,9.07,14.0,42.0,IT,0
+Midwest Banc Holdings Inc,Illinois,MBHI,Nasdaq,18.4,67.2,906.8,1997-12-19,9.108,15.0,16.5,Finance,0
+SurModics Inc,Minnesota,SRDX,Nasdaq,0.0,0.0,6.5,1997-12-24,9.529,7.5,15.0,Health,0
+Ladish Co Inc,Wisconsin,LDSH,Nasdaq,33.8,3.0,165.5,1997-12-23,7.105,13.5,86.2036965,Metal,0
+Columbia Sportswear Co,Oregon,COLM,Nasdaq,51.8,2.8,174.5,1997-12-24,7.509,18.0,100.8,Clothes,0
+Omega Protein Corp,Texas,OME,New York,0.0,11.4,136.3,1998-01-27,7.07,16.0,136.0,Agriculture,0
+American Dental Partners Inc,Massachusetts,ADPI,Nasdaq,0.0,8.0,58.4,1997-11-12,10.919,15.0,33.21,Health,0
+Broadcom Corp,California,BRCM,Nasdaq,0.0,0.0,73.1,1998-02-05,8.369,24.0,84.0,Machinery,0
+LaSalle Hotel Properties,Maryland,LHO,New York,17.0,206.4,217.9,1998-02-05,8.402,18.0,255.6,Finance,0
+Sauer Inc,Iowa,SHS,New York,0.0,67.9,412.5,1998-03-20,8.314,18.0,76.5,Machinery,0
+Hawk Corp,Ohio,HWK,New York,0.0,100.1,180.8,1997-11-19,8.145,17.0,87.295,Machinery,0
+Federated Investors Inc,Pennsylvania,FII,New York,0.0,332.9,388.9,1998-03-20,6.329,19.0,333.587294,Finance,0
+L-3 Communications Holdings Inc,New York,LLL,New York,90.8,405.0,679.2,1998-02-27,8.028,22.0,132.0,Machinery,0
+MicroStrategy Inc,Virginia,MSTR,Nasdaq,0.0,0.0,30.6,1998-04-10,8.63,12.0,48.0,IT,0
+Global Imaging Systems Inc,Florida,GISX,Nasdaq,22.3,65.8,164.0,,9.646,12.0,72.0,Furniture,0
+King Pharmaceuticals Inc,Tennessee,KG,Nasdaq,0.0,177.7,269.4,1997-10-24,9.213,14.0,87.5,Chemical,0
+Republic Services Inc,Florida,RSG,New York,0.0,102.2,1582.0,1998-05-13,5.494,24.0,1320.0,Oil,0
+USEC Inc,Maryland,USU,New York,162.4,334.5,2338.2,1998-06-29,3.342,14.25,1425.0,Chemical,0
+Enterprise Products Partners LP,Texas,EPD,New York,0.0,75.0,714.6,1998-05-13,7.197,22.0,264.0,Oil,0
+"Prosperity Bancshares Inc, Houston,Texas",Texas,PRSP,Nasdaq,0.0,0.0,336.4,1998-09-11,8.477,12.0,20.601396,Finance,0
+Plains All American Pipeline LP,Texas,PAA,New York,9.1,175.0,149.6,1998-09-23,7.646,20.0,261.7,Oil,0
+Internet America Inc,Texas,GEEK,Nasdaq,0.0,0.0,3.0,,8.309,13.0,29.9,IT,0
+Concur Technologies Inc,Washington,CNQR,Nasdaq,-17.0,7.0,25.0,1998-08-26,9.02,12.5,38.75,IT,0
+MetroCorp Bancshares Inc,Texas,MCBI,Nasdaq,7.7,25.0,503.4,,9.821,11.0,14.85,Finance,0
+Bottomline Technologies Inc,New Hampshire,EPAY,Nasdaq,3.7,0.0,11.3,1998-11-13,9.77,13.0,44.2,IT,0
+Trex Co Inc,Virginia,TWP,New York,0.0,4.5,60.8,1998-09-11,9.756,10.0,41.03,Chemical,0
+Immtech International Inc,Illinois,IMM,Nasdaq,-3.1,0.0,0.6,1998-09-28,15.407,10.0,10.0,Chemical,0
+Wesco International Inc,Pennsylvania,WCC,New York,61.4,476.5,994.9,1999-03-03,5.475,18.0,175.05,Energy,0
+F5 Networks Inc,Washington,FFIV,Nasdaq,-3.3,0.0,9.4,1999-04-07,9.464,10.0,30.0,IT,0
+SBA Communications Corp,Florida,SBAC,Nasdaq,-3.7,210.7,231.8,1999-04-19,8.112,9.0,79.415001,Communications,0
+United Therapeutics Corp,Maryland,UTHR,Nasdaq,0.0,0.7,17.8,1999-04-16,8.852,12.0,54.0,Chemical,0
+Team Financial Inc,Kansas,TFIN,Nasdaq,0.0,19.0,434.7,1999-04-13,10.111,11.25,11.25,Finance,0
+Implant Sciences Corp,Massachusetts,IMX,American,0.0,0.6,3.0,1998-09-29,3.942,7.5,7.5,Machinery,0
+Financial Institutions Inc,New York,FISI,Nasdaq,0.0,13.4,990.5,1999-04-23,9.329,14.0,18.666662,Finance,0
+PrivateBancorp Inc,Illinois,PVTB,Nasdaq,0.0,0.0,439.1,1999-04-27,11.026,18.0,16.2,Finance,0
+Packeteer Inc,California,PKTR,Nasdaq,0.0,0.0,12.2,1999-05-21,8.522,15.0,60.0,IT,0
+Fairchild Semiconductor International Inc,Maine,FCS,New York,0.0,717.2,598.2,1999-05-14,6.658,18.5,370.0,Machinery,0
+Alliance Resource Partners LP,Oklahoma,ARLP,Nasdaq,0.0,230.0,261.7,1999-05-20,8.576,19.0,147.25,Mining,0
+QuickLogic Corp,California,QUIK,Nasdaq,0.0,0.1,19.3,1997-06-09,8.304,10.0,66.67,Machinery,0
+Collectors Universe Inc,California,CLCT,Nasdaq,0.0,0.0,15.7,1999-09-02,9.916,6.0,24.0,Consulting,0
+SonicWALL Inc,California,SNWL,Nasdaq,0.0,0.0,15.4,1999-08-27,8.9,14.0,56.0,IT,0
+Tier Technologies Inc,Virginia,TIER,Nasdaq,6.0,1.7,85.7,1999-09-17,9.435,15.0,75.0,IT,0
+NATCO Group Inc,Texas,NTG,New York,11.2,2.3,106.2,1998-03-30,7.928,10.0,75.0,Oil,0
+Selectica Inc,California,SLTCD,Nasdaq,0.0,0.0,27.1,1999-12-10,8.087,30.0,120.0,IT,0
+Allos Therapeutics Inc,Colorado,,Nasdaq,0.0,0.1,93.0,2000-01-26,8.111,18.0,90.0,Chemical,0
+GoAmerica Inc,New Jersey,GOAM,Nasdaq,0.0,0.0,28.8,2000-01-18,7.875,16.0,160.0,Communications,0
+Pixelworks Inc,California,PXLW,Nasdaq,0.0,0.0,44.6,2000-02-25,8.089,10.0,57.5,Machinery,0
+Community Health Systems Inc,Tennessee,CYH,New York,0.0,1296.4,1937.7,2000-03-06,0.379,13.0,243.75,Health,0
+"Pacific Mercantile Bancorp, Costa Mesa,California",California,PMBC,Nasdaq,0.0,0.0,119.2,2000-03-28,10.781,8.0,20.0,Finance,0
+Dendreon Corp,Washington,DNDN,Nasdaq,0.0,2.3,19.0,2000-03-08,10.333,10.0,45.0,Chemical,0
+Charles River Laboratories International Inc,Massachusetts,CRL,New York,0.0,393.4,301.0,2000-04-25,7.582,16.0,224.0,Chemical,0
+Arena Pharmaceuticals Inc,California,ARNA,Nasdaq,0.0,1.1,36.0,2000-04-28,7.966,18.0,108.0,Chemical,0
+Lantronix Inc,California,LTRX,Nasdaq,0.0,0.1,20.4,2000-05-19,9.905,10.0,60.0,Energy,0
+TeleCommunication Systems Inc,Maryland,TSYS,Nasdaq,0.0,1.3,91.2,2000-04-25,8.415,17.0,79.9,IT,0
+AtheroGenics Inc,Georgia,AGIX,Nasdaq,0.0,0.1,12.2,2000-02-25,9.536,8.0,48.0,Chemical,0
+American Medical Systems Holdings Inc,Minnesota,AMMD,Nasdaq,0.0,40.0,176.9,2000-05-19,8.265,11.0,68.75,Health,0
+Dyax Corp,Massachusetts,DYAX,Nasdaq,0.0,1.7,30.5,2000-05-19,8.598,15.0,58.779135,Chemical,0
+PECO II Inc,Ohio,PIII,Nasdaq,0.0,5.0,78.0,2000-05-22,8.391,15.0,75.0,Machinery,0
+EDEN Bioscience Corp,Washington,EDEN,Nasdaq,0.0,0.3,11.7,2000-07-07,7.275,15.0,87.0,Chemical,0
+DURECT Corp,California,DRRX,Nasdaq,0.0,0.9,45.3,2000-04-20,8.299,12.0,84.0,Chemical,0
+Hydril Co LP,Texas,HYDL,Nasdaq,0.0,61.5,205.1,2000-06-09,7.958,17.0,127.5,Oil,0
+Evergreen Solar Inc,Massachusetts,ESLR,Nasdaq,0.0,0.0,56.9,2000-08-04,9.5,14.0,42.0,Machinery,0
+Adolor Corp,Pennsylvania,ADLR,Nasdaq,-10.4,0.2,90.3,2000-02-08,8.766,15.0,90.0,Agriculture,0
+Beacon Power Corp,Massachusetts,BCON,Nasdaq,0.0,0.1,24.2,2000-08-09,9.13,6.0,48.0,Engineering,0
+Peet's Coffee & Tea Inc,California,PEET,Nasdaq,4.2,1.4,47.4,2000-10-13,12.939,8.0,26.4,Food,0
+Investors Capital Holdings Ltd,Massachusetts,ICH,American,0.0,0.0,5.1,2000-08-14,20.0,8.0,8.0,Finance,0
+Seattle Genetics Inc,Washington,SGEN,Nasdaq,-7.7,0.0,76.7,2000-11-20,9.653,7.0,49.0,Agriculture,0
+Encore Acquisition Co,Texas,EAC,New York,45.3,52.1,343.8,2000-10-06,8.379,14.0,100.1,Oil,0
+Alliance Data Systems Corp,Texas,ADS,New York,0.0,204.5,1304.8,2000-01-13,8.717,12.0,156.0,Consulting,0
+The Princeton Review Inc,Massachusetts,REVU,Nasdaq,0.0,5.6,61.6,2000-08-15,11.882,11.0,59.4,Services,0
+Natus Medical Inc,California,BABY,Nasdaq,0.0,0.0,12.3,2000-08-18,10.545,11.0,55.0,Energy,0
+MedCath Corp,North Carolina,MDTH,Nasdaq,0.0,210.7,453.8,2001-05-04,7.109,25.0,150.0,Health,0
+Inergy LP,Missouri,NRGY,Nasdaq,0.0,43.7,146.8,2001-03-14,13.423,22.0,35.2,Retail,0
+Omnicell Inc,California,OMCL,Nasdaq,0.0,0.0,52.0,2001-03-14,10.313,7.0,42.0,IT,0
+Penn Virginia Resource Partners LP,Pennsylvania,PVR,New York,0.0,43.4,188.7,2001-07-19,9.231,21.0,136.5,Mining,0
+Northwest Biotherapeutics Inc,Maryland,NWBO,Nasdaq,0.0,0.1,9.3,2001-08-13,13.5,5.0,20.0,Agriculture,0
+Synaptics Inc,California,SYNA,Nasdaq,0.0,1.9,33.1,2001-02-22,9.53,11.0,55.0,IT,0
+ZymoGenetics Inc,Washington,ZGEN,Nasdaq,-31.6,0.0,326.1,2001-09-10,9.135,12.0,107.28,Agriculture,0
+Sunoco Logistics Partners LP,Pennsylvania,SXL,New York,78.7,252.3,949.4,2001-10-19,11.813,20.25,101.25,Oil,0
+ManTech International Corp,Virginia,MANT,Nasdaq,36.1,26.1,238.1,2001-11-23,8.649,16.0,115.2,IT,0
+Asbury Automotive Group Inc,Georgia,ABG,New York,158.3,429.7,1461.0,2001-07-27,10.179,16.5,127.05,Services,0
+Regal Entertainment Group,Tennessee,RGC,New York,0.0,710.8,2239.9,2002-03-11,7.615,19.0,342.0,Media,0
+Kirkland's Inc,Tennessee,KIRK,Nasdaq,0.0,12.2,90.3,2002-04-23,8.467,15.0,90.0,Retail,0
+Dick's Sporting Goods Inc,Pennsylvania,DKS,New York,69.4,102.0,377.8,2002-07-17,7.002,12.0,87.47178,Retail,0
+Wynn Resorts Ltd,Nevada,WYNN,Nasdaq,0.0,382.2,578.8,2002-06-17,4.377,13.0,449.995,Services,0
+Portfolio Recovery Associates Inc,Virginia,PRAA,Nasdaq,0.0,0.9,65.5,2002-09-06,8.183,13.0,50.7,Finance,0
+Crosstex Energy LP,Texas,XTEX,Nasdaq,4.4,47.5,168.4,2002-08-07,12.435,20.0,40.0,Oil,0
+Maguire Properties Inc,California,MPG,New York,0.0,1031.4,675.9,2002-11-12,8.76,19.0,693.69,Finance,0
+Molina Healthcare Inc,California,MOH,New York,0.0,0.0,244.1,2002-12-30,9.033,17.5,115.5,Health,0
+Texas Capital Bancshares Inc,Texas,TCBI,Nasdaq,8.8,20.0,2003.2,2002-08-09,7.642,11.0,66.0,Finance,0
+Ashford Hospitality Trust Inc,Texas,AHT,New York,0.0,16.5,92.7,2003-05-15,8.358,9.0,202.5,Finance,0
+National Financial Partners Corp,New York,NFP,New York,51.7,0.0,595.4,2003-05-09,8.4,23.0,208.540494,Finance,0
+SigmaTel Inc,Texas,SGTL,Nasdaq,0.0,0.1,29.1,2003-07-03,8.007,15.0,150.0,Machinery,0
+AMIS Holdings Inc,Idaho,AMIS,Nasdaq,0.0,253.8,475.6,2003-08-15,6.333,20.0,600.0,Machinery,0
+Journal Communications Inc,Wisconsin,JRN,New York,150.0,0.0,742.9,2003-05-14,8.075,15.0,258.75,Media,0
+RedEnvelope Inc,California,REDE,Nasdaq,-4.5,0.0,48.8,2003-06-13,9.896,14.0,30.8,Retail,0
+LKQ Corp,Illinois,LKQ,Nasdaq,0.0,2.4,174.7,2003-07-28,8.66,13.0,91.0,Machinery,0
+First Potomac Realty Trust,Maryland,FPO,New York,0.0,126.5,126.0,2003-07-18,8.778,15.0,112.5,Finance,0
+Quality Distribution Inc,Florida,QLTY,Nasdaq,63.5,272.8,379.1,2003-08-29,8.643,17.0,119.0,Transport,0
+Tessera Technologies Inc,California,TSRA,Nasdaq,0.0,0.0,31.6,2003-09-04,9.051,13.0,97.5,Machinery,0
+Whiting Petroleum Corp,Colorado,WLL,New York,0.0,188.0,502.5,2003-07-25,7.383,15.5,232.5,Oil,0
+Buffalo Wild Wings Inc,Minnesota,BWLD,Nasdaq,13.4,0.0,54.3,2003-09-11,8.765,17.0,51.0,Restaurant,0
+American Equity Investment Life Holding Co,Iowa,AEL,New York,0.0,148.3,6580.3,2003-09-15,7.902,9.0,168.3,Finance,0
+Knology Inc,Georgia,KNOL,Nasdaq,121.8,270.3,417.6,2003-10-01,10.575,9.0,54.0,IT,0
+Crosstex Energy Inc,Texas,XTXI,Nasdaq,45.4,62.7,375.8,2003-10-30,9.362,19.5,44.967,Oil,0
+The Bank Holdings,Nevada,TBHS,Nasdaq,0.0,0.0,166.1,2003-12-17,9.256,11.0,14.85,Finance,0
+Dynavax Technologies Corp,California,DVAX,Nasdaq,0.0,0.0,91.5,2003-10-24,9.979,7.5,45.0,Chemical,0
+TNS Inc,Virginia,TNS,New York,57.0,67.0,342.9,2003-11-03,10.017,18.0,79.56,Consulting,0
+Hornbeck Offshore Services Inc,Louisiana,HOS,New York,54.2,172.8,365.2,2003-09-19,8.381,13.0,78.0,Transport,0
+Memory Pharmaceuticals Corp,New Jersey,MEMY,Nasdaq,-26.3,2.4,37.7,2003-12-23,11.969,7.0,35.0,Agriculture,0
+Corcept Therapeutics Inc,California,CORT,Nasdaq,-9.5,0.0,10.5,2004-02-10,9.037,12.0,54.0,Chemical,0
+ProCentury Corp,Ohio,PROS,Nasdaq,0.0,25.0,347.1,2003-12-18,8.07,10.5,93.45,Finance,0
+SiRF Technology Holdings Inc,California,SIRF,Nasdaq,0.0,2.4,93.5,2004-02-10,8.449,12.0,132.0,Machinery,0
+Greenhill & Co Inc,New York,GHL,New York,86.9,0.0,39.3,2004-03-11,11.472,17.5,87.5,Finance,0
+NuVasive Inc,California,NUVA,Nasdaq,0.0,0.0,20.8,2004-03-05,9.245,11.0,71.5,Health,0
+Blue Nile Inc,Washington,NILE,Nasdaq,0.0,0.0,38.6,2004-03-11,9.268,20.5,76.67,IT,0
+Acadia Pharmaceuticals Inc,California,ACAD,Nasdaq,-15.2,0.9,27.4,2004-02-27,10.714,7.0,35.0,Chemical,0
+Republic Airways Holdings Inc,Indiana,RJET,Nasdaq,0.0,482.4,678.4,2002-03-11,10.344,13.0,65.0,Transport,0
+Alnylam Pharmaceuticals Inc,Massachusetts,ALNY,Nasdaq,0.0,5.7,39.3,2004-02-27,12.507,6.0,30.0,Agriculture,0
+CB Richard Ellis Group Inc,California,CBG,New York,121.9,752.4,1893.9,2004-02-17,6.5,19.0,456.0,Finance,0
+Jackson Hewitt Tax Service Inc,New Jersey,JTX,New York,72.4,175.0,582.0,2004-03-15,6.284,17.0,637.5,Finance,0
+Senomyx Inc,California,SNMX,Nasdaq,-17.2,0.0,18.7,2004-03-29,10.669,6.0,36.0,Chemical,0
+Color Kinetics Inc,Massachusetts,CLRK,Nasdaq,0.1,0.0,67.0,2004-04-09,11.313,10.0,40.0,Machinery,0
+Salesforce.com Inc,California,CRM,New York,0.0,1.0,94.7,2003-12-18,10.162,11.0,110.0,IT,0
+Holly Energy Partners LP,Texas,HEP,New York,0.0,25.0,154.7,2004-03-15,8.533,22.25,135.725,Oil,0
+NetLogic Microsystems Inc,California,NETL,Nasdaq,0.0,0.0,39.1,2004-04-16,10.975,12.0,69.3,Machinery,0
+Idenix Pharmaceuticals Inc,Massachusetts,IDIX,Nasdaq,0.0,0.0,76.8,2003-12-15,9.309,14.0,81.2,Chemical,0
+Bucyrus International Inc,Wisconsin,BUCY,Nasdaq,36.1,98.8,345.5,2004-04-08,8.348,18.0,193.5,Machinery,0
+Lumera Corp,Washington,LMRA,Nasdaq,0.0,0.0,39.8,2004-05-19,8.751,6.95,41.7,Chemical,0
+NeuroMetrix Inc,Massachusetts,NURO,Nasdaq,0.0,0.0,18.4,2004-05-13,12.797,8.0,24.0,Health,0
+Auxilium Pharmaceuticals Inc,Pennsylvania,AUXL,Nasdaq,0.0,0.3,35.3,2004-04-21,11.218,7.5,41.25,Chemical,0
+MannKind Corp,California,MNKD,Nasdaq,0.0,0.0,112.2,2004-04-30,8.961,14.0,87.5,Chemical,0
+EnerSys Inc,Pennsylvania,ENS,New York,0.0,362.6,1129.2,2004-05-17,10.2,12.5,156.25,Energy,0
+Commercial Vehicle Group Inc,Ohio,CVGI,Nasdaq,0.0,71.3,210.8,2004-05-21,8.246,13.0,120.25,Machinery,0
+BioMed Realty Trust Inc,California,BMR,New York,0.0,54.5,53.2,2004-05-05,7.864,15.0,405.0,Finance,0
+WPT Enterprises Inc,California,WPTE,Nasdaq,0.0,0.0,2.5,2004-04-15,9.582,8.0,32.0,Media,0
+Extra Space Storage Inc,Utah,EXR,New York,0.0,391.6,584.5,2004-05-12,8.041,12.5,252.5,Finance,0
+Cohen & Steers Inc,New York,CNS,New York,0.0,1.7,44.0,2004-03-30,11.103,13.0,97.5,Finance,0
+Google Inc,California,GOOG,Nasdaq,571.4,0.1,1328.0,2004-04-29,3.055,85.0,1666.42942,IT,0
+StoneMor Partners LP,Pennsylvania,STON,Nasdaq,0.0,80.0,480.7,2004-04-09,17.947,20.5,75.3375,Services,0
+PeopleSupport Inc,California,PSPT,Nasdaq,0.0,0.0,33.2,2004-05-10,12.968,7.0,47.727274,IT,0
+Texas Roadhouse Inc,Kentucky,TXRH,Nasdaq,49.2,13.5,175.5,2004-05-07,7.818,17.5,159.39714,Restaurant,0
+Thomas Properties Group Inc,California,TPGI,Nasdaq,0.0,295.9,330.0,2004-04-16,10.325,12.0,171.428568,Finance,0
+Huron Consulting Group Inc,Illinois,HURN,Nasdaq,0.0,0.0,52.9,2004-05-12,11.151,15.5,77.5,Consulting,0
+Sunstone Hotel Investors Inc,California,SHO,New York,96.9,667.5,1359.6,2004-07-02,7.511,17.0,358.7,Services,0
+U-Store-It Trust,Ohio,YSI,New York,0.0,378.2,536.4,2004-08-02,7.989,16.0,400.0,Finance,0
+Digital Realty Trust Inc,California,DLR,New York,0.0,503.8,822.2,2004-08-02,10.451,12.0,240.0,Finance,0
+US Shipping Partners LP,New Jersey,,New York,0.0,98.1,253.5,2004-08-12,8.644,22.25,133.5,Transport,0
+MarketAxess Holdings Inc,New York,MKTX,Nasdaq,17.6,0.0,72.3,2004-02-11,13.482,11.0,55.0,Finance,0
+Copano Energy LLC,Texas,CPNO,Nasdaq,0.0,57.0,139.9,2004-07-30,7.783,20.0,100.0,Oil,0
+Nalco Holding Co,Illinois,NLC,New York,373.3,3424.8,5828.1,2004-08-26,5.891,15.0,666.66666,Transport,0
+Ormat Technologies Inc,Nevada,ORA,New York,85.2,517.6,774.0,2004-07-20,9.902,15.0,93.75,Energy,0
+Specialty Underwriters Alliance Inc,Illinois,SUAI,Nasdaq,0.0,0.0,2.9,2004-07-28,8.203,9.5,120.65,Finance,0
+Orange 21 Inc,California,ORNG,Nasdaq,3.5,0.2,26.4,2004-09-15,9.464,8.75,30.45,Retail,0
+Comstock Homebuilding Cos Inc,Virginia,CHCI,Nasdaq,0.0,45.7,117.8,2004-08-13,10.72,16.0,63.36,Services,0
+Spirit Finance Corp,Arizona,SFC,New York,0.0,178.4,527.8,2004-10-19,7.768,11.0,286.956527,Finance,0
+Arbinet-thexchange Inc,Virginia,ARBX,Nasdaq,13.8,1.7,70.1,2004-07-09,8.521,17.5,114.3695875,IT,0
+Warren Resources Inc,New York,WRES,Nasdaq,-0.6,32.4,154.8,2004-08-25,8.22,7.5,71.25,Oil,0
+Celanese Corp,Texas,CE,New York,412.0,3300.0,7368.0,2004-11-03,5.375,16.0,800.0,Chemical,0
+Education Realty Trust Inc,Tennessee,EDR,New York,8.7,288.2,88.9,2004-09-24,7.795,16.0,304.0,Finance,0
+W&T Offshore Inc,Texas,WTI,New York,396.4,0.0,760.8,2004-05-03,7.54,19.0,240.449997,Oil,0
+Icagen Inc,North Carolina,ICGN,Nasdaq,-15.3,0.7,76.3,2004-04-08,13.483,8.0,40.0,Chemical,0
+Threshold Pharmaceuticals Inc,California,THLD,Nasdaq,-23.4,0.3,32.2,2004-04-09,10.272,7.0,37.333331,Agriculture,0
+Syniverse Holdings Inc,Florida,SVR,New York,118.7,394.3,777.2,2004-11-12,7.101,16.0,281.92,IT,0
+Odimo Inc,Florida,ODMO,Nasdaq,-9.1,0.0,57.9,2004-07-16,16.778,9.0,28.125,IT,0
+Veri-Tek International Corp,Michigan,VCC,American,-3.5,0.0,9.9,2004-09-03,10.478,6.0,15.0,Machinery,0
+BofI Holding Inc,California,BOFI,Nasdaq,0.0,126.7,512.6,2004-12-16,10.046,11.5,35.100001,Finance,0
+Morningstar Inc,Illinois,MORN,Nasdaq,0.0,0.0,190.7,2004-05-06,3.775,18.5,140.83125,Finance,0
+DiamondRock Hospitality Co,Maryland,DRH,New York,0.0,159.3,431.8,2005-03-01,7.657,10.5,273.9135,Finance,0
+LHC Group Inc,Louisiana,LHCG,Nasdaq,24.4,1.4,56.4,2004-11-24,10.604,14.0,67.2,Health,0
+Premium Standard Farms Inc,Missouri,PORK,Nasdaq,187.8,137.7,737.0,2005-03-11,8.068,12.5,123.03075,Machinery,0
+Builders FirstSource Inc,Texas,BLDR,Nasdaq,0.0,365.0,709.5,2005-02-14,7.71,16.0,196.0,Timber,0
+Lincoln Educational Services Corp,New Jersey,LINC,Nasdaq,0.0,10.6,153.9,2005-03-29,9.873,20.0,80.0,Services,0
+Kenexa Corp,Pennsylvania,KNXA,Nasdaq,6.3,0.2,48.3,2005-04-12,11.167,12.0,60.0,IT,0
+Volcom Inc,California,VLCM,Nasdaq,0.0,0.2,33.3,2005-04-29,8.562,19.0,89.0625,Clothes,0
+Consolidated Communications Holdings Inc,Illinois,CNSL,Nasdaq,0.0,560.0,959.7,2004-12-08,10.5,13.0,203.666658,IT,0
+ITC Holdings Corp,Michigan,ITC,New York,0.0,508.5,868.1,2005-03-29,1.865,23.0,287.5,Energy,0
+Pike Electric Corp,North Carolina,PIKE,New York,64.2,286.1,592.5,2005-04-18,8.955,14.0,189.0,Energy,0
+Alon USA Energy Inc,Texas,ALJ,New York,0.0,128.4,612.9,2005-05-11,8.066,16.0,163.2,Oil,0
+Superior Well Services Inc,Pennsylvania,SWSI,Nasdaq,0.0,1.3,75.4,2005-05-06,8.905,13.0,73.06,Oil,0
+Advanced Analogic Technologies Inc,California,AATI,Nasdaq,5.9,0.0,48.7,2005-04-04,8.477,10.0,106.0,Machinery,0
+MWI Veterinary Supply Inc,Idaho,MWIV,Nasdaq,17.2,0.4,173.4,2005-04-22,9.381,17.0,73.666678,Health,0
+Eschelon Telecom Inc,Minnesota,ESCH,Nasdaq,26.1,96.4,229.4,2005-05-06,9.933,14.0,75.000002,IT,0
+AtriCure Inc,Ohio,ATRC,Nasdaq,0.0,1.2,12.5,2005-04-20,11.982,12.0,48.0,Health,0
+Hoku Scientific Inc,Hawaii,HOKU,Nasdaq,0.0,0.0,11.4,2005-04-28,14.143,6.0,21.0,Energy,0
+Coley Pharmaceutical Group Inc,Massachusetts,COLY,Nasdaq,0.0,2.8,70.7,2005-04-20,8.527,16.0,96.0,Chemical,0
+"First Security Group Inc, Chattanooga,Tennessee",Tennessee,FSGI,Nasdaq,9.6,13.2,831.3,2005-06-10,8.778,10.0,45.0,Finance,0
+RBC Bearings Inc,Connecticut,ROLL,Nasdaq,0.0,168.3,247.1,2005-05-11,7.924,14.5,134.676,Machinery,0
+CF Industries Holdings Inc,Illinois,CF,New York,0.0,4.2,1453.9,2005-05-16,6.501,16.0,660.0,Chemical,0
+Bronco Drilling Co Inc,Oklahoma,BRNC,Nasdaq,13.0,36.3,118.9,2005-06-01,7.715,17.0,86.7,Oil,0
+Kona Grill Inc,Arizona,KONA,Nasdaq,1.8,3.5,23.2,2005-06-03,11.0,11.0,27.5,Restaurant,0
+Enterprise GP Holdings LP,Texas,EPE,New York,0.0,4788.8,11722.3,2005-04-26,6.879,28.0,352.8,Oil,0
+Ikanos Communications Inc,California,IKAN,Nasdaq,-6.5,1.2,110.9,2004-06-25,10.125,12.0,76.8,IT,0
+Global Cash Access Holdings Inc,Nevada,GCA,New York,99.1,0.0,248.4,2005-03-22,7.625,14.0,224.898198,Finance,0
+Sunesis Pharmaceuticals Inc,California,SNSS,Nasdaq,-23.0,1.4,31.9,2004-12-23,11.167,7.0,42.0,Chemical,0
+Global Partners LP,Massachusetts,GLP,New York,0.0,162.3,377.7,2005-05-10,9.429,22.0,107.8,Oil,0
+Taleo Corp,California,TLEO,Nasdaq,2.7,17.5,53.1,2004-03-31,10.625,14.0,93.8,IT,0
+Avalon Pharmaceuticals Inc,Maryland,AVRX,Nasdaq,0.0,0.0,24.4,2005-05-03,12.195,10.5,28.875,Agriculture,0
+American Commercial Lines LLC,Indiana,ACLI,Nasdaq,0.0,200.1,656.9,2005-07-19,8.446,21.0,173.25,Transport,0
+TAL International Group Inc,New York,TAL,New York,0.0,820.2,1353.8,2005-06-30,8.468,18.0,207.0,Machinery,0
+PokerTek Inc,North Carolina,PTEK,Nasdaq,0.0,0.0,2.3,2005-08-04,9.259,11.0,22.0,IT,0
+Cogdell Spencer Inc,North Carolina,CSA,New York,0.0,144.9,177.6,2005-08-10,9.915,17.0,98.6,Finance,0
+Hercules Offshore Inc,Texas,HERO,Nasdaq,0.0,93.3,266.1,2005-07-08,7.567,20.0,184.0,Oil,0
+Boardwalk Pipeline Partners LP,Texas,BWP,New York,236.9,1101.3,2438.4,2005-08-16,6.821,19.5,292.5,Oil,0
+iROBOT Corp,Massachusetts,,Nasdaq,1.8,0.0,119.4,2005-07-27,8.685,24.0,103.2,Machinery,0
+IHS Inc,Colorado,IHS,New York,79.3,0.0,743.0,2005-02-04,8.809,16.0,232.24,IT,0
+Dover Saddlery Inc,Massachusetts,DOVR,Nasdaq,0.0,8.3,30.7,2005-08-26,10.091,10.0,27.5,Transport,0
+Under Armour Inc,Maryland,UA,Nasdaq,38.1,4.6,144.8,2005-08-26,8.269,13.0,157.612,Clothes,0
+Brookdale Senior Living Inc,Tennessee,BKD,New York,0.0,754.2,1471.9,2005-08-09,9.316,19.0,210.368,Health,0
+Basic Energy Services Inc,Texas,BAS,New York,0.0,119.2,426.6,2005-08-12,7.091,20.0,250.0,Oil,0
+DealerTrack Holdings Inc,New York,TRAK,Nasdaq,0.0,0.4,138.0,2005-07-27,7.921,17.0,170.0,IT,0
+BCB Bancorp Inc,New Jersey,BCBP,Nasdaq,7.8,54.1,398.1,2005-09-09,9.401,15.25,16.775,Finance,0
+Somaxon Pharmaceuticals Inc,California,SOMX,Nasdaq,-13.6,0.0,108.4,2005-10-07,10.455,11.0,55.0,Chemical,0
+Emergency Medical Services Corp,Ohio,EMS,New York,121.8,495.5,996.9,2005-08-02,10.968,14.0,113.4,Transport,0
+Spansion Inc,California,SPSN,Nasdaq,0.0,526.1,2754.8,2005-04-13,6.811,12.0,506.4,Machinery,0
+LINN Energy LLC,Texas,LINE,Nasdaq,-41.9,158.8,279.5,2005-06-03,9.563,21.0,246.75,Oil,0
+Western Refining Inc,Texas,,New York,216.1,0.0,643.6,2005-09-27,7.161,17.0,382.5,Oil,0
+Calumet Specialty Products Partners LP,Indiana,CLMT,Nasdaq,0.0,64.1,399.7,2005-10-07,8.612,21.5,137.5460995,Oil,0
+Koppers Holdings Inc,Pennsylvania,KOP,New York,0.0,428.2,513.7,2005-09-12,2.339,14.0,140.0,Timber,0
+SGX Pharmaceuticals Inc,California,SGXP,Nasdaq,-23.8,0.0,33.3,2005-09-02,15.333,6.0,24.0,Agriculture,0
+HealthSpring Inc,Tennessee,HS,New York,66.9,0.0,591.8,2005-10-11,2.457,19.5,366.6,Health,0
+Smart Modular Technologies (WWH)Inc,California,SMOD,Nasdaq,0.0,125.0,334.9,2005-10-19,8.1,9.0,163.636362,Machinery,0
+Resource Capital Corp,New York,RSO,New York,54.0,1793.5,2045.5,2005-07-11,10.167,15.0,60.0,Finance,0
+Crocs Inc,Colorado,CROX,Nasdaq,30.2,1.1,76.9,2005-08-15,7.712,21.0,207.9,Clothes,0
+EXCO Resources Inc,Texas,XCO,New York,-91.9,569.6,2288.3,2005-11-23,5.531,13.0,650.0,Oil,0
+Morton's Restaurant Group Inc,Illinois,MRT,New York,24.7,51.9,282.6,2005-12-01,8.719,17.0,160.905,Restaurant,0
+NightHawk Radiology Holdings Inc,Idaho,NHWK,Nasdaq,-12.7,0.0,32.0,2005-10-05,8.709,16.0,100.8,Health,0
+Morgans Hotel Group Co,New York,MHGC,Nasdaq,81.6,457.6,606.3,2005-10-27,8.028,20.0,360.0,Services,0
+Alexza Pharmaceuticals Inc,California,ALXA,Nasdaq,-30.0,5.7,86.1,2005-12-22,11.348,8.0,44.0,Chemical,0
+Eagle Test Systems Inc,Illinois,EGLT,Nasdaq,0.0,0.5,77.1,2005-12-20,8.886,15.5,100.75,Machinery,0
+Clayton Holdings Inc,Connecticut,CLAY,Nasdaq,31.3,79.9,247.5,2005-11-07,10.451,17.0,127.5,Consulting,0
+Visicu Inc,Maryland,EICU,Nasdaq,0.0,0.0,38.2,2005-11-29,8.63,16.0,96.0,IT,0
+Castle Brands Inc,New York,ROX,American,-11.4,13.6,43.6,2005-09-29,14.54,9.0,31.5,Food,0
+Sealy Corp,North Carolina,ZZ,New York,228.3,796.1,908.5,2005-06-30,7.47,16.0,448.0,Furniture,0
+Complete Production Services Inc,Texas,CPX,New York,0.0,434.8,1059.7,2005-09-30,6.717,24.0,624.0,Oil,0
+CPI International Inc,California,CPII,Nasdaq,0.0,246.8,445.8,2005-12-23,8.574,18.0,127.05966,Energy,0
+Delek US Holdings Inc,Tennessee,DK,New York,0.0,211.4,621.8,2006-02-08,8.402,16.0,160.0,Oil,0
+DynCorp International LLC,Virginia,DCP,New York,148.7,629.3,1227.6,2005-09-28,7.6,15.0,375.0,Consulting,0
+BioMimetic Therapeutics Inc,Tennessee,BMTI,Nasdaq,0.0,0.0,47.7,2006-02-10,14.88,8.0,36.8,Health,0
+Mueller Water Products Inc,Georgia,MWA,New York,0.0,0.0,2964.8,2006-02-03,6.435,16.0,400.0,Machinery,0
+Town Sports International Holdings Inc,New York,CLUB,Nasdaq,87.0,275.0,419.3,2005-07-06,9.014,13.0,116.35,Services,0
+Alphatec Holdings Inc,California,ATEC,Nasdaq,0.0,3.3,115.7,2006-02-06,14.646,9.0,83.7,Health,0
+Luna Innovations Inc,Virginia,LUNA,Nasdaq,0.0,5.1,20.8,2006-02-10,14.143,6.0,21.0,Chemical,0
+Verasun Energy Corp,South Dakota,VSE,New York,0.0,208.8,413.5,2006-03-30,7.506,23.0,419.75,Chemical,0
+Houston Wire & Cable Co,Texas,HWCC,Nasdaq,0.0,0.0,87.9,2006-03-24,8.357,13.0,110.5,Energy,0
+"Home BancShares Inc,Conway, Arkansas",Arkansas,HOMB,Nasdaq,0.0,171.0,1961.5,2006-03-14,8.773,18.0,45.0,Finance,0
+PGT Inc,Florida,PGTI,Nasdaq,0.0,317.4,461.3,2006-03-10,7.69,14.0,123.529406,Metal,0
+Aventine Renewable Energy Holdings Inc,Illinois,AVR,New York,0.0,160.0,238.0,2006-03-30,5.642,43.0,389.51335,Chemical,0
+Ascent Solar Technologies Inc,Colorado,ASTI,Nasdaq,0.0,0.0,1.2,2006-01-23,15.243,5.5,16.5,Machinery,0
+Cowen Group Inc,New York,COWN,Nasdaq,0.0,0.0,789.9,2006-03-21,10.266,16.0,179.478272,Finance,0
+Cleveland Biolabs Inc,New York,CBLI,Nasdaq,0.0,0.1,2.4,2006-02-17,12.941,6.0,10.2,Agriculture,0
+Evercore Partners Inc,New York,EVR,New York,0.0,0.1,83.9,2006-05-12,14.233,21.0,82.95,Finance,0
+Home Diagnostics Inc,Florida,HDIX,Nasdaq,0.0,0.0,87.7,2006-05-01,8.757,12.0,79.193844,Health,0
+Riverbed Technology Inc,California,RVBD,Nasdaq,0.0,0.3,44.7,2006-04-20,9.948,9.75,85.8,IT,0
+CommVault Systems Inc,New Jersey,CVLT,Nasdaq,0.0,0.0,78.1,2006-03-17,8.349,14.5,161.1111095,IT,0
+DivX Inc,California,DIVX,Nasdaq,0.0,0.2,43.0,2006-05-05,8.672,16.0,145.6,IT,0
+Porter Bancorp Inc,Kentucky,PBIB,Nasdaq,0.0,82.0,1013.4,2006-04-11,9.285,24.0,37.2,Finance,0
+EV Energy Partners LP,Texas,EVEP,Nasdaq,0.0,10.4,85.7,2006-05-15,9.064,20.0,78.0,Oil,0
+ICF International Inc,Virginia,ICFI,Nasdaq,0.0,13.6,171.8,2006-05-11,10.926,12.0,56.04,Consulting,0
+Bare Escentuals Inc,California,BARE,Nasdaq,103.3,690.0,119.8,2006-06-30,7.527,22.0,352.0,Chemical,0
+Shutterfly Inc,California,SFLY,Nasdaq,0.0,1.9,54.6,2006-06-29,9.894,15.0,87.0,Chemical,0
+BreitBurn Energy Partners LP,California,BBEP,Nasdaq,0.0,2.0,366.6,2006-05-12,9.742,18.5,111.0,Oil,0
+Acme Packet Inc,Massachusetts,APKT,Nasdaq,0.0,0.0,55.3,2006-06-02,8.755,9.5,109.008016,IT,0
+eHealth Inc,California,EHTH,Nasdaq,0.0,0.0,23.0,2006-04-25,12.109,14.0,70.0,Finance,0
+First Mercury Financial Corp,Michigan,FMR,New York,0.0,46.4,443.1,2006-05-30,8.318,17.0,164.999994,Finance,0
+Stanley Inc,Virginia,SXE,New York,0.0,37.0,197.4,2006-05-12,9.973,13.0,81.9,IT,0
+Trubion Pharmaceuticals Inc,Washington,TRBN,Nasdaq,0.0,6.7,59.0,2006-06-02,10.679,13.0,52.0,Agriculture,0
+LeMaitre Vascular Inc,Massachusetts,LMAT,Nasdaq,1.8,0.0,27.6,2006-04-25,14.273,7.0,38.5,Health,0
+Douglas Emmett Inc,California,DEI,New York,0.0,2785.2,3062.2,2006-06-16,6.192,21.0,1386.0,Finance,0
+Cadence Pharmaceuticals Inc,California,CADX,Nasdaq,0.0,4.7,45.1,2006-07-17,9.899,9.0,54.0,Chemical,0
+Eagle Rock Energy Partners LP,Texas,EROC,Nasdaq,0.0,405.7,768.8,2006-06-06,7.631,19.0,237.5,Oil,0
+Achillion Pharmaceuticals Inc,Connecticut,ACHN,Nasdaq,0.0,5.3,19.4,2006-03-31,10.193,11.5,51.75,Chemical,0
+Southern National Bancorp of Virginia Inc,Virginia,SONA,Nasdaq,0.0,0.0,156.9,2006-08-04,4.7,14.0,25.004,Finance,0
+Debt Resolve Inc,New York,DRV,American,-12.3,0.0,0.7,2006-07-20,14.8,5.0,12.5,IT,0
+Innophos Holdings Inc,New Jersey,IPHS,Nasdaq,0.0,398.3,615.3,2006-07-19,9.875,12.0,104.347824,Chemical,0
+ORBCOMM Inc,New Jersey,ORBC,Nasdaq,0.0,0.9,76.4,2006-05-12,10.447,11.0,101.5388,Communications,0
+Catalyst Pharmaceutical Partners Inc,Florida,CPRX,Nasdaq,0.0,0.0,3.5,2006-07-25,11.975,6.0,20.1,Chemical,0
+KBW Inc,New York,KBW,New York,0.0,0.0,726.1,2006-08-11,8.522,21.0,142.8,Finance,0
+ACA Capital Holdings Inc,New York,ACAH,New York,0.0,2225.9,6049.3,2006-05-09,11.544,13.0,89.681033,Finance,0
+Capella Education Co,Minnesota,CPLA,Nasdaq,0.0,0.0,108.9,2005-04-18,10.776,20.0,80.0,IT,0
+Thermage Inc,California,THRM,Nasdaq,0.0,0.0,25.0,2006-08-10,12.343,7.0,42.0,Energy,0
+Metabolix Inc,Massachusetts,MBLX,Nasdaq,0.0,0.0,21.4,2006-07-14,9.101,14.0,95.2,Agriculture,0
+Emergent BioSolutions Inc,Maryland,EBS,New York,12.1,31.4,120.0,2006-08-14,12.52,12.5,62.5,Chemical,0
+Constellation Energy Partners LLC,Maryland,CEP,New York,16.1,22.0,201.7,2006-06-13,9.319,21.0,94.5,Oil,0
+Hansen Medical Inc,California,HNSN,Nasdaq,-21.4,3.3,21.5,2006-08-16,9.783,12.0,75.0,Health,0
+Hertz Global Holdings Inc,New Jersey,HTZ,New York,0.0,9766.2,19465.4,2006-07-14,4.779,15.0,1323.525,Transport,0
+First Solar Inc,Arizona,FSLR,Nasdaq,0.0,61.0,255.1,2006-06-30,7.159,20.0,400.0,Machinery,0
+NYMEX Holdings Inc,New York,NMX,New York,441.6,80.3,2952.1,2006-07-14,7.597,59.0,383.5,Finance,0
+Venoco Inc,Colorado,VQ,New York,152.9,529.6,889.2,2005-12-19,7.666,17.0,212.5,Oil,0
+Spirit AeroSystems Holdings Inc,Kansas,SPR,New York,0.0,594.3,2335.4,2006-06-30,5.546,26.0,1432.166684,Machinery,0
+Willdan Group Inc,California,WLDN,Nasdaq,0.0,0.4,37.8,2006-08-09,13.034,10.0,29.0,Engineering,0
+Netlist Inc,California,NLST,Nasdaq,7.6,1.2,42.0,2006-08-18,10.6,7.0,43.75,Machinery,0
+Allegiant Travel Co,Nevada,ALGT,Nasdaq,24.0,57.9,189.8,2006-05-15,8.353,18.0,90.0,Transport,0
+Guidance Software Inc,California,GUID,Nasdaq,0.0,0.5,26.6,2006-09-15,12.293,11.5,57.5,IT,0
+IPG Photonics Corp,Massachusetts,IPGP,Nasdaq,36.3,30.1,141.4,2006-08-11,8.405,16.5,148.5,Machinery,0
+MEDecision Inc,Pennsylvania,MEDE,Nasdaq,3.2,2.6,32.5,2006-08-11,15.085,10.0,47.0,IT,0
+Cal Dive International Inc,Texas,DVR,New York,0.0,181.7,405.4,2006-05-31,7.888,13.0,288.249,Oil,0
+Carrols Restaurant Group Inc,New York,TAST,Nasdaq,74.5,356.0,483.7,2006-09-22,8.948,13.0,130.0,Restaurant,0
+Universal Power Group Inc,Texas,UPG,American,3.3,5.9,32.0,2006-09-12,9.571,7.0,21.0,Machinery,0
+Legacy Reserves LP,Texas,LGCY,Nasdaq,29.7,4.0,273.4,2006-11-13,8.373,19.0,114.0,Oil,0
+Duncan Energy Partners LP,Texas,DEP,New York,75.8,169.0,804.1,2006-11-02,7.083,21.0,273.0,Oil,0
+Employers Holdings Inc,Nevada,EIG,New York,0.0,0.0,3121.9,2006-12-04,7.666,17.0,454.75,Finance,0
+HFF Inc,Pennsylvania,HF,New York,58.2,0.0,209.5,2006-11-09,8.25,18.0,257.4,Finance,0
+Accuray Inc,California,ARAY,Nasdaq,0.0,0.0,143.7,2006-11-13,7.845,18.0,288.0,Health,0
+Targa Resources Partners LP,Texas,NGLS,Nasdaq,84.5,294.5,1115.8,2006-11-15,6.736,21.0,352.8,Oil,0
+US Auto Parts Networks Inc,California,PRTS,Nasdaq,12.5,0.1,68.2,2006-11-02,9.532,10.0,100.0,Machinery,0
+VeriChip Corp,Florida,CHIP,Nasdaq,-3.4,11.3,50.9,2005-12-29,37.273,6.5,20.15,Machinery,0
+Converted Organics Inc,Massachusetts,COIN,Nasdaq,-2.7,17.5,1.6,2006-06-21,19.626,5.5,9.9,Chemical,0
+Opnext Inc,California,OPXT,Nasdaq,0.0,11.9,232.9,2006-10-27,8.783,15.0,253.640625,Machinery,0
+Salary.com Inc,Massachusetts,SLRY,Nasdaq,-4.3,0.0,15.9,2006-11-13,13.247,10.5,59.85,IT,0
+Clearwire Corp,Nevada,CLWR,Nasdaq,-164.4,649.3,2627.4,2006-12-19,6.833,25.0,600.0,IT,0
+Sourcefire Inc,Maryland,FIRE,Nasdaq,0.5,0.0,121.7,2006-10-25,9.512,15.0,86.55,IT,0
+FCStone Group Inc,Iowa,FCSX,Nasdaq,45.4,44.6,1529.3,2006-10-12,8.156,24.0,122.4,Consulting,0
+Glu Mobile Inc,California,GLUU,Nasdaq,-7.2,0.0,147.3,2006-12-19,10.479,11.5,83.95,IT,0
+Aruba Networks Inc,California,ARUN,Nasdaq,0.0,0.0,56.7,2006-12-15,9.322,11.0,88.0,IT,0
+Ocean Power Technologies Inc,New Jersey,OPTT,Nasdaq,-6.8,0.2,30.9,2006-11-13,9.9,20.0,100.0,Energy,0
+Pharmasset Inc,New Jersey,VRUS,Nasdaq,0.0,0.1,38.0,2006-05-08,13.122,9.0,45.0,Chemical,0
+Interactive Brokers Group Inc,Connecticut,IBKR,Nasdaq,0.0,304.7,32248.7,2006-11-27,2.327,30.01,1200.4,Finance,0
+Tomotherapy Inc,Wisconsin,TOMO,Nasdaq,0.0,0.0,121.7,2007-02-12,7.702,19.0,223.12498,Energy,0
+Solera Holdings Inc,Texas,,New York,0.0,599.1,1254.9,2007-02-12,7.987,16.0,420.0,IT,0
+Skilled Healthcare Group Inc,California,SKH,New York,0.0,405.6,879.9,2006-10-10,7.921,15.5,258.333323,Health,0
+TechTarget Inc,Massachusetts,TTGT,Nasdaq,0.0,4.5,92.1,2007-02-07,9.172,13.0,100.1,Consulting,0
+EnerNOC Inc,Massachusetts,ENOC,Nasdaq,0.0,4.9,43.6,2007-02-12,10.344,26.0,97.5,Machinery,0
+Sirtris Pharmaceuticals Inc,Massachusetts,SIRT,Nasdaq,0.0,8.0,83.5,2007-03-01,9.609,10.0,60.0,Chemical,0
+Clean Energy Fuels Corp,California,CLNE,Nasdaq,0.0,0.2,139.8,2006-09-06,9.333,12.0,120.0,Oil,0
+Response Genetics Inc,California,RGDX,Nasdaq,-1.5,0.0,8.3,2006-12-20,15.143,7.0,21.0,Health,0
+FBR Capital Markets Corp,Virginia,FBCM,Nasdaq,0.0,0.0,608.7,2007-04-10,7.906,17.0,204.595,Finance,0
+Limelight Networks Inc,Arizona,LLNW,Nasdaq,0.0,0.0,79.1,2007-03-22,7.87,15.0,240.0,Consulting,0
+BioFuel Energy Corp,Colorado,BIOF,Nasdaq,0.0,55.0,141.9,2006-12-08,12.206,10.5,55.125,Chemical,0
+Blackstone Group LP,New York,BX,New York,0.0,86.5,39365.5,2007-03-22,5.304,31.0,4133.333354,Finance,0
+Pros Holdings Inc,Texas,PRO,New York,0.0,19.8,25.7,2007-04-04,9.316,11.0,75.075,IT,0
+Bridgeline Software Inc,Massachusetts,BLSW,Nasdaq,0.0,0.1,9.4,2006-12-13,14.571,5.0,15.0,IT,0
+Dice Holdings Inc,New York,DHX,New York,42.6,124.0,301.5,2007-04-04,8.132,13.0,217.1,Consulting,0
+Encore Bancshares Inc,Texas,EBTX,Nasdaq,0.0,187.0,1287.2,2007-05-08,9.453,21.0,41.574981,Finance,0
+Limco-Piedmont Inc,Oklahoma,LIMC,Nasdaq,0.0,0.0,40.4,2007-04-16,9.686,11.0,48.4,Transport,0
+Netezza Corp,Massachusetts,NZ,New York,-4.6,0.0,69.2,2007-03-22,8.812,12.0,108.0,Energy,0
+Airvana Inc,Massachusetts,AIRV,Nasdaq,0.0,0.0,283.5,2007-04-19,12.164,7.0,58.1,IT,0
+Monotype Imaging Holdings Inc,Massachusetts,TYPE,Nasdaq,0.0,120.7,272.3,2007-01-26,10.11,12.0,132.0,IT,0
+Rex Energy Corp,Pennsylvania,REXX,Nasdaq,0.0,18.2,144.3,2007-04-27,8.178,11.0,105.6,Oil,0
+ImaRx Therapeutics Inc,Arizona,IMRX,Nasdaq,0.0,0.0,31.6,2007-05-04,15.667,5.0,15.0,Chemical,0
+Dolan Media Co,Minnesota,DM,New York,0.0,48.1,213.3,2007-04-26,8.337,14.5,195.119569,Media,0
+Concho Resources Inc,Texas,CXO,New York,0.0,343.9,1401.5,2007-04-24,8.097,11.5,240.2017305,Oil,0
+Virtusa Corp,Massachusetts,VRTU,Nasdaq,0.0,0.0,102.1,2007-04-06,13.818,14.0,61.6,IT,0
+Masimo Corp,California,MASI,Nasdaq,80.4,22.2,170.3,2007-04-17,8.502,17.0,202.582642,Energy,0
+VMware Inc,California,,New York,0.0,450.0,1390.4,2007-04-26,6.136,29.0,957.0,IT,0
+Duff & Phelps Corp,New York,,New York,24.1,77.1,273.5,2007-05-23,10.798,16.0,132.8,Finance,0
+Compellent Technologies Inc,Minnesota,CML,NYSE Arca,0.0,0.0,27.6,2007-07-02,9.147,13.5,81.0,IT,0
+DuPont Fabros Technology Inc,District of Columbia,DFT,New York,0.0,296.7,814.8,2007-08-09,7.2,21.0,640.5,Finance,0
+CVR Energy Inc,Texas,CVI,New York,0.0,484.3,1848.6,2006-09-26,8.815,19.0,380.0,Oil,0
+Vanguard Natural Resources LLC,Texas,VNR,NYSE Arca,42.6,37.4,138.7,2007-04-25,9.133,19.0,99.75,Oil,0
+Pzena Investment Management Inc,New York,PZN,New York,0.0,60.0,99.7,2007-06-11,10.461,18.0,109.8,Finance,0
+Ulta Salon Cosmetics & Fragrance Inc,Illinois,ULTA,Nasdaq,74.7,55.0,393.5,2007-07-06,9.342,18.0,153.713664,Retail,0
+Deltek Inc,Virginia,PROJ,Nasdaq,0.0,192.8,147.9,2007-05-08,11.131,18.0,162.0,IT,0
+SandRidge Energy Inc,Oklahoma,SD,New York,0.0,1052.3,3170.5,2007-06-22,6.341,26.0,637.78,Oil,0
+ICx Technologies Inc,Virginia,ICXT,Nasdaq,-89.6,0.2,171.1,2007-08-03,8.625,16.0,80.0,Machinery,0
+ARYx Therapeutics Inc,California,ARYX,Nasdaq,-21.5,3.4,35.4,2007-08-30,11.0,10.0,50.0,Chemical,0
+The Ensign Group Inc,California,ENSG,Nasdaq,0.0,60.6,196.0,2007-05-14,10.614,16.0,64.0,Health,0
+Lumber Liquidators Inc,Virginia,LL,New York,0.0,0.0,101.1,2007-04-23,9.273,11.0,110.0,Timber,0
+Quest Energy Partners LP,Oklahoma,QELP,Nasdaq,0.0,94.0,368.1,2007-07-19,7.416,18.0,163.8,Oil,0
+Och-Ziff Capital Management Group LLC,New York,OZM,New York,3232.5,748.1,2316.7,2007-07-02,7.271,32.0,1152.0,Finance,0
+El Paso Pipeline Partners LP,Texas,EPB,New York,85.0,463.0,799.0,2007-08-31,6.522,20.0,500.0,Oil,0
+SuccessFactors Inc,California,SFSF,Nasdaq,0.0,0.1,57.0,2007-07-20,9.568,10.0,107.9,IT,0
+Cardtronics Inc,Texas,CATM,Nasdaq,53.2,308.7,562.5,2007-09-07,8.25,10.0,120.0,Consulting,0
+K12 Inc,Virginia,LRN,NYSE Arca,0.0,8.2,100.2,2007-07-26,9.415,18.0,108.0,Services,0
+MEMSIC Inc,Massachusetts,MEMS,Nasdaq,0.0,0.0,33.4,2007-09-28,12.6,10.0,60.0,Machinery,0
+Orion Energy Systems Inc,Wisconsin,OESX,Nasdaq,3.3,4.5,33.8,2007-08-20,10.478,13.0,100.000004,Machinery,0
+IPC The Hospitalist Co Inc,California,IPCM,Nasdaq,6.4,7.9,94.4,2007-08-31,10.537,16.0,83.2,Health,0
+MAKO Surgical Corp,Florida,MAKO,Nasdaq,-19.0,0.0,29.2,2007-09-19,12.392,10.0,51.0,Health,0
+Heritage-Crystal Clean Inc,Illinois,HCCI,Nasdaq,11.3,0.8,48.0,2007-06-19,18.812,11.5,22.011,Oil,0
+CardioNet Inc,Pennsylvania,BEAT,Nasdaq,6.4,1.4,150.1,2007-08-17,10.866,18.0,81.0,Health,0
+Visa Inc,California,V,New York,0.0,40.0,27742.0,2007-11-09,3.032,44.0,17864.0,Finance,0
+American Water Works Co Inc,New Jersey,AWK,New York,0.0,4696.3,12268.0,2007-08-27,3.206,21.5,1247.0,Transport,0
+Colfax Corp,Maryland,CFX,New York,0.0,94.4,875.5,2008-01-04,8.167,18.0,337.5,Machinery,0
+Energy Recovery Inc,California,ERII,Nasdaq,0.0,0.5,33.8,2008-04-01,9.457,8.5,119.0,Machinery,0
+Rackspace Hosting Inc,Texas,RAX,New York,0.0,254.8,408.3,2008-04-25,8.721,12.5,187.5,IT,0
+SolarWinds Inc,Texas,SWI,New York,0.0,44.1,89.1,2008-03-21,9.239,12.5,151.4534875,IT,0
+OpenTable Inc,California,OPEN,Nasdaq,6.1,0.0,51.5,2009-01-30,11.348,20.0,60.0,Consulting,0
+Select Medical Holdings Corp,Pennsylvania,SEM,New York,315.4,1521.4,2532.7,2008-07-25,6.982,10.0,300.0,Health,0
+Talecris Biotherapeutics Holdings Corp,North Carolina,TLCR,Nasdaq,0.0,605.3,1373.6,2007-07-27,5.97,19.0,950.0,Chemical,0
+Mistras Group Inc,New Jersey,MG,New York,0.0,18.9,171.1,2008-06-10,9.962,12.5,108.75,Engineering,0
+Cellu Tissue Holdings Inc,Georgia,CLU,New York,0.0,242.5,502.1,2009-10-16,9.412,13.0,107.9,Chemical,0
+Symetra Financial Corp,Washington,SYA,New York,227.3,448.9,22246.3,2009-10-05,6.513,12.0,364.8,Finance,0
+Ironwood Pharmaceuticals Inc,Massachusetts,IRWD,Nasdaq,-67.9,1.6,162.5,2009-11-20,8.159,11.25,187.5000038,Chemical,0
+Primerica Inc,Georgia,PRI,New York,0.0,0.0,9973.5,2009-11-05,10.116,15.0,320.4,Finance,0
+Chatham Lodging Trust,Florida,CLDT,New York,3.5,0.0,151.2,2009-11-04,8.159,20.0,150.0,Finance,0
+Douglas Dynamics Inc,Wisconsin,PLOW,New York,40.8,120.9,398.5,2010-01-29,9.842,11.25,112.5,Machinery,0
+CBOE Holdings Inc,Illinois,CBOE,Nasdaq,0.0,0.0,632.5,2010-03-11,7.109,29.0,339.3,Finance,0
+Oasis Petroleum Inc,Texas,OAS,New York,2.4,0.0,622.6,2010-03-04,6.592,14.0,588.0,Oil,0
+Motricity Inc,Washington,MOTR,Nasdaq,-1.0,0.0,174.2,2010-01-22,20.203,10.0,60.0,Consulting,0
+Tesla Motors Inc,California,TSLA,Nasdaq,-60.0,46.1,145.3,2010-01-29,8.231,17.0,226.1,Machinery,0
+Envestnet Inc,Illinois,ENV,New York,2.4,0.2,83.4,2010-03-26,10.066,9.0,63.0,Consulting,0
+RealPage Inc,Texas,RP,Nasdaq,0.0,34.5,142.1,2010-04-29,8.021,11.0,135.3,IT,0
+SciQuest Inc,North Carolina,SQI,Nasdaq,3.8,0.0,38.7,2010-03-26,10.814,9.5,57.0,IT,0
+The KEYW Holding Corp,Maryland,KEYW,Nasdaq,0.0,0.0,138.5,2010-06-17,1.284,10.0,91.0,Engineering,0
+Campus Crest Communities Inc,North Carolina,CCG,New York,0.0,103.3,327.5,2010-05-14,7.865,12.5,354.1666625,Finance,0
+Fresh Market Inc,North Carolina,TFM,Nasdaq,96.3,82.5,249.1,2010-05-03,1.602,22.0,289.85,Retail,0
+LPL Investment Holdings Inc,Massachusetts,LPLA,Nasdaq,309.4,1162.7,3364.9,2010-06-04,6.044,30.0,469.72446,Finance,0
+FXCM Inc,New York,FXCM,New York,0.0,0.0,591.7,2010-09-03,3.18,14.0,210.84,Finance,0
+FleetCor Technologies Inc,Georgia,FLT,New York,175.6,313.8,1209.5,2010-04-15,7.339,23.0,291.525,Consulting,0
+BankUnited Inc,Florida,BKU,New York,375.5,2250.5,10869.6,2010-08-13,5.555,27.0,783.0,Finance,0
+Summit Hotel Properties Inc,Texas,INN,New York,32.9,0.0,493.0,2010-08-09,9.382,9.75,253.5,Finance,0
+Kinder Morgan Inc,Texas,KMI,New York,1977.0,13866.8,28908.1,2010-07-19,3.577,30.0,2863.998,Oil,0
+CVR Partners LP,Texas,UAN,New York,50.0,125.0,479.5,2010-12-20,6.936,16.0,307.2,Chemical,0
+Zipcar Inc,Massachusetts,ZIP,Nasdaq,8.0,55.7,248.9,2009-06-10,7.983,18.0,174.313962,Transport,0
+Air Lease Corp,California,AL,New York,0.0,1348.5,2781.5,2011-01-14,5.933,26.5,802.50003,Machinery,0
+LinkedIn Corp,California,LNKD,New York,41.6,0.0,265.3,2011-01-06,7.937,45.0,352.8,IT,0
+Bankrate Inc,Florida,RATE,New York,38.7,0.0,260.3,2011-04-15,20.148,15.0,300.0,Consulting,0
+Vanguard Health Systems Inc,Tennessee,VHS,New York,0.0,2325.8,4114.1,2011-04-15,6.793,18.0,450.0,Health,0
+HomeAway Inc,Texas,AWAY,Nasdaq,31.4,0.0,518.0,2011-02-09,8.409,27.0,216.0,IT,0
+Zillow Inc,Washington,Z,Nasdaq,0.0,0.0,33.9,2011-03-16,11.082,20.0,69.24,IT,0
+Francesca's Holdings Corp,Texas,FRAN,Nasdaq,0.0,41.0,66.7,2010-06-24,8.422,17.0,170.0,Retail,0
+Dunkin Brands Group Inc,Massachusetts,DNKN,Nasdaq,136.6,1477.3,3124.3,2011-04-01,7.584,19.0,422.75,Restaurant,0
+The Chefs Warehouse Inc,Connecticut,CHEF,Nasdaq,27.7,39.3,93.8,2011-04-12,8.259,15.0,135.0,Retail,0
+Groupon Inc,Illinois,GRPN,Nasdaq,0.0,0.0,790.2,2010-12-30,6.708,20.0,700.0,IT,0
+Rentech Nitrogen Partners LP,California,RNF,New York,28.8,0.0,223.0,2011-08-05,8.333,20.0,300.0,Chemical,0
+Digital Domain Media Group Inc,Florida,DDMG,New York,0.0,37.1,178.9,2011-05-16,16.684,8.5,41.82,Media,0
+Jive Software Inc,California,JIVE,Nasdaq,-41.9,10.2,143.9,2010-05-19,8.422,12.0,161.2752,IT,0
+Caesars Entertainment Corp,Nevada,CZR,Nasdaq,1642.6,19791.3,28515.6,2011-11-15,17.684,9.0,16.301817,Services,0
+EPAM Systems Inc,Pennsylvania,EPAM,New York,60.4,0.0,233.7,2011-06-10,11.589,12.0,72.0,IT,0
+FX Alliance Inc,New York,FX,New York,52.5,0.0,201.2,2011-09-19,9.413,12.0,62.4,Finance,0
+CUI Global Inc,Oregon,CUGI,Nasdaq,1.6,7.3,32.0,2011-10-31,19.0,4.5,9.999999,Energy,0
+Bazaarvoice Inc,Texas,,Nasdaq,0.0,0.0,46.8,2011-08-26,9.656,12.0,113.811552,IT,0
+ExactTarget Inc,Indiana,ET,New York,-8.0,0.0,193.3,2011-09-12,8.796,19.0,161.5,IT,0
+Vantiv Inc,Ohio,VNTV,New York,373.3,1213.4,3485.4,2011-07-12,6.384,17.0,500.004,Consulting,0
+CafePress Inc,California,PRSS,Nasdaq,13.7,2.6,86.9,2011-06-10,10.275,19.0,85.5,Retail,0
+Millennial Media Inc,Maryland,MM,New York,0.0,0.0,61.9,2010-07-28,75.433,13.0,132.6,IT,0
+Rexnord Corp,Wisconsin,RXN,New York,0.0,2413.4,3207.4,2011-05-26,5.568,18.0,426.315798,Machinery,0
+Forum Energy Technologies Inc,Texas,FET,New York,0.0,349.9,1667.2,2011-08-31,6.847,20.0,378.94732,Oil,0
+MRC Global Inc,Texas,MRC,New York,321.0,1355.1,3478.5,2012-01-12,6.541,21.0,477.272733,Machinery,0
+Oaktree Capital Group LLC,California,OAK,New York,257.9,830.4,45425.0,2011-06-17,19.599,43.0,380.249989,Finance,0
+Digital Cinema Destinations Corp,New Jersey,DCIN,Nasdaq,0.0,0.0,4.7,2011-12-20,13.083,6.1,13.42,Media,0
+Splunk Inc,California,,Nasdaq,0.0,0.0,82.2,2012-01-12,7.881,17.0,229.5,IT,0
+Midstates Petroleum Co Inc,Texas,MPO,New York,0.0,151.7,688.6,2011-11-14,6.444,13.0,312.0,Oil,0
+Proofpoint Inc,California,PFPT,Nasdaq,0.0,3.1,64.7,2011-05-05,8.4,13.0,82.282473,IT,0
+EverBank Financial Corp,Florida,EVER,New York,0.0,2607.4,13631.6,2010-10-08,10.096,10.0,192.2,Finance,0
+WageWorks Inc,California,WAGE,New York,28.3,0.0,369.1,2011-04-25,14.114,9.0,58.5,Consulting,0
+Ignite Restaurant Group Inc,Texas,IRG,Nasdaq,38.5,74.5,192.4,2011-07-29,8.917,14.0,80.769234,Restaurant,0
+Facebook Inc,California,FB,Nasdaq,0.0,394.0,6859.0,2010-07-30,1.146,38.0,16006.87737,IT,0
+Chuy's Holdings Inc,Texas,CHUY,Nasdaq,16.7,4.2,120.9,2011-08-05,9.424,13.0,75.833329,Restaurant,0
+Del Frisco's Restaurant Group LLC,Texas,DFRG,Nasdaq,35.8,0.0,236.8,2012-01-24,11.319,13.0,75.4,Restaurant,0
+Eloqua Inc,Virginia,ELOQ,Nasdaq,0.0,0.0,34.0,2011-08-24,8.828,11.5,92.0,IT,0
+Hi-Crush Partners LP,Texas,HCLP,New York,33.3,0.9,142.9,2012-07-06,7.018,17.0,191.25,Mining,0
+Capital Bank Financial Corp,North Carolina,CBF,Nasdaq,45.8,140.8,6163.2,2011-06-23,8.643,18.0,180.0,Finance,0
+Spirit Realty Capital Inc,Arizona,SRC,New York,226.3,1904.9,3224.7,2011-11-10,8.086,15.0,435.0,Finance,0
+Qualys Inc,California,QLYS,Nasdaq,6.0,1.1,74.0,2012-06-08,8.957,12.0,90.9,IT,0
+Berry Plastics Group Inc,Indiana,,New York,683.0,3932.0,5108.0,2012-03-23,6.559,16.0,470.588224,Chemical,0
+Lehigh Gas Partners LP,Pennsylvania,LGP,New York,44.5,257.5,300.7,2012-05-11,10.0,20.0,120.0,Oil,0
+Xplore Technologies Corp,Texas,XPLR,Nasdaq,3.4,0.0,11.6,2012-07-26,19.948,5.0,10.0,Energy,0
+Ruckus Wireless Inc,California,RKUS,New York,20.6,0.0,123.1,2012-05-01,9.579,15.0,126.0,IT,0
+Northwest Biotherapeutics Inc,Maryland,NWBO,Nasdaq,-37.5,1.9,0.4,2012-06-29,12.0,4.0,12.0,Chemical,0
+United Insurance Holdings Corp,Florida,UIHC,Nasdaq,20.7,14.7,336.9,2012-10-23,6.139,5.15,27.29538625,Finance,0
+Zoetis Inc,New Jersey,ZTS,New York,941.0,3640.0,6046.0,2012-02-20,3.651,26.0,2238.6,Chemical,0
+Boise Cascade Co,Idaho,BBC,New York,100.8,250.0,836.4,2012-11-15,6.574,21.0,247.058826,Timber,0
+ConnectOne Bancorp Inc,New Jersey,CNOB,Nasdaq,17.0,77.6,925.6,2013-01-11,6.332,28.0,44.8,Finance,0
+TherapeuticsMD Inc,Florida,TXMD,NYSE MKT,-33.2,0.0,5.8,2013-03-07,8.252,1.7,50.0000005,Chemical,0
+West Corp,Nebraska,WSTC,Nasdaq,655.1,3587.4,3448.2,2009-10-02,6.573,20.0,425.5,Consulting,0
+Pinnacle Foods Inc,New Jersey,PF,New York,381.6,2585.8,4400.0,2012-02-27,5.817,20.0,580.0,Food,0
+"Independent Bank Group Inc, McKinney,Texas",Texas,IBTX,Nasdaq,29.0,199.2,1764.1,2013-02-27,7.929,26.0,83.2,Finance,0
+ING US Inc,New York,VOYA,New York,0.0,3265.7,220850.0,2010-11-15,4.048,19.5,1271.249987,Finance,0
+Cyan Inc,California,CYNI,New York,-19.7,4.2,63.1,2012-11-20,9.937,11.0,88.0,IT,0
+BioAmber Inc,Minnesota,BIOA,New York,0.0,0.3,49.3,2011-11-10,10.125,10.0,80.0,Chemical,0
+Customers Bancorp Inc,Pennsylvania,CUUU,Nasdaq,45.4,507.0,3458.6,2013-05-09,4.903,16.75,89.9999945,Finance,0
+Marketo Inc,California,MKTO,Nasdaq,0.0,5.3,75.9,2013-01-25,10.061,13.0,78.773617,IT,0
+Tableau Software Inc,Washington,DATA,New York,0.0,0.0,89.4,2012-04-22,7.883,31.0,254.2,IT,0
+ChannelAdvisor Corp,North Carolina,ECOM,New York,-2.0,9.7,48.7,2012-09-28,10.3,14.0,80.5,IT,0
+Global Brass & Copper Holdings Inc,Illinois,BRSS,New York,73.4,431.0,575.3,2011-10-28,11.299,11.0,77.0,Metal,0
+RCS Capital Corp,New York,RCAP,New York,36.4,0.0,61.6,2013-02-22,11.0,20.0,50.0,Finance,0
+Textura Corp,Illinois,TXTR,New York,-12.5,10.7,64.5,2013-03-18,8.754,15.0,75.0,IT,0
+Gigamon Inc,California,GIMO,New York,0.0,0.0,49.5,2012-07-13,8.745,19.0,128.25,IT,0
+PTC Therapeutics Inc,New Jersey,,Nasdaq,-24.7,0.0,59.9,2013-05-16,7.905,15.0,125.58,Chemical,0
+Truett-Hurst Inc,California,THST,Nasdaq,0.0,3.5,21.2,2013-03-11,13.63,6.0,16.2,Food,0
+Gogo Inc,Illinois,GOGO,Nasdaq,17.6,239.0,419.2,2011-12-23,11.186,17.0,187.0,Communications,0
+Tremor Video Inc,New York,TRMR,New York,-6.9,0.9,120.5,2013-05-23,10.755,10.0,75.0,Media,0
+UCP Inc,California,UCP,New York,0.0,44.9,153.7,2013-04-04,9.14,15.0,116.25,Services,0
+Physicians Realty Trust,Wisconsin,DOC,New York,6.1,66.3,106.3,2013-05-24,7.565,11.5,119.999993,Finance,0
+Agios Pharmaceuticals Inc,Massachusetts,AGIO,Nasdaq,-25.8,0.0,108.5,2013-06-10,7.974,18.0,105.999984,Chemical,0
+Cellular Dynamics International Inc,Wisconsin,ICEL,Nasdaq,0.0,11.8,52.6,2013-06-03,11.661,12.0,46.152,Chemical,0
+WCI Communities Inc,Florida,WCIC,New York,37.2,200.0,367.4,2013-04-26,10.689,15.0,102.286365,Services,0
+Athlon Energy Inc,Texas,ATHL,New York,145.4,500.0,1024.2,2013-04-30,6.166,20.0,315.78948,Oil,0
+Intrexon Corp,Maryland,XON,New York,-93.2,2.3,283.5,2013-07-09,7.609,16.0,159.999984,Agriculture,0
+Axogen Inc,Florida,AXGN,Nasdaq,-8.5,24.3,15.7,2013-05-14,9.81,3.0,18.0,Agriculture,0
+Cvent Inc,Virginia,CVT,New York,0.0,0.0,90.4,2012-11-06,8.712,21.0,117.6,IT,0
+QEP Midstream Partners LP,Colorado,QEPM,New York,106.4,0.0,706.1,2013-01-07,5.839,21.0,420.0,Oil,0
+Envision Healthcare Holdings Inc,Colorado,EVHC,New York,408.6,2225.4,4040.2,2013-06-13,5.251,23.0,966.0,Health,0
+Regado Biosciences Inc,New Jersey,RGDO,Nasdaq,-13.1,3.9,25.8,2013-04-29,11.267,4.0,43.0,Chemical,0
+Benefitfocus Inc,South Carolina,BNFT,Nasdaq,-11.9,15.3,54.8,2013-03-20,8.296,26.5,130.7775,IT,0
+Rocket Fuel Inc,California,FUEL,Nasdaq,-14.2,10.6,99.8,2013-02-13,9.731,29.0,116.0,Media,0
+Applied Optoelectronics Inc,Texas,AAOI,Nasdaq,2.7,14.6,72.0,2013-08-13,12.609,10.0,36.0,Machinery,0
+Covisint Corp,Michigan,COVS,Nasdaq,0.0,0.0,96.0,2012-06-10,10.125,10.0,64.0,IT,0
+Violin Memory Inc,California,VMEM,New York,-110.3,0.0,112.9,2012-02-22,9.438,9.0,162.0,IT,0
+QTS Realty Trust Inc,Kansas,QTS,New York,63.7,344.8,781.9,2013-08-16,7.328,21.0,257.25,Finance,0
+Antero Resources Corp,Colorado,AR,New York,741.9,2079.0,5672.2,2013-05-06,4.19,44.0,1571.9,Oil,0
+MacroGenics Inc,Maryland,MGNX,Nasdaq,0.0,8.0,42.0,2013-09-04,8.043,16.0,80.0,Chemical,0
+InterCloud Systems Inc,New Jersey,ICLD,Nasdaq,3.8,15.2,58.5,2012-12-05,44.348,4.0,5.0,Consulting,0
+Twitter Inc,California,TWTR,New York,0.0,110.5,992.8,2011-03-03,2.26,26.0,1820.0,IT,0
+Chegg Inc,California,CHGG,New York,0.0,0.0,229.3,2013-06-12,9.027,12.5,187.5,IT,0
+Ideal Power Inc,Texas,IPWR,Nasdaq,-3.9,0.0,2.8,2013-08-06,11.887,5.0,15.0,Energy,0
+Fidelity & Guaranty Life,Maryland,FGL,New York,707.3,300.0,22202.8,2013-08-29,8.781,17.0,165.75,Finance,0
+Retrophin Inc,California,RTRX,Nasdaq,-33.5,0.0,20.5,2013-12-18,8.571,8.5,39.999997,Chemical,0
+EP Energy Corp,Texas,EPE,New York,1038.0,4020.0,8366.0,2013-06-24,5.636,20.0,704.0,Oil,0
+Santander Consumer USA Holdings Inc,Texas,SC,New York,1703.9,25357.3,26204.9,2012-11-22,3.816,24.0,1799.79528,Finance,0
+SMTP Inc,Massachusetts,SMTP,Nasdaq,2.0,0.0,2.4,2013-12-26,6.959,6.25,10.0,Media,0
+Everyday Health Inc,New York,EVDY,New York,12.0,70.8,192.3,2014-02-24,9.573,14.0,100.1,Consulting,0
+CBS Outdoor Americas Inc,New York,CBSO,New York,433.4,1598.0,3355.5,2013-06-27,4.869,28.0,560.0,Media,0
+The Rubicon Project Inc,California,RUBI,New York,0.0,0.0,127.7,2013-01-30,8.979,15.0,101.564925,IT,0
+GrubHub Inc,Illinois,GRUB,New York,40.5,0.0,795.7,2012-11-09,7.912,26.0,192.545964,IT,0
+La Quinta Holdings Inc,Texas,LQ,New York,339.5,1988.7,3172.0,2014-02-10,6.245,17.0,650.25,Services,0
+Ally Financial Inc,Michigan,ALLY,New York,5396.0,60915.0,146534.0,2010-08-03,1.027,25.0,2375.0,Finance,0
+Sysorex Global Holdings Corp,California,SYRX,Nasdaq,-2.2,0.2,42.3,2013-10-09,8.0,6.0,19.999998,IT,0
+Paycom Software Inc,Oklahoma,PAYC,New York,14.6,26.5,532.2,2014-03-10,10.942,15.0,99.675,IT,0
+Moelis & Co,New York,MC,New York,0.0,0.0,349.1,2013-10-22,13.421,25.0,162.5,Finance,0
+WL Ross Holding Corp,New York,WLRHU,Nasdaq,0.0,0.0,0.2,2014-05-09,4.578,10.0,435.0,Finance,0
+SAGE Therapeutics Inc,Massachusetts,SAGE,Nasdaq,-22.2,0.0,51.7,2014-06-17,8.251,18.0,90.0,Chemical,0
+Intersect ENT Inc,California,XENT,Nasdaq,0.0,0.0,14.5,2014-06-23,10.83,11.0,55.0,Health,0
+Spark Energy Inc,Texas,SPKE,Nasdaq,39.3,0.0,86.5,2014-05-29,13.481,18.0,54.0,Energy,0
+HealthEquity Inc,Utah,HQY,Nasdaq,11.8,0.0,55.9,2014-06-10,8.928,14.0,127.4,Finance,0
+FCB Financial Holdings Inc,Florida,,New York,43.5,1159.1,5606.3,2014-06-20,8.535,22.0,165.44,Finance,0
+T2 Biosystems Inc,Massachusetts,TTOO,Nasdaq,-24.3,10.7,20.1,2014-07-02,9.918,11.0,57.2,Health,0
+Ryerson Holding Corp,Illinois,RYI,New York,0.0,1198.1,1907.9,2010-01-22,8.479,11.0,121.0,Metal,0
+Sajan Inc,Wisconsin,SAJA,Nasdaq,0.7,0.8,9.6,2014-05-08,22.429,5.0,3.5,Consulting,0
+Tokai Pharmaceuticals Inc,Massachusetts,TKAI,Nasdaq,-19.6,0.0,23.4,2014-08-11,9.054,15.0,97.2,Chemical,0
+GWG Holdings Inc,Minnesota,GWGH,Nasdaq,0.0,274.0,296.6,2014-04-25,12.75,12.5,10.0,Finance,0
+Citizens Financial Group Inc,Rhode Island,CFG,New York,1355.0,2062.0,130279.0,2013-02-23,2.009,21.5,3010.0,Finance,0
+Medley Management Inc,New York,MDLY,New York,66.0,102.9,626.4,2014-08-18,10.058,18.0,108.0,Finance,0
+Calithera Biosciences Inc,California,CALA,Nasdaq,-18.6,0.0,39.6,2014-08-25,10.375,10.0,80.0,Chemical,0
+Proteon Therapeutics Inc,Massachusetts,PRTO,Nasdaq,-8.2,0.0,27.1,2014-09-16,10.71,10.0,61.1,Agriculture,0
+Sientra Inc,California,SIEN,Nasdaq,-3.7,21.7,62.3,2014-09-19,9.565,15.0,75.0,Health,0
+Upland Software Inc,Texas,UPLD,Nasdaq,-11.7,12.4,95.0,2014-09-04,14.183,12.0,46.153848,IT,0
+Coherus Biosciences Inc,California,CHRS,Nasdaq,-65.0,0.0,129.2,2014-09-25,10.724,13.5,85.00005,Agriculture,0
+The Joint Corp,Arizona,JYNT,Nasdaq,-0.5,0.0,8.5,2014-09-19,9.366,6.5,19.5,Finance,0
+FibroGen Inc,California,FGEN,Nasdaq,-20.4,113.3,344.4,2014-09-30,8.358,18.0,145.8,Chemical,0
+Neff Corp,Florida,NEFF,New York,131.7,721.9,606.7,2014-09-03,7.045,15.0,157.14285,Machinery,0
+Peak Resorts Inc,Missouri,SKIS,Nasdaq,26.1,100.1,216.5,2014-10-20,8.525,9.0,90.0,Services,0
+LendingClub Corp,California,LC,New York,303.2,2813.6,2814.8,2012-12-13,5.608,15.0,870.0,Finance,0
+Connecture Inc,Wisconsin,CNXR,Nasdaq,-3.9,48.6,87.5,2014-10-20,14.564,8.0,53.08,IT,0
+PlasmaTech Biopharmaceuticals Inc,Texas,ACCP,Nasdaq,0.0,0.0,0.3,2014-07-02,10.279,4.0,14.0,Chemical,0
+Avinger Inc,California,AVGR,Nasdaq,-24.5,25.8,24.8,2014-12-30,12.492,13.0,65.0,Health,0
+GoDaddy Inc,Arizona,GDDY,New York,107.9,1044.3,3329.4,2014-03-14,8.077,20.0,460.0,IT,0
+Virtu Financial Inc,New York,VIRT,Nasdaq,336.2,1369.5,4099.5,2013-12-18,9.815,19.0,314.113168,Finance,0
+Jaguar Animal Health Inc,California,JAGX,Nasdaq,0.0,0.0,6.2,2014-08-27,23.484,7.0,20.02,Chemical,0
+Univar Inc,Illinois,UNVR,New York,474.8,3006.2,5905.1,2014-04-01,5.895,22.0,770.0,Chemical,0
+Lantheus Holdings Inc,Massachusetts,LNTH,Nasdaq,64.2,350.9,250.3,2014-06-24,12.577,6.0,65.000004,Energy,0
+Xactly Corp,California,XTLY,New York,0.0,21.5,54.5,2015-05-19,12.046,8.0,56.3,IT,0
+Performance Food Group Co,Virginia,PFGC,New York,302.9,1245.4,3404.7,2014-09-09,6.582,19.0,275.5,Retail,0
+TPI Composites Inc,Arizona,TPIC,Nasdaq,57.4,83.8,352.6,2016-06-17,4.87,11.0,68.75,Machinery,0
+J Jill Inc,New Hampshire,JILL,New York,96.3,264.2,567.6,2016-04-08,10.261,13.0,151.666671,Retail,0
+Catasys Inc,California,CATS,Nasdaq,-27.4,0.0,2.9,2017-02-10,10.667,4.8,15.0,Health,0
+Bluegreen Vacations Corp,Florida,BXG,New York,197.2,571.8,1172.3,2017-10-23,7.446,14.0,90.981072,Finance,0
+Saul Centers Inc,Maryland,BFS,New York,153.6,941.2,1422.5,2018-01-16,3.817,25.0,75.0,Finance,0
+Mesa Air Group Inc,Arizona,MESA,Nasdaq,0.0,760.2,1389.6,2018-06-15,8.683,12.0,115.56,Transport,0
+Informatica LLC,California,,New York,462.3,1837.4,4770.6,2021-10-01,5.817,29.0,841.0,IT,0
+Kilroy Realty Corp,California,KRC,New York,27.9,270.4,128.3,1996-11-05,7.591,23.0,287.5,Finance,0
+Midwest Banc Holdings Inc,Illinois,MBHI,Nasdaq,18.4,67.2,906.8,1997-12-19,9.108,15.0,16.5,Finance,0
+GoDaddy Inc,Arizona,GDDY,New York,107.9,1044.3,3329.4,2014-03-14,8.077,20.0,460.0,IT,0
+Virtu Financial Inc,New York,VIRT,Nasdaq,336.2,1369.5,4099.5,2013-12-18,9.815,19.0,314.113168,Finance,0
+Jaguar Animal Health Inc,California,JAGX,Nasdaq,0.0,0.0,6.2,2014-08-27,23.484,7.0,20.02,Chemical,0
+Moelis & Co,New York,MC,New York,0.0,0.0,349.1,2013-10-22,13.421,25.0,162.5,Finance,0
+WL Ross Holding Corp,New York,WLRHU,Nasdaq,0.0,0.0,0.2,2014-05-09,4.578,10.0,435.0,Finance,0
+SAGE Therapeutics Inc,Massachusetts,SAGE,Nasdaq,-22.2,0.0,51.7,2014-06-17,8.251,18.0,90.0,Chemical,0
+Senestech Inc.,Arizona,SNES,Nasdaq,-31.2,0.7,2173.5,2016-12-08,11.22,8.0,15.0,Chemical,1
+Regional Management Corp,South Carolina,RM,New York,0.0,21.5,29414.1,2012-03-28,7.25,15.0,63.0,Finance,1
+Hca Healthcare Inc.,Tennessee,HCA,New York,325.9,7.1,333.0,2011-03-10,10.88,30.0,3786.0,Health,1
+Aspen Aerogels Inc.,Massachusetts,ASPN,New York,0.0,204.0,204.0,2014-06-13,10.33,11.0,82.5,Chemical,1
+Natural Grocers By Vitamin Cottage Inc.,Colorado,NGVC,New York,6.4,0.0,179.9,2012-07-25,10.26,15.0,107.143,Food,1
+Daqo New Energy Corp,Georgia,DQ,New York,-8.9,61.7,70.6,2010-10-07,16.01,9.5,76.0,IT,1
+Jounce Therapeutics Inc.,Massachusetts,JNCE,Nasdaq,0.0,2018.6,2018.6,2017-01-27,7.35,16.0,101.84,Health,1
+Neophotonics Corp,California,NPTN,New York,0.0,0.2,170.9,2011-02-02,3.0,11.0,82.5,IT,1
+Second Sight Medical Products Inc.,California,EYES,Nasdaq,0.0,510.6,510.6,2014-11-19,2.85,9.0,31.5,Health,1
+Novocure Ltd,Arkansas,NVCR,Nasdaq,-11.0,0.0,36.8,2015-10-02,10.24,22.0,165.0,Agriculture,1
+National Bank Holdings Corp,Colorado,NBHC,New York,0.0,621.6,621.6,2012-09-20,13.87,19.25,137.638,Finance,1
+Voxeljet Ag,New Jersey,VJET,New York,0.0,0.0,54.9,2013-10-18,11.72,13.0,84.5,IT,1
+Fifth Street Asset Management Inc.,Connecticut,FSAM,Nasdaq,0.0,0.0,23445.3,2014-10-30,7.65,17.0,102.0,Finance,1
+Ranger Energy Services Inc.,Texas,RNGR,New York,116.0,44.1,160.1,2017-08-11,11.05,14.5,85.0,Oil,1
+Selecta Biosciences Inc.,Massachusetts,SELB,Nasdaq,0.0,11.4,168.3,2016-06-22,14.51,14.0,70.0,Health,1
+Celcuity Inc.,Minnesota,CELC,Nasdaq,0.0,3.5,5.9,2017-09-20,9.92,9.5,22.8,Health,1
+Taylor Morrison Home Corp,Arizona,TMHC,New York,0.0,0.2,734.9,2013-04-10,1.14,22.0,628.584,Retail,1
+Nanthealth Inc.,California,NH,Nasdaq,0.0,0.0,94.5,2016-06-02,9.15,14.0,91.0,IT,1
+First Interstate Bancsystem Inc.,Montana,FIBK,Nasdaq,5.3,104.1,9254.6,2010-03-24,8.17,14.5,145.0,Finance,1
+Forterra Inc.,Texas,FRTA,Nasdaq,204.0,0.0,204.0,2016-10-20,13.97,18.0,331.56,Chemical,1
+Golar Lng Partners Lp,Hawaii,GMLP,Nasdaq,0.0,0.0,219.3,2011-04-08,6.87,22.5,270.0,Machinery,1
+Leju Holdings Ltd,Oregon,LEJU,New York,0.0,49668.3,49668.3,2014-04-17,14.5,10.0,100.0,Finance,1
+Acelrx Pharmaceuticals Inc.,California,ACRX,Nasdaq,0.0,0.0,55.9,2011-02-11,11.09,5.0,40.0,Health,1
+Atento SA,Pennsylvania,ATTO,New York,6.5,1.4,151.7,2014-10-02,7.23,15.0,150.0,Machinery,1
+Apellis Pharmaceuticals Inc.,Kentucky,APLS,Nasdaq,0.0,0.0,47.7,2017-11-09,9.22,14.0,149.996,Health,1
+Biondvax Pharmaceuticals Ltd,Idaho,BVXV,Nasdaq,0.0,24.8,24.8,2015-05-12,8.1,5.0,9.55,Health,1
+Cpi Card Group Inc.,Colorado,PMTS,Nasdaq,0.0,1367.2,1367.2,2015-10-09,9.32,10.0,150.0,Machinery,1
+Nxp Semiconductors NV,Texas,NXPI,Nasdaq,31.4,57.1,143.8,2010-08-06,6.56,14.0,476.0,IT,1
+Sabre Corp,Texas,SABR,Nasdaq,0.0,0.0,24.6,2014-04-17,16.19,16.0,627.2,IT,1
+Conatus Pharmaceuticals Inc.,California,CNAT,Nasdaq,0.0,0.0,53.6,2013-07-25,9.73,11.0,66.0,Health,1
+Gridsum Holding Inc.,Iowa,GSUM,Nasdaq,12.1,0.0,12.1,2016-09-23,8.41,13.0,87.1,IT,1
+Renren Inc.,South Carolina,RENN,New York,323.3,3.3,326.6,2011-05-04,7.78,14.0,743.4,Retail,1
+Sensata Technologies Holding Plc,Maine,ST,New York,0.0,0.0,92.1,2010-03-11,9.97,18.0,568.8,IT,1
+Xencor Inc.,California,XNCR,Nasdaq,-1.2,478.7,926.7,2013-12-03,6.87,5.5,70.015,Health,1
+Wingstop Inc.,Texas,WING,Nasdaq,0.0,0.2,338.4,2015-06-12,2.04,19.0,110.2,Retail,1
+Globant SA,Indiana,GLOB,New York,0.0,0.0,176.0,2014-07-18,2.11,10.0,58.5,IT,1
+WixCom Ltd,Maryland,WIX,Nasdaq,136.7,1.7,138.4,2013-11-06,15.95,16.5,127.05,IT,1
+Intelsat SA,Iowa,I,New York,51.8,16.2,1014.0,2013-04-18,9.32,18.0,347.826,Communications,1
+Nordic American Offshore Ltd,New York,NAO,New York,0.0,4.8,10.6,2014-06-12,10.6,16.0,94.118,Machinery,1
+Argenx Se,Nebraska,ARGX,Nasdaq,0.0,18.7,3785.6,2017-05-18,8.44,17.0,99.705,Health,1
+Ambarella Inc.,California,AMBA,Nasdaq,453.4,24.3,477.7,2012-10-10,8.69,6.0,36.0,IT,1
+Applied Genetic Technologies Corp,Florida,AGTC,Nasdaq,0.0,1384.4,1384.4,2014-03-27,11.73,12.0,50.0,Health,1
+Chimerix Inc.,North Carolina,CMRX,Nasdaq,-4.9,0.8,62.8,2013-04-11,7.87,14.0,102.48,Health,1
+Aratana Therapeutics Inc.,Kansas,PETX,Nasdaq,0.0,0.0,8.0,2013-06-27,11.48,6.0,34.5,Health,1
+Burlington Stores Inc.,New Jersey,BURL,New York,0.0,10.8,302.6,2013-10-02,9.3,17.0,226.667,Food,1
+Nanostring Technologies Inc.,Washington,NSTG,Nasdaq,0.0,0.0,94.2,2013-06-26,11.67,10.0,54.0,Health,1
+Heat Biologics Inc.,North Carolina,HTBX,Nasdaq,-23.5,878.5,902.0,2013-07-24,15.22,10.0,25.0,Health,1
+Eagle Pharmaceuticals Inc.,New Jersey,EGRX,Nasdaq,-19.7,0.0,19.7,2014-02-12,10.63,15.0,50.25,Health,1
+Optinose Inc.,Pennsylvania,OPTN,Nasdaq,1.6,39.9,41.5,2017-10-13,10.37,16.0,120.0,Health,1
+Summit Therapeutics Plc,South Carolina,SMMT,Nasdaq,-1.4,0.0,18.4,2015-03-05,12.71,9.9,34.155,Health,1
+Senseonics Holdings Inc.,Maryland,SENS,American,0.0,0.0,1360.3,2016-03-18,8.65,2.85,45.03,Health,1
+Nutanix Inc.,California,NTNX,Nasdaq,36.8,0.0,83.4,2016-09-30,11.75,16.0,237.92,IT,1
+People'S Utah Bancorp,Utah,PUB,Nasdaq,0.0,0.0,470.6,2015-06-11,4.57,14.5,36.25,Finance,1
+A10 Networks Inc.,California,ATEN,New York,0.0,0.2,54.3,2014-03-21,8.94,15.0,187.5,IT,1
+Natera Inc.,California,NTRA,Nasdaq,6.1,225.2,231.2,2015-07-02,16.22,18.0,180.0,Health,1
+Everbridge Inc.,Massachusetts,EVBG,Nasdaq,0.0,1.9,3199.3,2016-09-16,11.58,12.0,90.0,IT,1
+Glycomimetics Inc.,Maryland,GLYC,Nasdaq,-6.6,0.0,11.0,2014-01-10,8.12,8.0,56.0,Health,1
+Planet Fitness Inc.,New Hampshire,PLNT,New York,13.4,2.1,503.0,2015-08-06,8.45,16.0,216.0,Retail,1
+Gardner Denver Holdings Inc.,Wisconsin,GDI,New York,329.7,11.3,340.9,2017-05-12,14.22,20.0,826.0,IT,1
+Forescout Technologies Inc.,California,FSCT,Nasdaq,0.0,0.0,13.3,2017-10-27,13.18,22.0,116.16,IT,1
+Adaptimmune Therapeutics Plc,California,ADAP,Nasdaq,12.8,488.0,500.8,2015-05-06,10.84,17.0,191.25,Health,1
+Triumph Bancorp Inc.,Texas,TBK,Nasdaq,0.0,265.6,1458.0,2014-11-07,12.94,12.0,80.4,Finance,1
+Ritter Pharmaceuticals Inc.,California,RTTR,Nasdaq,22.8,0.0,22.8,2015-06-24,10.71,5.0,20.0,Health,1
+Mobileiron Inc.,California,MOBL,Nasdaq,69.4,376.3,885.2,2014-06-12,9.19,9.0,100.0,IT,1
+Supernus Pharmaceuticals Inc.,Maryland,SUPN,Nasdaq,0.0,0.0,34.8,2012-05-01,11.09,5.0,50.0,Health,1
+Veeva Systems Inc.,California,VEEV,New York,0.0,1170.0,1170.0,2013-10-16,11.41,20.0,260.9,IT,1
+Terraform Power Inc.,New York,TERP,Nasdaq,37.7,563.2,922.3,2014-07-18,10.03,25.0,501.625,Energy,1
+Frank'S International NV,Colorado,FI,New York,51.0,68.8,119.7,2013-08-09,7.1,22.0,660.0,Oil,1
+Hutchison China Meditech Ltd,Rhode Island,HCM,Nasdaq,0.0,799.8,799.8,2016-03-17,0.33,13.5,101.25,Health,1
+Us Foods Holding Corp,Illinois,USFD,New York,1.8,29.8,1783.6,2016-05-26,7.98,23.0,1022.222,Food,1
+Flex Pharma Inc.,Massachusetts,FLKS,Nasdaq,0.0,1.6,23.9,2015-01-29,10.24,16.0,86.4,Health,1
+Blue Apron Holdings Inc.,New York,APRN,New York,35.9,39.8,3839.5,2017-06-29,12.17,10.0,300.0,Retail,1
+Exone Co,Pennsylvania,XONE,Nasdaq,7.0,0.0,367.5,2013-02-07,10.22,18.0,95.4,Machinery,1
+Viking Therapeutics Inc.,California,VKTX,Nasdaq,0.0,0.0,107.8,2015-04-29,5.5,8.0,24.0,Health,1
+Castlight Health Inc.,California,CSLT,New York,3.4,0.0,36.2,2014-03-14,2.04,16.0,177.6,IT,1
+Pulse Biosciences Inc.,California,PLSE,Nasdaq,6.6,1473.5,1480.1,2016-05-18,9.68,4.0,20.0,Health,1
+Opgen Inc.,Maryland,OPGN,Nasdaq,-32.2,0.0,469.2,2015-05-05,8.0,6.0,17.1,Health,1
+Transunion,Illinois,TRU,New York,3.0,37.4,461.8,2015-06-25,8.85,22.5,664.773,Machinery,1
+Targa Resources Corp,Texas,TRGP,New York,45.2,0.2,326.2,2010-12-07,9.6,22.0,360.25,Oil,1
+Hd Supply Holdings Inc.,Georgia,HDS,Nasdaq,0.0,98.8,744.5,2013-06-27,8.34,18.0,957.447,Machinery,1
+Clearsign Combustion Corp,Washington,CLIR,Nasdaq,46.8,0.1,47.0,2012-04-25,8.02,4.0,12.0,Machinery,1
+Hubspot Inc.,Massachusetts,HUBS,New York,17.9,0.0,17.9,2014-10-09,7.25,25.0,125.0,IT,1
+Bankwell Financial Group Inc.,Connecticut,BWFG,Nasdaq,0.0,0.0,425.3,2014-05-15,7.51,18.0,48.649,Finance,1
+Manning & Napier Inc.,New York,MN,New York,0.0,841.5,2851.4,2011-11-18,7.88,12.0,150.0,Finance,1
+Conformis Inc.,Massachusetts,CFMS,Nasdaq,0.0,0.0,3772.1,2015-07-01,15.26,15.0,135.0,Health,1
+Calix Inc.,California,CALX,New York,4.0,0.0,104.4,2010-03-24,12.13,13.0,82.276,IT,1
+Tower International Inc.,Michigan,TOWR,New York,76.8,58.2,135.0,2010-10-15,6.42,13.0,81.25,Retail,1
+Pbf Logistics Lp,New Jersey,PBFX,New York,260.3,212.6,1079.9,2014-05-09,7.17,23.0,316.25,Oil,1
+Hexindai Inc.,Texas,HX,Nasdaq,0.0,1342.4,1342.4,2017-11-03,9.26,10.0,50.0,Finance,1
+Twilio Inc.,California,TWLO,New York,0.0,0.0,14.1,2016-06-23,8.3,15.0,150.0,IT,1
+Verona Pharma Plc,Massachusetts,VRNA,Nasdaq,0.0,1984.3,1984.3,2017-04-27,10.99,13.5,77.868,Health,1
+Gain Capital Holdings Inc.,New Jersey,GCAP,New York,0.0,152.5,567.8,2010-12-15,9.76,9.0,81.0,Finance,1
+Freshpet Inc.,New Jersey,FRPT,Nasdaq,12.5,183.6,453.0,2014-11-07,8.09,15.0,156.25,Food,1
+Wheeler Real Estate Investment Trust Inc.,Virginia,WHLR,Nasdaq,5542.1,35412.4,40954.5,2012-11-19,9.05,5.25,21.0,Finance,1
+Parsley Energy Inc.,Texas,PE,New York,0.0,39.9,2137.9,2014-05-23,5.04,18.5,925.0,Oil,1
+Kadmon Holdings Inc.,New York,KDMN,New York,0.0,0.0,6.2,2016-07-27,10.14,12.0,75.0,Health,1
+Maxlinear Inc.,California,MXL,New York,0.0,0.0,27.5,2010-03-24,9.49,14.0,90.217,IT,1
+Yandex NV,Oklahoma,YNDX,Nasdaq,0.0,0.0,3.0,2011-05-24,5.26,25.0,1304.352,IT,1
+Smart Sand Inc.,Texas,SND,Nasdaq,-14.2,3980.8,3994.9,2016-11-04,6.62,11.0,128.7,Chemical,1
+Kura Oncology Inc.,California,KURA,Nasdaq,0.0,363.1,363.1,2015-11-05,5.82,8.0,50.0,Health,1
+Fate Therapeutics Inc.,California,FATE,Nasdaq,0.0,0.0,25.8,2013-10-01,4.63,6.0,40.0,Health,1
+Heritage Insurance Holdings Inc.,Florida,HRTG,New York,0.0,28.9,6380.3,2014-05-23,5.83,11.0,66.0,Finance,1
+Ryb Education Inc.,North Carolina,RYB,New York,0.0,0.1,83.8,2017-09-27,9.67,18.5,144.3,Food,1
+Ellington Financial Inc.,Connecticut,EFC,New York,0.0,435.4,3349.2,2010-10-08,7.89,22.5,101.25,Finance,1
+Fb Financial Corp,Tennessee,FBK,New York,8.5,0.0,3311.9,2016-09-16,3.37,19.0,111.765,Finance,1
+Pbf Energy Inc.,New Jersey,PBF,New York,192.3,4.3,202.1,2012-12-13,18.99,26.0,533.0,Oil,1
+Tracon Pharmaceuticals Inc.,California,TCON,Nasdaq,0.0,0.0,644.4,2015-01-30,8.61,10.0,36.0,Health,1
+Quinstreet Inc.,California,QNST,Nasdaq,0.0,0.1,60.0,2010-02-11,11.05,15.0,150.0,IT,1
+Aclaris Therapeutics Inc.,Pennsylvania,ACRS,Nasdaq,0.0,43.6,4615.8,2015-10-07,10.09,11.0,55.0,Health,1
+Match Group Inc.,Texas,MTCH,Nasdaq,0.0,100.1,150.4,2015-11-19,10.29,12.0,400.0,IT,1
+Akebia Therapeutics Inc.,Massachusetts,AKBA,Nasdaq,0.0,5.9,18.9,2014-03-20,0.37,17.0,100.0,Health,1
+Roku Inc.,California,ROKU,Nasdaq,335.3,0.0,1357.3,2017-09-28,5.58,14.0,219.352,Communications,1
+Performant Financial Corp,California,PFMT,Nasdaq,12.2,0.1,59.1,2012-08-10,10.9,9.0,81.0,Machinery,1
+Jupai Holdings Ltd,Indiana,JP,New York,0.0,0.1,2445.8,2015-07-16,2.98,10.0,53.0,Finance,1
+Orion Engineered Carbons SA,Texas,OEC,New York,698.1,5.5,703.6,2014-07-25,12.04,18.0,351.0,Chemical,1
+Sophiris Bio Inc.,California,SPHS,Nasdaq,-26.9,65.6,766.6,2013-08-16,10.81,5.0,65.0,Health,1
+Tactile Systems Technology Inc.,Minnesota,TCMD,Nasdaq,1.6,26.3,27.9,2016-07-28,13.26,10.0,40.0,Health,1
+DespegarCom Corp,Maryland,DESP,New York,0.0,1576.2,1576.2,2017-09-20,6.58,26.0,332.02,Retail,1
+Eros International Plc,Hawaii,EROS,New York,0.0,63.0,86.1,2013-11-13,5.93,11.0,55.0,Retail,1
+Inovalon Holdings Inc.,Maryland,INOV,Nasdaq,-5.8,42.6,66.7,2015-02-12,10.12,27.0,600.0,IT,1
+Endurance International Group Holdings Inc.,Massachusetts,EIGI,Nasdaq,0.0,0.0,191.3,2013-10-25,6.07,12.0,252.612,IT,1
+Axsome Therapeutics Inc.,New York,AXSM,Nasdaq,-19.4,10.1,45.8,2015-11-19,12.56,9.0,51.0,Health,1
+Yirendai Ltd,New York,YRD,New York,0.0,0.0,691.9,2015-12-18,8.67,10.0,75.0,Finance,1
+Dova Pharmaceuticals Inc.,North Carolina,DOVA,Nasdaq,-31.3,3.0,467.1,2017-06-29,13.43,17.0,75.055,Health,1
+Guaranty Bancshares Inc /Tx/,Texas,GNTY,Nasdaq,9.7,0.0,760.0,2017-05-09,8.51,27.0,54.0,Finance,1
+Qudian Inc.,Washington,QD,New York,14.0,0.0,2306.7,2017-10-18,6.32,24.0,900.0,Finance,1
+Newater Technology Inc.,Arizona,NEWA,Nasdaq,7.7,0.0,7.7,2017-07-28,7.27,5.0,7.0,Machinery,1
+Genocea Biosciences Inc.,Massachusetts,GNCA,Nasdaq,0.0,4.0,127.5,2014-02-05,0.36,12.0,66.0,Health,1
+Warrior Met Coal Inc.,Alabama,HCC,New York,-12.2,2461.8,2474.0,2017-04-13,9.64,19.0,316.667,Chemical,1
+Cyrusone Inc.,Texas,CONE,Nasdaq,60.3,338.0,13326.6,2013-01-18,8.04,19.0,313.5,Finance,1
+Bellicum Pharmaceuticals Inc.,Texas,BLCM,Nasdaq,23.9,7.4,488.9,2014-12-18,17.86,19.0,139.65,Health,1
+Gds Holdings Ltd,Rhode Island,GDS,Nasdaq,-9.9,272.8,282.6,2016-11-02,11.72,10.0,192.5,IT,1
+Gms Inc.,Georgia,GMS,New York,149.0,3291.6,3440.6,2016-05-26,9.24,21.0,147.0,Chemical,1
+Hailiang Education Group Inc.,Minnesota,HLG,Nasdaq,-4.2,0.3,120.4,2015-07-07,9.78,7.0,20.006,Food,1
+Continental Building Products Inc.,Virginia,CBPX,New York,-2.7,0.0,2.7,2014-02-05,8.94,14.0,164.71,Chemical,1
+Atkore International Group Inc.,Illinois,ATKR,New York,-55.3,2.5,1532.8,2016-06-10,7.04,16.0,192.0,Machinery,1
+Century Communities Inc.,Colorado,CCS,New York,64.3,14.1,78.4,2014-06-18,9.99,23.0,103.04,Retail,1
+Pfenex Inc.,California,PFNX,American,0.0,25.3,1582.8,2014-07-24,12.26,6.0,50.0,Health,1
+Tecogen Inc.,Massachusetts,TGEN,Nasdaq,0.0,3.3,60.8,2014-05-20,9.47,4.75,3.077,Chemical,1
+Corvus Pharmaceuticals Inc.,California,CRVS,Nasdaq,22.4,0.0,93.2,2016-03-23,7.2,15.0,70.5,Health,1
+Penumbra Inc.,California,PEN,New York,0.0,3.3,14.0,2015-09-18,14.68,30.0,120.0,Health,1
+Nightstar Therapeutics Plc,Massachusetts,NITE,Nasdaq,405.8,24.5,2763.6,2017-09-28,6.98,14.0,75.04,Health,1
+Netshoes (Cayman) Ltd,New Jersey,NETS,New York,76.7,13.0,89.6,2017-04-12,7.9,18.0,148.5,Retail,1
+Fireeye Inc.,California,FEYE,Nasdaq,0.0,126.5,126.5,2013-09-20,7.95,20.0,303.5,IT,1
+New Home Co Inc.,California,NWHM,New York,282.5,119.2,3121.2,2014-01-31,10.86,11.0,85.938,Retail,1
+Cypress Energy Partners LP,Oklahoma,CELP,New York,0.0,12.2,96.4,2014-01-15,6.1,20.0,75.0,Oil,1
+China Internet Nationwide Financial Services Inc.,North Carolina,CIFS,Nasdaq,42.5,0.0,985.4,2017-08-08,7.72,10.0,20.231,Finance,1
+Dynagas Lng Partners Lp,South Dakota,DLNG,Nasdaq,27.8,0.0,41.2,2013-11-13,4.77,18.0,225.0,Machinery,1
+Pacific Biosciences Of California Inc.,California,PACB,Nasdaq,-27.7,1.2,86.6,2010-10-27,10.79,16.0,200.0,Health,1
+Generac Holdings Inc.,Wisconsin,GNRC,New York,0.0,1983.8,1983.8,2010-02-11,8.05,13.0,243.75,Machinery,1
+Workday Inc.,California,WDAY,New York,120.2,1.3,121.5,2012-10-12,5.16,28.0,637.0,IT,1
+Portola Pharmaceuticals Inc.,California,PTLA,Nasdaq,0.0,318.6,318.6,2013-05-22,10.71,14.5,122.13,Health,1
+Cidara Therapeutics Inc.,California,CDTX,Nasdaq,0.0,0.0,23.8,2015-04-15,10.27,16.0,76.8,Health,1
+Zynerba Pharmaceuticals Inc.,Pennsylvania,ZYNE,Nasdaq,14.7,3.3,18.0,2015-08-05,9.75,14.0,42.0,Health,1
+Calyxt Inc.,Minnesota,CLXT,Nasdaq,-30.9,102.9,2061.9,2017-07-20,7.05,8.0,56.0,Food,1
+Sprague Resources Lp,New Hampshire,SRLP,New York,0.0,178.5,431.6,2013-10-25,9.21,18.0,153.0,Oil,1
+Etsy Inc.,New York,ETSY,Nasdaq,30.6,12.9,518.3,2015-04-16,7.66,16.0,266.667,Retail,1
+58Com Inc.,Virginia,WUBA,New York,0.0,0.0,27.2,2013-10-31,12.21,17.0,187.0,IT,1
+Five Prime Therapeutics Inc.,California,FPRX,Nasdaq,60.4,0.0,60.4,2013-09-18,11.47,13.0,62.4,Health,1
+Plains Gp Holdings Lp,Texas,PAGP,New York,35.8,571.4,607.1,2013-10-16,8.03,22.0,2816.0,Oil,1
+Spring Bank Pharmaceuticals Inc.,Massachusetts,SBPH,Nasdaq,-12.2,1668.4,1680.6,2016-05-06,11.06,12.0,11.04,Health,1
+Costamare Inc.,Wisconsin,CMRE,New York,2.7,77.1,79.8,2010-11-04,14.92,12.0,159.6,Machinery,1
+Protagonist Therapeutics Inc.,California,PTGX,Nasdaq,-28.5,25.6,393.3,2016-08-11,8.69,12.0,90.0,Health,1
+Kimbell Royalty Partners Lp,Texas,KRP,New York,100.9,519.5,620.4,2017-02-03,11.77,18.0,90.0,Oil,1
+Allison Transmission Holdings Inc.,Indiana,ALSN,New York,76.3,14.8,222.8,2012-03-15,8.08,23.0,600.3,Retail,1
+American Midstream Partners Lp,Texas,AMID,New York,724.5,21.1,745.6,2011-07-27,8.03,21.0,78.75,Oil,1
+Tuniu Corp,Oklahoma,TOUR,Nasdaq,263.2,77.1,340.3,2014-05-09,10.12,9.0,72.0,Retail,1
+Moleculin Biotech Inc.,Texas,MBRX,Nasdaq,-1.2,7.7,539.3,2016-06-02,8.47,6.0,9.24,Health,1
+Mastercraft Boat Holdings Inc.,Tennessee,MCFT,Nasdaq,21.2,1165.4,1186.6,2015-07-17,10.67,15.0,91.071,Retail,1
+Pacific Drilling SA,Maryland,PACD,New York,0.0,458.9,458.9,2011-11-11,8.18,8.25,49.5,Oil,1
+Mediwound Ltd,Oregon,MDWD,Nasdaq,-21.2,3.3,32.4,2014-03-20,8.16,14.0,70.0,Health,1
+Celyad SA,Kansas,CYAD,Nasdaq,-3.4,3.3,150.6,2015-06-19,16.29,68.56,100.098,Health,1
+Aeglea Biotherapeutics Inc.,Texas,AGLE,Nasdaq,-19.0,0.0,19.0,2016-04-07,8.86,10.0,50.0,Health,1
+Servicenow Inc.,California,NOW,New York,0.0,90.3,108.4,2012-06-29,13.41,18.0,209.7,IT,1
+Asv Holdings Inc.,Minnesota,ASV,Nasdaq,0.0,0.0,122.9,2017-05-12,7.64,7.0,26.6,Machinery,1
+Malibu Boats Inc.,Tennessee,MBUU,Nasdaq,0.0,0.2,19.1,2014-01-31,9.67,14.0,100.0,Retail,1
+Bank Of NT Butterfield & Son Ltd,Oregon,NTB,New York,3719.9,2165.3,12395.9,2016-09-16,8.91,23.5,250.0,Finance,1
+Kosmos Energy Ltd,Texas,KOS,New York,0.0,42.5,449.3,2011-05-11,10.33,18.0,594.0,Oil,1
+Shopify Inc.,Rhode Island,SHOP,New York,0.0,0.0,131.7,2015-05-21,7.54,17.0,130.9,IT,1
+Usd Partners Lp,Texas,USDP,New York,0.0,207.5,230.6,2014-10-09,8.4,17.0,155.04,Machinery,1
+Sandridge Energy Inc.,Oklahoma,SDR,New York,0.0,0.7,682.3,2012-04-18,10.23,21.0,546.0,Oil,1
+Bg Medicine Inc.,Massachusetts,BGMD,Nasdaq,0.0,246.3,2004.8,2011-02-04,6.56,7.0,35.0,Health,1
+Chiasma Inc.,Massachusetts,CHMA,Nasdaq,-14.6,0.0,14.6,2015-07-16,8.5,16.0,101.84,Health,1
+Hoegh Lng Partners Lp,California,HMLP,New York,0.0,83.5,166.6,2014-08-07,6.24,20.0,192.0,Machinery,1
+Yogaworks Inc.,California,YOGA,Nasdaq,-3.9,1061.5,1065.4,2017-08-11,10.49,5.5,40.15,Retail,1
+Evertec Inc.,Pennsylvania,EVTC,New York,22.2,4.7,972.8,2013-04-12,10.68,20.0,505.263,IT,1
+Ossen Innovation Co Ltd,Kentucky,OSN,Nasdaq,15.4,0.0,73.2,2010-12-21,8.07,4.5,22.5,Chemical,1
+Qiwi,Hawaii,QIWI,Nasdaq,0.0,54.0,54.0,2013-05-03,8.0,17.0,212.5,Finance,1
+Suncoke Energy Partners LP,Illinois,SXCP,New York,0.0,9.4,62.1,2013-01-18,8.85,19.0,256.5,Chemical,1
+Semler Scientific Inc.,California,SMLR,Nasdaq,0.0,1.3,97.8,2014-02-21,8.44,7.0,10.01,Health,1
+Evoqua Water Technologies Corp,Pennsylvania,AQUA,New York,0.0,4.1,3200.0,2017-11-02,7.5,18.0,500.0,Machinery,1
+Dave & Buster'S Entertainment Inc.,Texas,PLAY,Nasdaq,4.1,1548.7,1552.8,2014-10-10,6.58,16.0,94.118,Retail,1
+Wideopenwest Inc.,Colorado,WOW,New York,81.3,0.0,7391.2,2017-05-25,6.01,17.0,310.0,Communications,1
+Dermira Inc.,California,DERM,Nasdaq,0.0,27.0,43.6,2014-10-03,5.77,16.0,125.0,Health,1
+Brixmor Property Group Inc.,New York,BRX,New York,0.0,245.3,245.3,2013-10-30,13.9,20.0,825.0,Finance,1
+Byline Bancorp Inc.,South Carolina,BY,New York,0.0,0.0,1616.5,2017-06-30,6.41,19.0,108.3,Finance,1
+CareCom Inc.,Massachusetts,CRCM,New York,0.4,102.5,102.8,2014-01-24,8.63,17.0,90.95,IT,1
+Esperion Therapeutics Inc.,Michigan,ESPR,Nasdaq,0.0,0.0,4999.8,2013-06-26,13.97,14.0,70.0,Health,1
+Tabula Rasa Healthcare Inc.,New Jersey,TRHC,Nasdaq,0.0,1.4,211.0,2016-09-29,8.86,12.0,51.6,IT,1
+Diplomat Pharmacy Inc.,Michigan,DPLO,New York,-21.6,2485.8,2507.4,2014-10-10,8.7,13.0,173.333,Health,1
+Editas Medicine Inc.,Massachusetts,EDIT,Nasdaq,-24.8,25.2,566.0,2016-02-03,8.95,16.0,94.4,Health,1
+Appian Corp,Virginia,APPN,Nasdaq,0.0,0.0,59.4,2017-05-25,7.97,12.0,75.0,IT,1
+Paramount Group Inc.,New York,PGRE,New York,3.7,226.3,1176.9,2014-11-19,5.24,17.5,2292.5,Finance,1
+Catabasis Pharmaceuticals Inc.,Massachusetts,CATB,Nasdaq,0.0,2587.1,2587.1,2015-06-25,2.68,12.0,60.0,Health,1
+Ultragenyx Pharmaceutical Inc.,California,RARE,Nasdaq,0.0,0.0,23.8,2014-01-31,9.7,21.0,120.968,Health,1
+Codexis Inc.,California,CDXS,Nasdaq,4.5,0.0,546.0,2010-04-22,12.16,13.0,78.0,Health,1
+Extraction Oil & Gas Inc.,Colorado,XOG,Nasdaq,0.0,208.9,208.9,2016-10-12,3.97,19.0,633.333,Oil,1
+Usa Compression Partners Lp,Texas,USAC,New York,11.6,346.7,718.1,2013-01-15,9.17,18.0,198.0,Oil,1
+Energous Corp,California,WATT,Nasdaq,2.9,0.1,1285.5,2014-03-28,11.69,6.0,24.0,IT,1
+Azurrx Biopharma Inc.,New York,AZRX,Nasdaq,18.9,0.0,18.9,2016-10-11,7.54,5.5,5.28,Health,1
+Global Water Resources Inc.,Arizona,GWRS,Nasdaq,0.0,322.8,322.8,2016-04-28,12.53,6.25,7.28,Energy,1
+China Rapid Finance Ltd,Massachusetts,XRF,New York,24.8,0.0,60.1,2017-04-28,10.2,6.0,60.0,Finance,1
+Alder Biopharmaceuticals Inc.,Washington,ALDR,Nasdaq,-22.6,0.0,276.3,2014-05-08,10.62,10.0,80.0,Health,1
+Cloudera Inc.,California,CLDR,New York,0.0,0.0,35.4,2017-04-28,9.18,15.0,225.0,IT,1
+Viper Energy Partners Lp,Texas,VNOM,Nasdaq,0.0,24.9,2002.0,2014-06-18,6.13,26.0,130.0,Oil,1
+Green Plains Partners Lp,Nebraska,GPP,Nasdaq,1925.7,608.6,2534.4,2015-06-26,4.49,15.0,150.0,Oil,1
+Potbelly Corp,Illinois,PBPB,Nasdaq,12.3,50.5,68.6,2013-10-04,9.65,14.0,105.0,Retail,1
+Global Blood Therapeutics Inc.,California,GBT,Nasdaq,0.0,0.0,1051.7,2015-08-12,18.69,20.0,120.0,Health,1
+Aquinox Pharmaceuticals Inc.,Pennsylvania,AQXP,Nasdaq,0.0,0.0,1713.2,2014-03-07,11.59,11.0,46.2,Health,1
+Ppdai Group Inc.,Massachusetts,PPDF,New York,122.1,61.7,630.2,2017-11-10,8.5,13.0,221.0,Finance,1
+Ubiquiti Networks Inc.,New York,UBNT,Nasdaq,0.0,0.2,37.2,2011-10-14,8.78,15.0,105.573,IT,1
+Standard Avb Financial Corp,Pennsylvania,STND,Nasdaq,19.5,155.1,8827.3,2010-10-07,7.69,10.0,34.5,Finance,1
+Scynexis Inc.,New Jersey,SCYX,Nasdaq,0.0,1.7,142.1,2014-05-02,8.0,10.0,62.0,Health,1
+Veritex Holdings Inc.,Texas,VBTX,Nasdaq,0.0,0.0,63.0,2014-10-09,9.23,13.0,35.1,Finance,1
+Ascendis Pharma A/S,Hawaii,ASND,Nasdaq,0.0,5.6,921.5,2015-01-28,9.67,18.0,108.0,Health,1
+Alteryx Inc.,California,AYX,New York,0.0,24.1,59.0,2017-03-24,8.06,14.0,126.0,IT,1
+Coresite Realty Corp,Colorado,COR,New York,443.6,0.0,531.5,2010-09-23,14.22,16.0,270.4,Finance,1
+Venator Materials Plc,Virginia,VNTR,New York,0.0,1.3,224.0,2017-08-03,12.16,20.0,454.0,Chemical,1
+Acacia Communications Inc.,Massachusetts,ACIA,Nasdaq,0.0,45.0,89.0,2016-05-13,3.17,23.0,103.5,IT,1
+Atyr Pharma Inc.,California,LIFE,Nasdaq,0.0,6.9,20.0,2015-05-07,8.63,14.0,75.04,Health,1
+Sportsman'S Warehouse Holdings Inc.,Utah,SPWH,Nasdaq,93.3,2.3,95.6,2014-04-17,1.27,9.5,118.75,Retail,1
+Siteone Landscape Supply Inc.,Georgia,SITE,New York,1.7,0.1,18.9,2016-05-12,8.49,21.0,210.0,Machinery,1
+Vince Holding Corp,New York,VNCE,New York,10.7,85.1,257.8,2013-11-22,5.11,20.0,200.0,Retail,1
+Motif Bio Plc,Virginia,MTFB,Nasdaq,0.0,1.1,182.5,2016-11-18,7.42,6.98,17.021,Health,1
+Cornerstone Ondemand Inc.,California,CSOD,Nasdaq,0.0,535.2,535.2,2011-03-17,7.5,13.0,136.5,IT,1
+Stitch Fix Inc.,California,SFIX,Nasdaq,70.7,74.0,144.7,2017-11-17,10.0,15.0,120.0,Retail,1
+Cara Therapeutics Inc.,Connecticut,CARA,Nasdaq,370.3,0.0,370.3,2014-01-31,4.89,11.0,55.0,Health,1
+Houghton Mifflin Harcourt Co,Massachusetts,HMHC,Nasdaq,86.6,12.6,202.0,2013-11-14,8.64,12.0,219.0,Food,1
+Pacific Coast Oil Trust,Texas,ROYT,New York,938.6,281.1,1219.7,2012-05-03,8.38,20.0,370.0,Oil,1
+Vera Bradley Inc.,Indiana,VRA,Nasdaq,88.4,1354.1,1442.5,2010-10-21,8.15,16.0,176.0,Retail,1
+Coupa Software Inc.,California,COUP,Nasdaq,0.0,0.2,167.2,2016-10-06,8.87,18.0,133.2,IT,1
+Adecoagro SA,Kentucky,AGRO,New York,26.0,0.0,26.0,2011-01-28,13.6,11.0,314.286,Food,1
+Arista Networks Inc.,California,ANET,New York,56.0,0.2,172.4,2014-06-06,10.79,43.0,225.75,IT,1
+Rbb Bancorp,California,RBB,Nasdaq,0.0,156.2,35954.5,2017-07-26,11.89,23.0,86.25,Finance,1
+Elevate Credit Inc.,Texas,ELVT,New York,31.1,249.6,3015.8,2017-04-06,6.48,6.5,80.6,Finance,1
+Mersana Therapeutics Inc.,Massachusetts,MRSN,Nasdaq,0.0,931.6,931.6,2017-06-28,8.69,15.0,75.0,Health,1
+Chicken Soup For The Soul Entertainment Inc.,Connecticut,CSSE,Nasdaq,0.0,93.4,408.1,2017-08-18,1.62,12.0,30.0,Retail,1
+Ardelyx Inc.,California,ARDX,Nasdaq,0.0,0.0,160.8,2014-06-19,10.06,14.0,60.004,Health,1
+Newlink Genetics Corp,Iowa,NLNK,Nasdaq,0.0,0.0,11.0,2011-11-14,0.36,7.0,43.4,Health,1
+Cherry Hill Mortgage Investment Corp,New Jersey,CHMI,New York,0.0,0.0,1066.1,2013-10-04,5.77,20.0,130.0,Finance,1
+Box Inc.,California,BOX,New York,0.0,0.0,2697.0,2015-01-23,9.47,14.0,175.0,IT,1
+Denali Therapeutics Inc.,California,DNLI,Nasdaq,0.0,29.3,60.4,2017-12-08,6.69,18.0,250.0,Health,1
+Cbtx Inc.,Texas,CBTX,Nasdaq,258.7,166.6,35543.7,2017-11-08,10.37,26.0,62.4,Finance,1
+Farmland Partners Inc.,Colorado,FPI,American,0.0,130.5,130.5,2014-04-11,6.69,14.0,53.2,Finance,1
+Flexion Therapeutics Inc.,Massachusetts,FLXN,Nasdaq,-13.3,390.2,3133.9,2014-02-12,10.07,13.0,65.0,Health,1
+Allena Pharmaceuticals Inc.,Massachusetts,ALNA,Nasdaq,6.1,19.4,25.6,2017-11-02,9.35,14.0,74.667,Health,1
+Camping World Holdings Inc.,Illinois,CWH,New York,362.4,93.3,3462.6,2016-10-07,6.61,22.0,250.0,Retail,1
+Clearside Biomedical Inc.,North Carolina,CLSD,Nasdaq,277.0,0.0,277.0,2016-06-02,8.51,7.0,50.4,Health,1
+Franklin Financial Network Inc.,Tennessee,FSB,New York,10.2,196.2,257.4,2015-03-26,9.61,21.0,55.44,Finance,1
+Sogou Inc.,Illinois,SOGO,New York,0.0,0.0,3719.8,2017-11-09,8.76,13.0,585.0,IT,1
+Zai Lab Ltd,District of Columbia,ZLAB,Nasdaq,0.0,0.0,123.8,2017-09-20,8.21,18.0,150.0,Health,1
+Carbonite Inc.,Massachusetts,CARB,Nasdaq,12.7,10.8,64.8,2011-08-11,12.17,10.0,62.5,IT,1
+Gaslog Partners Lp,Massachusetts,GLOP,New York,31.2,477.8,509.0,2014-05-07,7.81,21.0,176.4,Oil,1
+ELF Beauty Inc.,California,ELF,New York,0.0,1871.2,1871.2,2016-09-22,12.31,17.0,141.667,Food,1
+Jagged Peak Energy Inc.,Colorado,JAG,New York,0.0,454.5,454.5,2017-01-27,9.1,15.0,473.99,Oil,1
+Zosano Pharma Corp,California,ZSAN,Nasdaq,0.0,2431.9,2431.9,2015-01-27,11.14,11.0,49.5,Health,1
+Nucana Plc,Arkansas,NCNA,Nasdaq,271.7,3.6,275.3,2017-09-28,12.19,15.0,100.005,Health,1
+Grupo Supervielle SA,Florida,SUPV,New York,17.5,1098.4,1115.8,2016-05-19,9.06,11.0,280.5,Finance,1
+Easterly Government Properties Inc.,Iowa,DEA,New York,284.3,2375.0,3422.9,2015-02-06,12.94,15.0,180.0,Finance,1
+Servicemaster Global Holdings Inc.,Tennessee,SERV,New York,177.1,0.4,177.5,2014-06-26,8.5,17.0,610.3,Machinery,1
+Primo Water Corp,North Carolina,PRMW,Nasdaq,-64.0,0.0,70.0,2010-11-05,12.22,12.0,100.0,Food,1
+Krystal Biotech Inc.,Pennsylvania,KRYS,Nasdaq,0.0,3.6,280.8,2017-09-20,18.68,10.0,39.6,Health,1
+Secureworks Corp,Georgia,SCWX,Nasdaq,-128.1,0.1,401.0,2016-04-22,8.72,14.0,112.0,IT,1
+Lightinthebox Holding Co Ltd,New Hampshire,LITB,New York,0.0,1190.0,1190.0,2013-06-06,6.94,9.5,78.85,Retail,1
+Jianpu Technology Inc.,Wisconsin,JT,New York,0.0,0.0,234.1,2017-11-16,9.68,8.0,180.0,IT,1
+Tristate Capital Holdings Inc.,Pennsylvania,TSC,Nasdaq,0.0,2578.0,2578.0,2013-05-09,7.94,11.5,65.55,Finance,1
+500Com Ltd,Massachusetts,WBAI,New York,3.0,40.7,107.5,2013-11-22,9.06,13.0,75.218,Retail,1
+Horizon Therapeutics Public Ltd Co,Missouri,HZNP,Nasdaq,-26.7,1.7,28.4,2011-07-28,14.04,9.0,49.5,Health,1
+American Renal Associates Holdings Inc.,Massachusetts,ARA,New York,-18.0,0.0,23.4,2016-04-21,10.66,22.0,165.0,Health,1
+Habit Restaurants Inc.,California,HABT,Nasdaq,92.8,89.1,340.6,2014-11-20,5.66,18.0,90.0,Retail,1
+Travelport Worldwide Ltd,Tennessee,TVPT,New York,43.7,13.1,56.8,2014-09-25,8.76,16.0,480.0,Restaurant,1
+Intec Pharma Ltd,New Hampshire,NTEC,Nasdaq,1.7,0.0,2.3,2015-08-04,5.64,6.0,30.15,Health,1
+Genmark Diagnostics Inc.,California,GNMK,Nasdaq,0.0,0.0,202.3,2010-05-28,9.42,6.0,27.6,Health,1
+Interxion Holding NV,Indiana,INXN,New York,0.0,25.0,55.3,2011-01-28,8.57,13.0,264.878,IT,1
+Vascular Biogenics Ltd,South Dakota,VBLT,Nasdaq,16.2,0.0,31.0,2014-10-01,11.66,6.0,40.0,Health,1
+Jernigan Capital Inc.,Tennessee,JCAP,New York,27.4,248.4,275.8,2015-03-27,9.49,20.0,100.0,Finance,1
+Marin Software Inc.,California,MRIN,New York,-13.4,0.0,33.1,2013-03-22,10.65,14.0,105.0,IT,1
+Uniqure NV,Wisconsin,QURE,Nasdaq,-20.7,0.0,20.7,2014-02-05,11.18,17.0,91.8,Health,1
+Novan Inc.,North Carolina,NOVN,Nasdaq,17.3,0.0,2704.3,2016-09-21,7.99,11.0,45.1,Health,1
+Boxlight Corp,Georgia,BOXL,Nasdaq,40.8,0.0,40.8,2017-11-30,7.67,7.0,7.0,IT,1
+Wave Life Sciences Ltd,Maine,WVE,Nasdaq,-5.4,0.0,17.4,2015-11-11,6.83,16.0,102.0,Health,1
+US Silica Holdings Inc.,Maryland,SLCA,New York,0.0,4.3,6283.9,2012-02-01,6.53,17.0,200.0,Chemical,1
+Fortress Transportation & Infrastructure Investors Llc,New York,FTAI,New York,0.0,3.9,824.7,2015-05-15,3.59,17.0,340.0,Machinery,1
+Invitae Corp,California,NVTA,New York,-4.5,2225.9,2230.4,2015-02-12,6.35,16.0,101.6,Health,1
+Nantkwest Inc.,California,NK,Nasdaq,29.2,0.0,112.2,2015-07-28,7.27,25.0,207.2,Health,1
+Delek Logistics Partners Lp,Tennessee,DKL,New York,3.6,51.9,179.5,2012-11-02,6.07,21.0,168.0,Oil,1
+Orthopediatrics Corp,Indiana,KIDS,Nasdaq,0.0,0.0,110.3,2017-10-12,5.56,13.0,52.0,Health,1
+Concert Pharmaceuticals Inc.,Massachusetts,CNCE,Nasdaq,-10.6,0.0,10.6,2014-02-13,12.77,14.0,84.0,Health,1
+Enphase Energy Inc.,California,ENPH,Nasdaq,0.0,0.8,788.0,2012-03-30,9.43,6.0,53.818,IT,1
+Caredx Inc.,California,CDNA,Nasdaq,-22.6,0.0,49.1,2014-07-17,6.82,10.0,40.0,Health,1
+Avianca Holdings SA,Michigan,AVH,New York,0.0,5.6,41.4,2013-11-06,8.69,15.0,408.524,Machinery,1
+Cdw Corp,Illinois,CDW,Nasdaq,0.0,1738.8,1738.8,2013-06-27,8.89,17.0,395.25,IT,1
+Aerohive Networks Inc.,California,HIVE,New York,0.0,0.4,50.1,2014-03-28,7.97,10.0,75.0,IT,1
+Achaogen Inc.,California,AKAO,Nasdaq,-5.6,67.9,509.8,2014-03-12,8.52,12.0,72.0,Retail,1
+Gaslog Ltd,South Carolina,GLOG,New York,33.3,402.7,436.0,2012-03-30,11.51,14.0,329.0,Machinery,1
+Aduro Biotech Inc.,California,ADRO,Nasdaq,-17.3,0.4,45.3,2015-04-15,14.02,17.0,119.0,Health,1
+Brightcove Inc.,Massachusetts,BCOV,Nasdaq,0.0,5.8,1234.8,2012-02-17,10.27,11.0,55.0,IT,1
+Adamas Pharmaceuticals Inc.,California,ADMS,Nasdaq,0.0,0.0,20.2,2014-04-10,11.19,16.0,48.0,Health,1
+Co-Diagnostics Inc.,Utah,CODX,Nasdaq,-21.4,6.7,238.8,2017-07-12,11.14,6.0,7.071,Health,1
+Foresight Energy Lp,Missouri,FELP,New York,0.0,0.0,33.8,2014-06-18,9.13,20.0,350.0,Chemical,1
+Trupanion Inc.,Washington,TRUP,New York,0.0,273.4,6407.8,2014-07-18,6.51,10.0,71.25,Finance,1
+Tibet Pharmaceuticals Inc.,New York,TBET,Nasdaq,440.2,835.2,1275.3,2011-01-25,10.19,5.5,16.5,Health,1
+Erytech Pharma SA,Wisconsin,ERYP,Nasdaq,-24.2,0.0,24.2,2017-11-10,4.66,23.26,108.999,Health,1
+Ringcentral Inc.,California,RNG,New York,14.2,0.0,61.4,2013-09-27,9.04,13.0,97.5,IT,1
+Proto Labs Inc.,Minnesota,PRLB,New York,0.0,0.0,51.8,2012-02-24,4.91,16.0,68.8,Machinery,1
+Myovant Sciences Ltd,Rhode Island,MYOV,New York,0.0,2258.2,2258.2,2016-10-27,9.68,15.0,217.5,Health,1
+Huazhu Group Ltd,Arizona,HTHT,Nasdaq,3.3,31.2,428.8,2010-03-26,8.97,12.25,110.25,Retail,1
+Preferred Apartment Communities Inc.,Georgia,APTS,American,0.0,177.0,177.0,2011-04-01,14.66,10.0,45.0,Finance,1
+Luther Burbank Corp,California,LBC,Nasdaq,131.5,49.7,14094.3,2017-12-08,11.47,10.75,130.613,Finance,1
+Kornit Digital Ltd,Iowa,KRNT,Nasdaq,0.0,557.8,557.8,2015-04-02,4.95,10.0,71.0,Machinery,1
+Marrone Bio Innovations Inc.,California,MBII,Nasdaq,0.0,0.0,16.6,2013-08-02,11.15,12.0,57.0,Chemical,1
+Agile Therapeutics Inc.,New Jersey,AGRX,Nasdaq,-5.8,21.7,2014.0,2014-05-23,9.59,6.0,55.0,Health,1
+Telenav Inc.,California,TNAV,Nasdaq,-1.9,438.7,1304.8,2010-05-13,2.06,8.0,56.0,IT,1
+National Storage Affiliates Trust,Colorado,NSA,New York,0.0,0.0,928.9,2015-04-23,4.16,13.0,260.0,Finance,1
+Bluebird Bio Inc.,Massachusetts,BLUE,Nasdaq,0.0,0.4,122.6,2013-06-19,13.1,17.0,101.0,Health,1
+Shotspotter Inc.,California,SSTI,Nasdaq,0.0,0.3,0.7,2017-06-07,9.54,11.0,30.8,IT,1
+Fabrinet,Rhode Island,FN,New York,0.0,1.1,50.4,2010-06-25,8.7,10.0,85.0,IT,1
+Essent Group Ltd,Virginia,ESNT,New York,19.6,324.7,2283.8,2013-10-31,7.23,17.0,335.072,Finance,1
+Milacron Holdings Corp,Ohio,MCRN,New York,-3.8,79.2,778.1,2015-06-25,3.69,20.0,285.714,Machinery,1
+New Relic Inc.,California,NEWR,New York,0.0,0.6,36.6,2014-12-12,10.28,23.0,115.0,IT,1
+Inogen Inc.,California,INGN,Nasdaq,0.0,1.1,54.5,2014-02-14,8.97,16.0,70.588,Health,1
+Bright Scholar Education Holdings Ltd,Washington,BEDU,New York,0.0,101.7,142336.9,2017-05-18,13.29,10.5,157.5,Food,1
+Sg Blocks Inc.,New York,SGBX,Nasdaq,0.0,614.0,614.0,2017-06-22,11.71,5.0,7.5,Machinery,1
+Shineco Inc.,Texas,TYHT,Nasdaq,5.7,2270.7,2276.4,2016-09-28,8.0,4.5,7.709,Health,1
+Macom Technology Solutions Holdings Inc.,Massachusetts,MTSI,Nasdaq,14.0,554.6,568.6,2012-03-15,8.05,19.0,114.0,IT,1
+Cargurus Inc.,Massachusetts,CARG,Nasdaq,0.0,15.7,97.1,2017-10-12,10.02,16.0,150.4,IT,1
+Tetraphase Pharmaceuticals Inc.,Massachusetts,TTPH,Nasdaq,0.0,2523.4,2523.4,2013-03-20,20.61,7.0,75.0,Health,1
+Ardagh Group SA,Connecticut,ARD,New York,96.6,273.3,369.9,2017-03-15,9.31,19.0,307.8,Retail,1
+Proteostasis Therapeutics Inc.,Massachusetts,PTI,Nasdaq,0.0,1.2,29.0,2016-02-11,0.36,8.0,50.0,Health,1
+Neos Therapeutics Inc.,Texas,NEOS,Nasdaq,0.0,68.3,68.3,2015-07-23,8.45,15.0,72.0,Health,1
+Obalon Therapeutics Inc.,California,OBLN,Nasdaq,-18.7,28.5,134.4,2016-10-06,9.32,15.0,75.0,Health,1
+Armada Hoffler Properties Inc.,Virginia,AHH,New York,0.0,62.8,1082.2,2013-05-08,14.32,11.5,190.038,Finance,1
+Proqr Therapeutics NV,Oklahoma,PRQR,Nasdaq,0.0,20.8,108.2,2014-09-18,7.74,13.0,97.5,Health,1
+Michaels Companies Inc.,Texas,MIK,Nasdaq,27.9,1307.4,1335.3,2014-06-27,1.27,17.0,472.222,Retail,1
+Mammoth Energy Services Inc.,Oklahoma,TUSK,Nasdaq,0.0,2.3,391.6,2016-10-14,5.65,15.0,116.25,Oil,1
+Investar Holding Corp,Louisiana,ISTR,Nasdaq,7.6,1677.4,4542.1,2014-07-01,7.08,14.0,40.25,Finance,1
+Iradimed Corp,Florida,IRMD,Nasdaq,0.0,332.4,3920.9,2014-07-16,10.6,6.25,12.6,Health,1
+Hannon Armstrong Sustainable Infrastructure Capital Inc.,Maryland,HASI,New York,0.0,52.4,2064.0,2013-04-18,9.71,12.5,166.667,Finance,1
+Servicesource International Inc.,Colorado,SREV,Nasdaq,0.0,0.0,51.7,2011-03-25,7.54,10.0,119.401,IT,1
+Pure Storage Inc.,California,PSTG,New York,0.0,0.4,55.3,2015-10-07,9.75,17.0,425.0,IT,1
+Zto Express (Cayman) Inc.,Connecticut,ZTO,New York,0.0,110.5,732.2,2016-10-27,4.53,19.5,1405.95,Machinery,1
+Noah Holdings Ltd,Nebraska,NOAH,New York,0.0,0.0,183.3,2010-11-10,9.63,12.0,100.8,Finance,1
+Amphastar Pharmaceuticals Inc.,California,AMPH,Nasdaq,0.0,0.0,3.3,2014-06-25,8.39,7.0,56.0,Health,1
+Terreno Realty Corp,California,TRNO,New York,0.0,0.0,355.0,2010-02-10,10.24,20.0,175.0,Finance,1
+Secoo Holding Ltd,Illinois,SECO,Nasdaq,0.0,69.8,450.0,2017-09-22,12.41,13.0,110.5,Retail,1
+Xbiotech Inc.,Texas,XBIT,Nasdaq,-12.5,70.0,139.3,2015-04-15,14.29,19.0,76.0,Health,1
+Galmed Pharmaceuticals Ltd,Illinois,GLMD,Nasdaq,0.0,9.4,25.2,2014-03-13,17.53,13.5,38.305,Health,1
+Zendesk Inc.,California,ZEN,New York,-47.9,24.8,1254.9,2014-05-15,11.82,9.0,100.0,IT,1
+Cytomx Therapeutics Inc.,California,CTMX,Nasdaq,22.3,0.0,23.7,2015-10-08,6.84,12.0,80.0,Health,1
+Quanterix Corp,Massachusetts,QTRX,Nasdaq,0.0,7.1,136.2,2017-12-07,14.04,15.0,64.128,Health,1
+Blue Capital Reinsurance Holdings Ltd,Pennsylvania,BCRH,New York,0.0,14.8,48207.2,2013-11-06,12.46,20.0,125.0,Finance,1
+Casa Systems Inc.,Massachusetts,CASA,Nasdaq,0.0,3.9,8.9,2017-12-15,13.87,13.0,78.0,IT,1
+Equity Bancshares Inc.,Kansas,EQBK,Nasdaq,3.6,0.0,1178.2,2015-11-11,3.27,22.5,43.65,Finance,1
+Globus Medical Inc.,Pennsylvania,GMED,New York,0.0,242.2,242.2,2012-08-03,14.26,12.0,100.0,Health,1
+Chemocentryx Inc.,California,CCXI,Nasdaq,0.0,3.1,61.1,2012-02-08,8.07,10.0,45.0,Health,1
+Revance Therapeutics Inc.,California,RVNC,Nasdaq,0.0,10.1,18.0,2014-02-06,17.37,16.0,96.0,Health,1
+Square Inc.,California,SQ,New York,0.0,182.5,987.5,2015-11-19,12.55,9.0,243.0,IT,1
+Fiat Chrysler Automobiles NV,Indiana,FCAU,New York,0.0,1122.0,1122.0,2014-12-12,7.88,11.0,957.0,Retail,1
+China Online Education Group,Tennessee,COE,New York,0.0,261.8,261.8,2016-06-10,8.64,19.0,45.6,Food,1
+Presbia Plc,Oregon,LENS,Nasdaq,-7.6,0.0,47.8,2015-01-29,8.38,10.0,41.667,Clothes,1
+Autohome Inc.,Minnesota,ATHM,New York,0.0,0.0,9.4,2013-12-11,7.16,17.0,132.94,IT,1
+Roadrunner Transportation Systems Inc.,Wisconsin,RRTS,New York,0.0,59.6,4079.8,2010-05-13,7.34,14.0,148.409,Machinery,1
+Globus Maritime Ltd,Pennsylvania,GLBS,Nasdaq,1.0,49.6,50.6,2010-11-26,9.1,11.6,70.962,Machinery,1
+First Data Corp,New York,FDC,New York,0.0,137.4,295.6,2015-10-15,6.93,16.0,2560.0,Machinery,1
+Arcos Dorados Holdings Inc.,Maine,ARCO,New York,22.2,55.6,83.9,2011-04-14,8.15,17.0,1249.231,Retail,1
+Acm Research Inc.,California,ACMR,Nasdaq,0.0,0.0,114.2,2017-11-03,8.82,5.6,11.2,IT,1
+Tandem Diabetes Care Inc.,California,TNDM,Nasdaq,-18.1,59.4,77.5,2013-11-14,11.58,15.0,120.0,Health,1
+Scorpio Tankers Inc.,Hawaii,STNG,New York,0.0,0.0,351.4,2010-03-31,6.12,13.0,162.5,Machinery,1
+Presidio Inc.,New York,PSDO,Nasdaq,68.5,0.0,68.5,2017-03-10,10.62,14.0,233.333,IT,1
+Nmi Holdings Inc.,California,NMIH,Nasdaq,253.1,277.3,530.4,2013-11-08,4.53,13.0,27.344,Finance,1
+Yy Inc.,Ohio,YY,Nasdaq,0.0,115.2,115.2,2012-11-21,13.95,10.5,81.9,IT,1
+Great Ajax Corp,Oregon,AJX,New York,3.5,3619.7,3623.2,2015-02-13,12.32,14.25,71.25,Finance,1
+Mid-Con Energy Partners Lp,Oklahoma,MCEP,Nasdaq,37.3,0.2,149.2,2011-12-15,6.43,18.0,97.2,Oil,1
+Amber Road Inc.,New Jersey,AMBR,New York,0.0,4.3,459.1,2014-03-21,9.4,13.0,96.09,IT,1
+G1 Therapeutics Inc.,North Carolina,GTHX,Nasdaq,389.6,3.9,393.5,2017-05-17,7.96,15.0,105.0,Health,1
+Ovid Therapeutics Inc.,New York,OVID,Nasdaq,-24.2,7.1,56.9,2017-05-05,10.98,15.0,75.0,Health,1
+Great Western Bancorp Inc.,South Dakota,GWB,New York,31.2,92.6,123.8,2014-10-15,9.67,18.0,288.0,Finance,1
+Valvoline Inc.,Kentucky,VVV,New York,0.0,0.9,163.7,2016-09-23,6.7,22.0,660.0,Oil,1
+Tetralogic Pharmaceuticals Corp,New York,TLOG,Nasdaq,0.0,1766.6,1766.6,2013-12-12,8.69,7.0,50.05,Health,1
+Rignet Inc.,Texas,RNET,Nasdaq,0.2,0.1,71.8,2010-12-15,8.8,12.0,60.0,IT,1
+Blueprint Medicines Corp,Massachusetts,BPMC,Nasdaq,-11.8,553.6,1453.9,2015-04-30,13.2,18.0,146.625,Health,1
+Bright Horizons Family Solutions Inc.,Massachusetts,BFAM,New York,-4.0,88.2,319.3,2013-01-25,10.48,22.0,222.2,Retail,1
+Hebron Technology Co Ltd,Maryland,HEBT,Nasdaq,0.0,0.5,79.4,2016-12-27,12.14,4.0,20.0,Machinery,1
+Petiq Inc.,Idaho,PETQ,Nasdaq,0.0,1.2,9.4,2017-07-21,9.23,16.0,100.0,Health,1
+Radius Health Inc.,Massachusetts,RDUS,Nasdaq,5.9,11.6,146.5,2014-06-06,11.84,8.0,52.0,Health,1
+Invitation Homes Inc.,Texas,INVH,New York,72.3,318.6,390.9,2017-02-01,5.68,20.0,1540.0,Finance,1
+Tilly'S Inc.,California,TLYS,New York,13.0,114.3,127.3,2012-05-04,8.31,15.5,124.0,Retail,1
+Vipshop Holdings Ltd,Idaho,VIPS,New York,119.3,0.2,119.5,2012-03-23,9.57,6.5,71.53,Retail,1
+Houlihan Lokey Inc.,California,HLI,New York,0.0,0.0,464.9,2015-08-13,9.9,21.0,220.5,Finance,1
+Veritone Inc.,California,VERI,Nasdaq,0.0,0.2,2084.5,2017-05-12,7.4,15.0,37.5,IT,1
+Blackline Inc.,California,BL,Nasdaq,6.5,7.0,2838.8,2016-10-28,11.69,17.0,146.2,IT,1
+Enviva Partners Lp,Maryland,EVA,New York,-2.4,0.0,12.3,2015-04-29,9.29,20.0,200.0,Chemical,1
+Ollie'S Bargain Outlet Holdings Inc.,Pennsylvania,OLLI,Nasdaq,25.6,0.0,25.6,2015-07-16,7.38,16.0,142.8,Food,1
+Navigator Holdings Ltd,Oklahoma,NVGS,New York,0.0,0.6,3210.3,2013-11-21,8.77,19.0,228.0,Machinery,1
+Hess Midstream Partners Lp,Texas,HESM,New York,0.0,600.7,600.7,2017-04-05,7.23,23.0,339.94,Oil,1
+Ag Mortgage Investment Trust Inc.,New York,MITT,New York,19.6,1313.0,2699.0,2011-06-30,6.31,20.0,110.0,Finance,1
+Fitbit Inc.,California,FIT,New York,0.0,0.1,18.8,2015-06-18,7.44,20.0,731.5,IT,1
+Oasis Midstream Partners Lp,Texas,OMP,New York,1580.2,339.4,1919.6,2017-09-21,8.06,17.0,127.5,Oil,1
+Black Stone Minerals LP,Texas,BSM,New York,95.0,1170.4,1265.4,2015-05-01,6.99,19.0,427.5,Oil,1
+Cheetah Mobile Inc.,Maryland,CMCM,New York,0.0,147.7,147.7,2014-05-08,6.64,14.0,168.0,IT,1
+Commscope Holding Company Inc.,North Carolina,COMM,Nasdaq,16.0,0.0,26.0,2013-10-25,10.45,15.0,576.923,IT,1
+Mesoblast Ltd,Tennessee,MESO,Nasdaq,0.0,7.2,101.8,2015-11-13,8.56,8.0,59.837,Health,1
+Enable Midstream Partners Lp,Oklahoma,ENBL,New York,0.0,27.5,81.5,2014-04-11,6.73,20.0,500.0,Oil,1
+Dorian Lpg Ltd,Connecticut,LPG,New York,37.0,0.2,72.3,2014-05-08,4.71,19.0,135.0,Machinery,1
+Installed Building Products Inc.,Ohio,IBP,New York,-8.6,14.8,29.4,2014-02-13,10.4,11.0,81.95,Chemical,1
+Allegiance Bancshares Inc.,Texas,ABTX,Nasdaq,0.0,0.0,734.4,2015-10-08,8.64,21.0,54.6,Finance,1
+Htg Molecular Diagnostics Inc.,Arizona,HTGM,Nasdaq,0.0,0.0,3544.8,2015-05-06,8.46,14.0,49.98,Health,1
+Bp Midstream Partners Lp,Texas,BPMP,New York,0.0,19.9,764.6,2017-10-26,10.46,18.0,765.0,Oil,1
+Verastem Inc.,Massachusetts,VSTM,Nasdaq,0.0,3.6,11.7,2012-01-27,7.32,10.0,55.0,Health,1
+Voyager Therapeutics Inc.,Massachusetts,VYGR,Nasdaq,0.0,0.0,202.9,2015-11-11,7.49,14.0,70.0,Health,1
+Chesapeake Energy Corp,Oklahoma,CHKR,New York,0.0,328.8,328.8,2011-11-14,8.94,19.0,380.0,Oil,1
+Recro Pharma Inc.,Pennsylvania,REPH,Nasdaq,-3.3,1.4,23.4,2014-03-07,12.63,8.0,30.0,Health,1
+Tdh Holdings Inc.,Illinois,PETZ,Nasdaq,102.2,0.0,3041.4,2017-09-21,6.49,4.25,5.631,Food,1
+Aramark,Pennsylvania,ARMK,New York,289.4,307.8,597.2,2013-12-12,11.87,20.0,725.0,Retail,1
+Kinsale Capital Group Inc.,Virginia,KNSL,Nasdaq,17.7,0.0,2760.7,2016-07-28,10.25,16.0,105.6,Finance,1
+Fs Bancorp Inc.,Washington,FSBW,Nasdaq,0.0,127.0,1788.1,2012-07-10,6.67,10.0,28.175,Finance,1
+Fluidigm Corp,California,FLDM,Nasdaq,-24.8,0.4,26.2,2011-02-10,5.66,13.5,75.037,Health,1
+Sky Solar Holdings Ltd,Washington,SKYS,Nasdaq,37.5,0.0,97.0,2014-11-13,15.3,8.0,44.2,Energy,1
+Beyondspring Inc.,New York,BYSI,Nasdaq,-31.4,0.0,31.4,2017-03-09,16.62,20.0,3.486,Health,1
+Hilton Worldwide Holdings Inc.,Virginia,HLT,New York,28.4,55.4,107.9,2013-12-12,1.69,20.0,2352.812,Retail,1
+Brookfield Renewable Energy Partners LP,Idaho,BEP,New York,-3.7,24.3,28.0,2013-06-11,12.24,9.99,500.0,Energy,1
+Infrareit Inc.,Texas,HIFR,New York,-11.5,0.0,103.8,2015-01-30,4.06,23.0,460.0,Media,1
+Scpharmaceuticals Inc.,Massachusetts,SCPH,Nasdaq,0.0,0.0,912.8,2017-11-17,9.67,14.0,89.6,Health,1
+Gnc Holdings Inc.,Pennsylvania,GNC,New York,0.0,0.0,891.1,2011-04-01,11.95,16.0,360.0,Food,1
+Whitestone Reit,Texas,WSR,American,347.1,262.1,837.2,2010-08-26,12.69,12.0,26.4,Finance,1
+Fulgent Genetics Inc.,California,FLGT,Nasdaq,0.0,2107.2,2107.2,2016-09-29,14.19,9.0,37.8,Health,1
+Kala Pharmaceuticals Inc.,Massachusetts,KALA,Nasdaq,0.0,23.2,194.9,2017-07-20,10.43,15.0,90.0,Health,1
+Momo Inc.,Wisconsin,MOMO,Nasdaq,-11.0,0.0,35.9,2014-12-11,7.75,13.5,216.0,IT,1
+Metropolitan Bank Holding Corp,New York,MCB,New York,0.0,0.0,2432.1,2017-11-08,7.62,35.0,108.5,Finance,1
+Israel Chemicals Ltd,Virginia,ICL,New York,0.0,572.6,572.6,2014-09-24,16.45,7.0,421.107,Chemical,1
+Regenxbio Inc.,Maryland,RGNX,Nasdaq,-1.2,3.4,24.7,2015-09-17,11.76,22.0,138.6,Health,1
+Splunk Inc.,California,SPLK,Nasdaq,0.0,422.5,422.5,2012-04-19,11.34,17.0,229.5,IT,1
+Shutterstock Inc.,New York,SSTK,New York,0.0,16.8,258.4,2012-10-11,10.98,17.0,76.5,IT,1
+Zealand Pharma A/S,Rhode Island,ZEAL,Nasdaq,0.0,0.0,92.0,2017-08-09,13.71,17.87,78.181,Health,1
+Iclick Interactive Asia Group Ltd,Kansas,ICLK,Nasdaq,19.5,42.6,76.1,2017-12-22,13.68,8.0,30.0,Retail,1
+Walker & Dunlop Inc.,Maryland,WD,New York,18.0,13.4,40372.5,2010-12-15,3.95,10.0,100.0,Finance,1
+Boingo Wireless Inc.,California,WIFI,Nasdaq,29.2,0.0,1163.8,2011-05-04,8.63,13.5,77.895,Communications,1
+Evoke Pharma Inc.,California,EVOK,Nasdaq,-22.2,0.0,3572.9,2013-09-25,8.91,12.0,25.2,Health,1
+Aquaventure Holdings Ltd,Oregon,WAAS,New York,0.0,306.8,306.8,2016-10-06,8.04,18.0,117.0,Energy,1
+Rumbleon Inc.,Texas,RMBL,Nasdaq,-4.8,0.0,156.9,2017-10-19,11.98,5.5,16.005,Retail,1
+Yintech Investment Holdings Ltd,New Jersey,YIN,Nasdaq,0.0,0.0,131856.1,2016-04-27,5.89,13.5,101.25,Finance,1
+Green Dot Corp,California,GDOT,New York,32.1,255.6,287.7,2010-07-22,2.45,36.0,164.09,Finance,1
+Alpha & Omega Semiconductor Ltd,California,AOSL,Nasdaq,0.0,0.0,303.0,2010-04-29,13.7,18.0,91.548,IT,1
+Rh,California,RH,New York,28.6,0.0,395.8,2012-11-02,10.97,24.0,123.944,Retail,1
+Auris Medical Holding Ltd,California,EARS,Nasdaq,0.0,0.0,53.1,2014-08-06,11.97,6.0,56.4,Health,1
+Grana & Montero SAA,Nevada,GRAM,New York,0.0,262.4,262.4,2013-07-24,11.3,21.13,412.772,Machinery,1
+Ocular Therapeutix Inc.,Massachusetts,OCUL,Nasdaq,-4.2,12.5,16.7,2014-07-25,5.58,13.0,65.0,Health,1
+Vivint Solar Inc.,Utah,VSLR,New York,3.2,0.0,8.7,2014-10-01,10.89,16.0,329.6,IT,1
+Jumei International Holding Ltd,Colorado,JMEI,New York,99.1,1540.2,1639.3,2014-05-16,10.77,22.0,245.08,Retail,1
+Cadence Bancorporation,Texas,CADE,New York,5827.7,52.5,269635.9,2017-04-13,7.07,20.0,150.0,Finance,1
+Azure Power Global Ltd,Massachusetts,AZRE,New York,57.4,0.0,57.4,2016-10-12,13.98,18.0,61.364,Energy,1
+Luxoft Holding Inc.,Washington,LXFT,New York,0.0,0.0,89.5,2013-06-26,8.86,17.0,69.565,IT,1
+Medpace Holdings Inc.,Ohio,MEDP,Nasdaq,27.0,0.0,31.3,2016-08-11,14.53,23.0,161.0,Health,1
+Okta Inc.,California,OKTA,Nasdaq,0.0,2.4,63.0,2017-04-07,10.97,17.0,187.0,IT,1
+Safehold Inc.,New York,SAFE,New York,5.9,0.0,542.7,2017-06-22,9.78,20.0,205.0,Finance,1
+Biohaven Pharmaceutical Holding Co Ltd,Connecticut,BHVN,New York,0.0,37.5,37.5,2017-05-04,0.33,17.0,168.3,Health,1
+Dogness (International) Corp,Indiana,DOGZ,Nasdaq,0.0,1029.5,1029.5,2017-12-20,7.57,5.0,55.0,Food,1
+Arcadia Biosciences Inc.,Connecticut,RKDA,Nasdaq,954.2,0.3,954.4,2015-05-15,13.83,8.0,65.6,Chemical,1
+Dbv Technologies SA,Maryland,DBVT,Nasdaq,445.5,0.3,445.8,2014-10-22,6.88,21.64,92.572,Health,1
+Davidstea Inc.,Georgia,DTEA,Nasdaq,0.0,3.1,85.6,2015-06-05,5.78,19.0,96.9,Food,1
+Axalta Coating Systems Ltd,Pennsylvania,AXTA,New York,8.2,120.4,128.6,2014-11-12,10.79,19.5,975.0,Chemical,1
+Control4 Corp,Utah,CTRL,Nasdaq,0.0,4.9,48.0,2013-08-02,2.36,16.0,64.0,IT,1
+Ptc Therapeutics Inc.,New Jersey,PTCT,Nasdaq,64.0,169.9,233.9,2013-06-20,8.17,15.0,125.58,Health,1
+Carvana Co,Arizona,CVNA,New York,0.0,0.2,257.5,2017-04-28,9.05,15.0,225.0,Retail,1
+Townsquare Media Inc.,Connecticut,TSQ,New York,14.0,0.0,73.5,2014-07-24,9.15,11.0,91.667,Retail,1
+Galapagos Nv,Louisiana,GLPG,Nasdaq,64.8,672.7,737.5,2015-05-14,16.48,42.05,275.428,Health,1
+Zogenix Inc.,California,ZGNX,Nasdaq,-25.7,0.0,186.1,2010-11-23,18.15,4.0,56.0,Health,1
+Laredo Petroleum Inc.,Oklahoma,LPI,New York,42.9,0.0,94.9,2011-12-15,8.48,17.0,297.5,Oil,1
+Ares Management Corp,California,ARES,New York,0.0,55.1,21271.1,2014-05-02,10.0,19.0,215.909,Finance,1
+Ichor Holdings Ltd,California,ICHR,Nasdaq,0.0,0.0,431.4,2016-12-09,8.25,9.0,52.9,IT,1
+Trinet Group Inc.,California,TNET,New York,-3.1,0.2,65.7,2014-03-27,7.82,16.0,240.0,Machinery,1
+Shell Midstream Partners LP,Texas,SHLX,New York,105.0,8.6,545.4,2014-10-29,9.78,23.0,920.0,Oil,1
+Criteo SA,Louisiana,CRTO,Nasdaq,-1.4,0.0,34.6,2013-10-30,10.94,31.0,250.56,IT,1
+Scorpio Bulkers Inc.,Massachusetts,SALT,New York,2.0,0.0,81.4,2013-12-12,8.5,9.75,305.175,Machinery,1
+Manchester United Plc,Pennsylvania,MANU,New York,29.4,122.0,323.9,2012-08-10,6.87,14.0,233.333,Retail,1
+Summit Midstream Partners Lp,Texas,SMLP,New York,2149.0,4064.3,6213.2,2012-09-28,6.71,20.0,250.0,Oil,1
+Seaworld Entertainment Inc.,Florida,SEAS,New York,29.2,41.9,71.1,2013-04-19,6.56,27.0,702.0,Retail,1
+Community Healthcare Trust Inc.,Tennessee,CHCT,New York,0.0,0.0,476.4,2015-05-21,8.2,19.0,118.75,Finance,1
+Hamilton Lane Inc.,Pennsylvania,HLNE,Nasdaq,0.0,202.5,202.5,2017-03-01,8.81,16.0,190.0,Finance,1
+Syndax Pharmaceuticals Inc.,Massachusetts,SNDX,Nasdaq,0.0,1.1,69.4,2016-03-03,10.78,12.0,52.8,Health,1
+Yelp Inc.,California,YELP,New York,-17.0,404.3,421.3,2012-03-02,10.96,15.0,107.25,IT,1
+Nexa Resources SA,New York,NEXA,New York,0.0,5.3,111.1,2017-10-27,10.2,16.0,496.0,Chemical,1
+Electromed Inc.,Minnesota,ELMD,Nasdaq,0.0,803.1,803.1,2010-08-13,6.15,4.0,6.8,Health,1
+Foamix Pharmaceuticals Ltd,Kansas,FOMX,Nasdaq,-1.7,0.0,3341.6,2014-09-18,14.09,6.0,40.2,Health,1
+Atossa Genetics Inc.,Washington,ATOS,Nasdaq,1.8,904.5,906.3,2012-11-08,6.33,5.0,4.0,Health,1
+Intermolecular Inc.,California,IMI,Nasdaq,0.0,0.1,125.2,2011-11-18,11.99,10.0,96.5,IT,1
+Catchmark Timber Trust Inc.,Georgia,CTT,New York,59.7,192.4,252.2,2013-12-12,8.34,13.5,142.105,Finance,1
+Aimmune Therapeutics Inc.,California,AIMT,Nasdaq,1.6,219.6,221.2,2015-08-06,10.97,16.0,160.0,Health,1
+Constellium NV,Oregon,CSTM,New York,-3.2,0.0,147.2,2013-05-23,11.56,15.0,333.333,Chemical,1
+Paylocity Holding Corp,Illinois,PCTY,Nasdaq,13.6,0.0,44.3,2014-03-19,8.24,17.0,119.765,IT,1
+Reata Pharmaceuticals Inc.,Texas,RETA,Nasdaq,29.9,0.0,29.9,2016-05-26,14.61,11.0,60.5,Health,1
+Impinj Inc.,Washington,PI,Nasdaq,-6.5,0.0,17.4,2016-07-21,10.62,14.0,67.2,IT,1
+Spero Therapeutics Inc.,Massachusetts,SPRO,Nasdaq,0.0,54.0,173.9,2017-11-02,8.74,14.0,77.0,Health,1
+Rev Group Inc.,Wisconsin,REVG,New York,15.5,1556.8,1572.4,2017-01-27,11.31,22.0,275.0,Retail,1
+Intercept Pharmaceuticals Inc.,New York,ICPT,Nasdaq,-3.7,894.3,898.0,2012-10-11,8.36,15.0,75.0,Health,1
+Innovative Industrial Properties Inc.,California,IIPR,New York,0.0,110.2,13630.9,2016-12-01,19.83,20.0,67.0,Finance,1
+American Homes 4 Rent,California,AMH,New York,-0.5,0.0,26607.2,2013-08-01,3.8,16.0,705.882,Finance,1
+Servisfirst Bancshares Inc.,Alabama,SFBS,Nasdaq,0.0,279.3,333.8,2014-05-14,9.0,91.0,56.875,Finance,1
+Cyberark Software Ltd,North Carolina,CYBR,Nasdaq,0.0,0.0,32.0,2014-09-24,1.17,16.0,14.4,IT,1
+Express Inc.,Ohio,EXPR,New York,-4.4,70.7,75.1,2010-05-13,9.23,17.0,272.0,Retail,1
+Clipper Realty Inc.,New York,CLPR,New York,0.0,145.7,135215.1,2017-02-10,8.39,13.5,76.95,Finance,1
+Bloomin' Brands Inc.,Florida,BLMN,Nasdaq,0.0,98.4,396.2,2012-08-08,12.05,11.0,176.0,Retail,1
+Ameresco Inc.,Massachusetts,AMRC,New York,0.0,0.6,90.1,2010-07-22,10.21,10.0,86.968,Machinery,1
+Alimera Sciences Inc.,Georgia,ALIM,Nasdaq,0.0,1.7,533.5,2010-04-22,9.47,11.0,72.05,Health,1
+Empire State Realty Trust Inc.,New York,ESRT,New York,315.4,348.8,3528.3,2013-10-02,7.94,13.0,929.5,Finance,1
+Sps Commerce Inc.,Minnesota,SPSC,Nasdaq,15.7,32.1,174.6,2010-04-22,8.82,12.0,49.16,IT,1
+Papa Murphy'S Holdings Inc.,Washington,FRSH,Nasdaq,11.8,17.4,84.1,2014-05-02,10.1,11.0,64.167,Food,1
+Alibaba Group Holding Ltd,Maine,BABA,New York,14.4,0.2,36.8,2014-09-19,11.67,68.0,21767.215,Retail,1
+Mplx Lp,Ohio,MPLX,New York,170.9,197.1,434.7,2012-10-26,5.94,22.0,380.6,Oil,1
+Superior Drilling Products Inc.,Utah,SDPI,American,0.0,2.3,150.8,2014-05-23,7.01,4.0,27.0,Oil,1
+Sterling Bancorp Inc.,Michigan,SBT,Nasdaq,4.3,1713.9,1718.2,2017-11-17,1.02,12.0,180.0,Finance,1
+Odonate Therapeutics Inc.,California,ODT,Nasdaq,0.0,1674.9,1674.9,2017-12-07,6.69,24.0,150.0,Health,1
+Piedmont Office Realty Trust Inc.,Georgia,PDM,New York,0.0,70.1,83.6,2010-02-10,3.26,14.5,174.0,Finance,1
+Stemline Therapeutics Inc.,New York,STML,Nasdaq,-29.2,0.0,265.1,2013-01-29,10.8,10.0,33.176,Health,1
+Tantech Holdings Ltd,Kentucky,TANH,Nasdaq,0.0,55.4,6678.1,2015-03-24,8.11,4.0,12.8,Chemical,1
+Controladora Vuela Compania De Aviacion SAB De CV,Pennsylvania,VLRS,New York,3.1,91.7,94.8,2013-09-18,8.07,12.0,271.763,Machinery,1
+Myokardia Inc.,California,MYOK,Nasdaq,-1.2,0.0,21.5,2015-10-29,10.25,10.0,54.375,Health,1
+Airgain Inc.,California,AIRG,Nasdaq,0.0,1.8,44.4,2016-08-12,7.65,8.0,12.0,IT,1
+Kindred Biosciences Inc.,California,KIN,Nasdaq,0.0,0.0,8.3,2013-12-12,10.81,7.0,52.5,Health,1
+Angie'S List Inc.,Indiana,ANGI,Nasdaq,0.0,33.8,50.2,2011-11-17,7.9,13.0,114.314,IT,1
+Ncs Multistage Holdings Inc.,Texas,NCSM,Nasdaq,100.6,184.7,5316.7,2017-04-28,4.89,17.0,161.5,Oil,1
+Truecar Inc.,California,TRUE,Nasdaq,0.0,0.0,131.6,2014-05-16,14.03,9.0,69.975,IT,1
+Re/Max Holdings Inc.,Colorado,RMAX,New York,0.0,292.6,38918.7,2013-10-02,9.27,22.0,220.0,Finance,1
+Fuling Global Inc.,Virginia,FORK,Nasdaq,14.0,64.8,394.2,2015-11-04,5.21,5.0,20.0,Retail,1
+Renewable Energy Group Inc.,Iowa,REGI,Nasdaq,66.8,87.1,278.7,2012-01-19,12.17,10.0,72.0,Oil,1
+Gopro Inc.,California,GPRO,Nasdaq,0.0,28.6,51.3,2014-06-26,9.51,24.0,427.2,IT,1
+Nabriva Therapeutics Plc,Hawaii,NBRV,Nasdaq,-9.9,0.0,107.8,2015-09-18,10.63,10.25,92.25,Health,1
+Sachem Capital Corp,Connecticut,SACH,NYSE MKT,0.0,0.0,1403.4,2017-02-10,9.56,5.0,13.0,Finance,1
+Workiva Inc.,Iowa,WK,New York,0.0,0.0,81.7,2014-12-12,6.03,14.0,100.8,IT,1
+Spark Therapeutics Inc.,Pennsylvania,ONCE,Nasdaq,-24.7,1518.0,1542.7,2015-01-30,10.66,23.0,161.0,Health,1
+Amyris Inc.,California,AMRS,Nasdaq,1020.5,4.3,1024.8,2010-09-28,9.89,16.0,84.8,Chemical,1
+Andatee China Marine Fuel Services Corp,New Jersey,AMCF,Nasdaq,33.3,60.2,93.5,2010-01-26,8.94,6.3,19.75,Oil,1
+Quantenna Communications Inc.,California,QTNA,Nasdaq,-13.6,578.4,592.0,2016-10-28,10.42,16.0,107.2,IT,1
+Surgery Partners Inc.,Tennessee,SGRY,Nasdaq,0.0,0.0,4.9,2015-10-01,9.88,19.0,271.415,Health,1
+Aqua Metals Inc.,Nevada,AQMS,Nasdaq,0.0,127.0,750.2,2015-07-31,14.69,5.0,33.0,Machinery,1
+Makemytrip Ltd,Indiana,MMYT,Nasdaq,31.5,14.0,76.8,2010-08-12,8.55,14.0,70.0,Retail,1
+Intellia Therapeutics Inc.,Massachusetts,NTLA,Nasdaq,0.0,10.9,51.3,2016-05-06,9.14,18.0,108.0,Health,1
+Foundation Building Materials Inc.,California,FBM,New York,0.0,109.4,1012.1,2017-02-10,6.5,14.0,179.2,Machinery,1
+Mix Telematics Ltd,Colorado,MIXT,New York,0.0,129.8,129.8,2013-08-09,16.55,16.0,100.738,IT,1
+Sandridge Energy Inc.,Oklahoma,SDT,New York,0.0,3917.3,3917.3,2011-04-07,6.26,21.0,315.0,Oil,1
+Bonanza Creek Energy Inc.,Colorado,BCEI,New York,171.8,143.8,1676.8,2011-12-15,5.93,17.0,170.0,Oil,1
+Guidewire Software Inc.,California,GWRE,New York,0.0,0.0,63.9,2012-01-25,12.47,13.0,115.05,IT,1
+Biocept Inc.,California,BIOC,Nasdaq,-25.1,0.0,25.1,2014-02-05,11.62,10.0,19.0,Health,1
+Tri Pointe Group Inc.,California,TPH,New York,71.3,36.4,3697.2,2013-01-31,11.31,17.0,232.713,Retail,1
+Trivago NV,Pennsylvania,TRVG,Nasdaq,0.0,120.4,120.4,2016-12-16,7.45,11.0,287.211,Retail,1
+Valeritas Holdings Inc.,New Jersey,VLRX,Nasdaq,0.0,0.0,1795.7,2017-03-23,16.48,10.0,52.5,Health,1
+Bluerock Residential Growth Reit Inc.,New York,BRG,American,0.0,14.2,660.5,2014-03-28,7.18,14.5,50.0,Finance,1
+Anaptysbio Inc.,California,ANAB,Nasdaq,0.0,0.4,3.0,2017-01-26,9.9,15.0,75.0,Health,1
+Zymeworks Inc.,New Jersey,ZYME,New York,0.0,0.0,25.0,2017-04-28,12.15,13.0,58.5,Health,1
+Aquantia Corp,California,AQ,New York,444.8,7.5,452.3,2017-11-03,6.07,9.0,61.362,IT,1
+Boise Cascade Co,Idaho,BCC,New York,0.0,0.0,12.9,2013-02-06,14.45,21.0,247.059,Chemical,1
+Urogen Pharma Ltd,Oregon,URGN,Nasdaq,0.0,1.1,198.8,2017-05-04,9.75,13.0,58.154,Health,1
+Antero Midstream Partners Lp,Colorado,AM,New York,0.0,156.6,156.6,2014-11-05,9.79,25.0,1000.0,Oil,1
+Esh Hospitality Inc.,North Carolina,STAY,New York,2.5,95.7,98.2,2013-11-13,10.86,20.0,565.0,Retail,1
+Ameri Holdings Inc.,Georgia,AMRH,Nasdaq,0.0,6.6,35.6,2017-11-17,10.26,4.12,6.077,IT,1
+Gevo Inc.,Colorado,GEVO,Nasdaq,0.0,3900.3,7899.2,2011-02-09,13.06,15.0,107.25,Chemical,1
+El Pollo Loco Holdings Inc.,California,LOCO,Nasdaq,86.2,36.7,215.4,2014-07-25,17.3,15.0,107.143,Retail,1
+First Hawaiian Inc.,Hawaii,FHB,Nasdaq,0.0,0.0,2535.4,2016-08-04,5.91,23.0,485.0,Finance,1
+Appfolio Inc.,California,APPF,Nasdaq,0.0,10.9,96.7,2015-06-26,6.08,12.0,74.4,IT,1
+City Office Reit Inc.,Nebraska,CIO,New York,10.1,0.0,3539.2,2014-04-15,8.14,12.5,72.5,Finance,1
+Mongodb Inc.,New York,MDB,Nasdaq,0.0,0.0,43.2,2017-10-19,16.53,24.0,192.0,IT,1
+Baozun Inc.,Georgia,BZUN,Nasdaq,97.5,1114.5,1212.0,2015-05-21,7.92,10.0,110.0,Retail,1
+Howard Hughes Corp,Texas,HHC,New York,0.0,667.4,667.4,2010-11-10,11.72,36.9,708.842,Finance,1
+Syros Pharmaceuticals Inc.,Massachusetts,SYRS,Nasdaq,70.0,0.0,3695.8,2016-06-30,8.7,12.5,50.0,Health,1
+Zayo Group Holdings Inc.,Colorado,ZAYO,New York,0.0,170.8,811.3,2014-10-17,7.84,19.0,400.0,IT,1
+Rhythm Pharmaceuticals Inc.,Massachusetts,RYTM,Nasdaq,0.0,1.5,71.4,2017-10-05,17.45,17.0,119.85,Health,1
+Acushnet Holdings Corp,Massachusetts,GOLF,New York,67.8,0.0,161.5,2016-10-28,9.38,17.0,328.667,Retail,1
+Noodles & Co,Colorado,NDLS,Nasdaq,0.0,55.6,55.6,2013-06-28,1.38,18.0,96.429,Retail,1
+Redfin Corp,Washington,RDFN,Nasdaq,0.0,2997.2,116020.0,2017-07-28,11.48,15.0,138.465,Finance,1
+Zk International Group Co Ltd,Virginia,ZKIN,Nasdaq,-22.3,201.9,224.3,2017-09-01,9.39,5.0,5.342,Chemical,1
+Kamada Ltd,District of Columbia,KMDA,Nasdaq,42.7,6.1,181.3,2013-05-31,8.53,9.25,51.639,Health,1
+Palo Alto Networks Inc.,California,PANW,New York,0.0,0.0,45.7,2012-07-20,10.24,42.0,260.4,IT,1
+Propetro Holding Corp,Texas,PUMP,New York,0.0,82.2,193.8,2017-03-17,7.71,14.0,350.0,Oil,1
+Ra Pharmaceuticals Inc.,Massachusetts,RARX,Nasdaq,0.0,22.8,63.9,2016-10-26,8.7,13.0,91.64,Health,1
+Epizyme Inc.,Massachusetts,EPZM,Nasdaq,0.0,1.7,1972.7,2013-05-31,6.83,15.0,77.13,Health,1
+Yext Inc.,New York,YEXT,New York,0.0,0.0,292.4,2017-04-13,9.98,11.0,115.5,IT,1
+21Vianet Group Inc.,Tennessee,VNET,Nasdaq,0.0,0.0,301.8,2011-04-21,9.62,15.0,195.0,IT,1
+Wayfair Inc.,Massachusetts,W,New York,85.1,86.5,171.6,2014-10-02,9.69,29.0,319.0,Retail,1
+Chinacache International Holdings Ltd,Colorado,CCIH,Nasdaq,-5.4,18.6,1089.2,2010-10-01,8.4,13.9,84.248,IT,1
+Curo Group Holdings Corp,Kansas,CURO,New York,8.8,0.0,2801.4,2017-12-07,3.64,14.0,93.333,Finance,1
+Akers Biosciences Inc.,New Jersey,AKER,Nasdaq,-26.9,2354.2,4083.5,2014-01-23,11.64,5.5,14.998,Health,1
+Ss&C Technologies Holdings Inc.,Connecticut,SSNC,Nasdaq,0.0,0.0,101.0,2010-03-31,14.47,15.0,160.875,IT,1
+Five9 Inc.,California,FIVN,Nasdaq,31.3,482.7,739.9,2014-04-04,12.61,7.0,70.0,IT,1
+Duluth Holdings Inc.,Wisconsin,DLTH,Nasdaq,90.3,1538.7,1629.0,2015-11-20,6.63,12.0,80.0,Retail,1
+Solaredge Technologies Inc.,South Carolina,SEDG,Nasdaq,21.4,0.0,56.2,2015-03-26,9.03,18.0,126.0,IT,1
+Gw Pharmaceuticals Plc,District of Columbia,GWPH,Nasdaq,21.2,4.0,25.2,2013-05-01,8.62,8.9,31.15,Health,1
+Store Capital Corp,Arizona,STOR,New York,0.0,93.5,688.8,2014-11-18,13.02,18.5,508.75,Finance,1
+Jeld-Wen Holding Inc.,North Carolina,JELD,New York,0.0,0.0,243.0,2017-01-27,10.17,23.0,575.0,Chemical,1
+Q2 Holdings Inc.,Texas,QTWO,New York,0.0,3.8,144.7,2014-03-20,10.45,13.0,100.891,IT,1
+Party City Holdco Inc.,New York,PRTY,New York,26.3,46.3,267.1,2015-04-16,6.71,17.0,371.875,Retail,1
+Shake Shack Inc.,New York,SHAK,New York,62.3,96.6,158.9,2015-01-30,8.09,21.0,105.0,Retail,1
+JdCom Inc.,Oklahoma,JD,Nasdaq,13.1,90.0,480.3,2014-05-22,9.38,19.0,1780.027,Retail,1
+Tremont Mortgage Trust,Massachusetts,TRMT,Nasdaq,0.0,339.4,43001.6,2017-09-14,7.52,20.0,50.0,Finance,1
+Aveo Pharmaceuticals Inc.,Massachusetts,AVEO,Nasdaq,-1.7,413.6,415.2,2010-03-12,9.27,9.0,81.0,Health,1
+Wesco Aircraft Holdings Inc.,California,WAIR,New York,158.5,0.1,158.6,2011-07-28,7.15,15.0,315.0,Machinery,1
+Matador Resources Co,Texas,MTDR,New York,209.1,166.0,656.0,2012-02-02,4.46,12.0,160.0,Oil,1
+Trevena Inc.,Pennsylvania,TRVN,Nasdaq,0.0,0.0,52.6,2014-01-31,13.61,7.0,64.75,Health,1
+Keane Group Inc.,Texas,FRAC,New York,79.1,386.8,1297.8,2017-01-20,9.58,19.0,508.44,Oil,1
+James River Group Holdings Ltd,South Carolina,JRVR,Nasdaq,0.0,79.0,878.7,2014-12-12,8.74,21.0,231.0,Finance,1
+Polar Power Inc.,California,POLA,Nasdaq,0.0,909.9,909.9,2016-12-07,5.13,7.0,16.8,Machinery,1
+Reto Eco-Solutions Inc.,Rhode Island,RETO,Nasdaq,53.6,0.0,53.6,2017-11-29,7.66,5.0,14.0,Chemical,1
+Adomani Inc.,California,ADOM,Nasdaq,3.2,66.5,73.8,2017-06-15,8.56,5.0,14.261,Retail,1
+Onconova Therapeutics Inc.,Pennsylvania,ONTX,Nasdaq,23.9,0.0,1844.2,2013-07-25,5.9,15.0,77.5,Health,1
+Athenex Inc.,New York,ATNX,Nasdaq,71.8,0.0,71.8,2017-06-14,8.49,11.0,66.0,Health,1
+Granite Point Mortgage Trust Inc.,New York,GPMT,New York,0.0,77869.2,77869.2,2017-06-23,9.56,19.5,195.0,Finance,1
+Suncoke Energy Inc.,Illinois,SXC,New York,-89.2,19.5,133.6,2011-07-21,9.87,16.0,185.6,Chemical,1
+Benitec Biopharma Ltd/Adr,New York,BNTC,Nasdaq,0.0,1.3,631.1,2015-08-18,15.78,9.21,13.815,Health,1
+Everspin Technologies Inc.,Arizona,MRAM,Nasdaq,-17.6,0.0,38.8,2016-10-07,8.28,8.0,40.0,IT,1
+Four Seasons Education (Cayman) Inc.,Hawaii,FEDU,New York,0.0,0.0,566.4,2017-11-08,10.48,10.0,101.0,Food,1
+Vocera Communications Inc.,California,VCRA,New York,549.8,0.1,863.8,2012-03-28,12.68,16.0,93.6,IT,1
+Beigene Ltd,Idaho,BGNE,Nasdaq,0.0,52.6,687.9,2016-02-03,10.68,24.0,158.4,Health,1
+Adesto Technologies Corp,California,IOTS,Nasdaq,88.4,40.2,128.7,2015-10-27,9.84,5.0,25.0,IT,1
+Avenue Therapeutics Inc.,New York,ATXI,Nasdaq,0.0,0.0,119.0,2017-06-27,8.58,6.0,33.0,Health,1
+Boot Barn Holdings Inc.,California,BOOT,New York,73.4,1499.9,1573.3,2014-10-30,5.85,16.0,80.0,Retail,1
+Fang Holdings Ltd,Iowa,SFUN,New York,0.0,1989.8,1989.8,2010-09-17,8.47,42.5,124.663,IT,1
+Ladder Capital Corp,New York,LADR,New York,0.0,89.4,3345.7,2014-02-06,5.89,17.0,225.25,Finance,1
+Oncomed Pharmaceuticals Inc.,California,OMED,Nasdaq,31.5,0.0,50.0,2013-07-18,8.71,17.0,81.6,Engineering,1
+Marinus Pharmaceuticals Inc.,Pennsylvania,MRNS,Nasdaq,25.0,0.0,180.7,2014-07-31,8.47,8.0,45.0,Health,1
+Cue Biopharma Inc.,Massachusetts,CUE,Nasdaq,-23.8,1.1,24.9,2018-01-02,15.08,7.5,66.155,Health,1
+Lgi Homes Inc.,Texas,LGIH,Nasdaq,27.0,0.0,203.5,2013-11-07,8.14,11.0,99.0,Retail,1
+Tocagen Inc.,California,TOCA,Nasdaq,-18.7,0.0,99.6,2017-04-13,12.03,10.0,85.0,Health,1
+Line Corp,Colorado,LN,New York,0.0,0.0,2.7,2016-07-14,6.98,32.84,1149.4,IT,1
+Loma Negra Compania Industrial Argentina Sociedad Anonima,New Jersey,LOMA,New York,0.0,0.0,60.6,2017-11-01,4.77,19.0,874.0,Chemical,1
+Rexford Industrial Realty Inc.,California,REXR,New York,0.0,645.2,645.2,2013-07-19,1.9,14.0,224.0,Finance,1
+Mtbc Inc.,New Jersey,MTBC,Nasdaq,0.0,0.0,24.7,2014-07-23,1.19,5.0,20.4,IT,1
+Tms International Corp,Pennsylvania,TMS,New York,0.1,0.1,35.8,2011-04-14,4.02,13.0,145.6,Machinery,1
+Smart Global Holdings Inc.,California,SGH,Nasdaq,0.0,0.1,56.7,2017-05-24,8.49,11.0,58.3,IT,1
+Switch Inc.,Nevada,SWCH,New York,0.0,17.0,59.4,2017-10-06,9.01,17.0,531.25,IT,1
+Glaukos Corp,California,GKOS,New York,-14.8,0.0,26.8,2015-06-25,14.32,18.0,108.0,Health,1
+Trade Desk Inc.,California,TTD,Nasdaq,0.0,0.0,74.7,2016-09-21,14.71,18.0,84.0,IT,1
+Capstar Financial Holdings Inc.,Tennessee,CSTR,Nasdaq,63.8,0.0,3014.7,2016-09-22,10.8,15.0,38.775,Finance,1
+Mgm Growth Properties Llc,Nevada,MGP,New York,-0.5,2361.8,2362.3,2016-04-20,8.44,21.0,1050.0,Finance,1
+Gemphire Therapeutics Inc.,Michigan,GEMP,Nasdaq,-3.2,0.0,62.9,2016-08-05,8.54,10.0,30.0,Health,1
+Jinkosolar Holding Co Ltd,Connecticut,JKS,New York,-2.0,0.0,12.2,2010-05-14,13.16,11.0,64.185,IT,1
+Ardmore Shipping Corp,Michigan,ASC,New York,0.0,162.7,162.7,2013-08-01,8.05,14.0,140.0,Machinery,1
+Irhythm Technologies Inc.,California,IRTC,Nasdaq,-28.4,23.5,51.9,2016-10-20,6.73,17.0,107.0,Health,1
+Advanced Drainage Systems Inc.,Ohio,WMS,New York,69.0,2.7,455.8,2014-07-25,1.75,16.0,232.0,Retail,1
+On Deck Capital Inc.,New York,ONDK,New York,48.2,272.0,320.2,2014-12-17,12.23,20.0,200.0,Finance,1
+Rewalk Robotics Ltd,Kentucky,RWLK,Nasdaq,0.0,0.0,33.8,2014-09-12,8.39,12.0,36.0,Health,1
+Seres Therapeutics Inc.,Massachusetts,MCRB,Nasdaq,247.4,7.4,254.7,2015-06-26,9.01,18.0,133.75,Health,1
+Otonomy Inc.,California,OTIC,Nasdaq,0.0,0.0,163.8,2014-08-13,10.33,16.0,100.0,Health,1
+China Customer Relations Centers Inc.,Kentucky,CCRC,Nasdaq,0.0,0.4,150.1,2015-12-21,8.16,4.0,9.6,Machinery,1
+Merus NV,New Jersey,MRUS,Nasdaq,0.0,39.9,1426.7,2016-05-19,6.24,10.0,55.0,Health,1
+Karyopharm Therapeutics Inc.,Massachusetts,KPTI,Nasdaq,6.1,0.0,546.6,2013-11-06,7.71,16.0,108.8,Health,1
+Rise Education Cayman Ltd,Oregon,REDU,Nasdaq,0.0,44.0,151.7,2017-10-20,8.74,14.5,159.5,Food,1
+Ferrari NV,Massachusetts,RACE,New York,314.9,49.6,364.4,2015-10-21,11.32,52.0,893.1,Retail,1
+Geopark Ltd,Arkansas,GPRK,New York,0.0,0.4,6158.2,2014-02-07,6.48,7.0,94.5,Oil,1
+County Bancorp Inc.,Wisconsin,ICBK,Nasdaq,12.9,128.6,3714.4,2015-01-16,7.39,15.75,18.585,Finance,1
+Snap Inc.,California,SNAP,New York,0.0,9.8,47.6,2017-03-02,15.47,17.0,3400.0,IT,1
+Pattern Energy Group Inc.,California,PEGI,Nasdaq,0.0,0.0,607.5,2013-09-27,8.41,22.0,352.0,Energy,1
+Noble Midstream Partners Lp,Texas,NBLX,New York,14.1,412.7,606.0,2016-09-15,9.89,22.5,281.25,Oil,1
+Immuron Ltd,Idaho,IMRN,Nasdaq,0.0,1784.8,1784.8,2017-06-09,0.49,9.99,6.094,Health,1
+Independence Realty Trust Inc.,Pennsylvania,IRT,American,55.0,64.5,2557.2,2013-08-13,8.78,8.5,34.0,Finance,1
+Xenon Pharmaceuticals Inc.,Maine,XENE,Nasdaq,0.0,0.0,2.8,2014-11-05,7.21,9.0,36.0,Health,1
+Nevro Corp,California,NVRO,New York,-24.9,0.0,50.2,2014-11-06,10.16,18.0,126.0,Health,1
+Atlassian Corp Plc,California,TEAM,Nasdaq,0.0,0.0,40.0,2015-12-10,12.14,21.0,462.0,IT,1
+Turning Point Brands Inc.,Kentucky,TPB,New York,75.6,0.0,75.6,2016-05-11,10.94,10.0,54.0,Food,1
+National Vision Holdings Inc.,Georgia,EYE,Nasdaq,0.0,113.6,113.6,2017-10-26,7.59,22.0,347.6,Retail,1
+Obseva Sa,Maryland,OBSV,Nasdaq,-19.0,1243.4,1262.3,2017-01-26,7.55,15.0,96.75,Health,1
+Acceleron Pharma Inc.,Massachusetts,XLRN,Nasdaq,0.0,0.0,142.0,2013-09-19,0.36,15.0,83.7,Health,1
+Cellectis SA,Maryland,CLLS,Nasdaq,-28.3,221.1,249.5,2015-03-25,6.77,41.5,228.25,Health,1
+Homestreet Inc.,Washington,HMST,Nasdaq,5.9,60.7,279.9,2012-02-10,16.83,44.0,83.443,Finance,1
+Aerie Pharmaceuticals Inc.,North Carolina,AERI,Nasdaq,0.0,3.8,17.7,2013-10-25,10.61,10.0,67.2,Health,1
+Sienna Biopharmaceuticals Inc.,California,SNNA,Nasdaq,0.0,47.6,47.6,2017-07-27,10.05,15.0,65.0,Health,1
+Ac Immune Sa,Utah,ACIU,Nasdaq,0.0,1083.8,1083.8,2016-09-23,10.86,11.0,66.0,Health,1
+Talend Sa,California,TLND,Nasdaq,0.0,92.3,92.3,2016-07-29,14.11,18.0,94.5,IT,1
+Advanced Disposal Services Inc.,Florida,ADSW,New York,0.0,49.0,617.4,2016-10-06,7.32,18.0,346.5,Machinery,1
+Altice Usa Inc.,New York,ATUS,New York,13.9,349.3,363.2,2017-06-22,9.3,30.0,1918.291,Communications,1
+Enanta Pharmaceuticals Inc.,Massachusetts,ENTA,Nasdaq,0.0,211.2,211.2,2013-03-21,12.43,14.0,56.0,Health,1
+Summit Materials Inc.,Colorado,SUM,New York,-15.0,3.6,57.2,2015-03-12,13.04,18.0,400.0,Chemical,1
+Collegium Pharmaceutical Inc.,Massachusetts,COLL,Nasdaq,7.0,0.0,66.5,2015-05-07,7.19,12.0,69.6,Health,1
+Newmark Group Inc.,New York,NMRK,Nasdaq,57.6,114.0,3221.0,2017-12-15,9.0,14.0,280.0,Finance,1
+Dicerna Pharmaceuticals Inc.,Massachusetts,DRNA,Nasdaq,-26.6,26.1,55.2,2014-01-30,9.37,15.0,90.0,Health,1
+Smart & Final Stores Inc.,California,SFS,New York,465.5,525.9,991.4,2014-09-24,11.57,12.0,161.4,Food,1
+Minerva Neurosciences Inc.,Massachusetts,NERV,Nasdaq,-13.8,9.7,23.5,2014-07-01,6.57,6.0,32.727,Health,1
+Rapid7 Inc.,Massachusetts,RPD,Nasdaq,0.0,5.0,933.6,2015-07-17,10.55,16.0,103.2,IT,1
+Catalent Inc.,New Jersey,CTLT,New York,0.0,0.0,3.5,2014-07-31,10.47,20.5,871.25,Health,1
+Akcea Therapeutics Inc.,Massachusetts,AKCA,Nasdaq,0.0,0.0,63.8,2017-07-14,8.12,8.0,125.0,Health,1
+General Motors Co,Michigan,GM,New York,87.5,2.3,89.8,2010-11-18,14.71,33.0,15774.0,Retail,1
+1347 Property Insurance Holdings Inc.,Florida,PIH,Nasdaq,11.1,0.0,66.5,2014-04-01,0.87,8.0,15.1,Finance,1
+Phillips 66 Partners Lp,Texas,PSXP,New York,5.0,64.7,1381.6,2013-07-23,10.24,23.0,377.775,Oil,1
+Grupo Aval Acciones Y Valores SA,North Carolina,AVAL,New York,0.0,0.0,110.5,2014-09-23,7.49,13.5,1100.0,Finance,1
+Nextera Energy Partners Lp,Florida,NEP,New York,0.0,0.0,1074.4,2014-06-27,8.67,25.0,406.25,Energy,1
+Deciphera Pharmaceuticals Inc.,Massachusetts,DCPH,Nasdaq,0.0,0.0,3917.1,2017-09-28,14.34,17.0,127.5,Health,1
+Magnachip Semiconductor Corp,Rhode Island,MX,New York,0.0,0.0,863.2,2011-03-11,8.46,14.0,133.0,IT,1
+Seadrill Partners Llc,South Carolina,SDLP,New York,0.0,0.0,1790.0,2012-10-19,6.82,22.0,192.5,Oil,1
+Health Insurance Innovations Inc.,Florida,HIIQ,Nasdaq,0.0,41.9,165.1,2013-02-08,10.74,14.0,65.333,Health,1
+Zynga Inc.,California,ZNGA,Nasdaq,49.2,12.7,303.3,2011-12-16,8.36,10.0,1000.0,IT,1
+Independence Contract Drilling Inc.,Texas,ICD,New York,121.4,77.3,655.3,2014-08-08,7.74,11.0,110.0,Oil,1
+Model N Inc.,California,MODN,New York,0.0,8.5,75.4,2013-03-20,8.76,15.5,104.47,IT,1
+2U Inc.,Maryland,TWOU,Nasdaq,0.0,3.4,26.2,2014-03-28,6.74,13.0,119.275,IT,1
+Fat Brands Inc.,California,FAT,Nasdaq,13.7,112.2,334.4,2017-10-23,9.58,12.0,24.0,Retail,1
+Teladoc Health Inc.,New York,TDOC,New York,122.8,0.0,941.4,2015-07-01,10.52,19.0,156.75,IT,1
+Mimecast Ltd,North Carolina,MIME,Nasdaq,0.0,0.0,126.6,2015-11-19,10.28,10.0,77.5,IT,1
+Atara Biotherapeutics Inc.,California,ATRA,Nasdaq,-19.7,1668.1,1687.8,2014-10-16,4.19,11.0,55.0,Health,1
+American Assets Trust Inc.,California,AAT,New York,11.0,368.1,23943.5,2011-01-13,5.89,20.5,563.75,Finance,1
+Artisan Partners Asset Management Inc.,Wisconsin,APAM,New York,0.0,1269.3,1269.3,2013-03-07,10.89,30.0,331.625,Finance,1
+Emerald Expositions Events Inc.,California,EEX,New York,3.5,10.9,2414.0,2017-04-28,7.03,17.0,263.5,Machinery,1
+Emerge Energy Services Lp,Texas,EMES,New York,0.0,3.3,58.3,2013-05-09,6.38,17.0,127.5,Chemical,1
+Apollo Global Management Llc,New York,APO,New York,0.0,553.5,553.5,2011-03-30,7.35,19.0,565.394,Finance,1
+Lexinfintech Holdings Ltd,South Dakota,LX,Nasdaq,18.0,0.0,3276.6,2017-12-21,9.27,9.0,108.0,Finance,1
+Inflarx NV,North Carolina,IFRX,Nasdaq,0.0,0.0,3441.3,2017-11-08,10.6,15.0,100.005,Health,1
+Complete Genomics Inc.,California,GNOM,Nasdaq,0.0,42.7,71.9,2010-11-11,13.94,9.0,54.0,Finance,1
+Atlas Financial Holdings Inc.,Illinois,AFH,Nasdaq,2452.9,1053.0,23961.9,2013-02-12,2.09,5.85,24.131,Finance,1
+Ellington Residential Mortgage Reit,Connecticut,EARN,New York,40.0,125.3,633.8,2013-05-01,9.66,20.0,129.0,Finance,1
+Evogene Ltd,Iowa,EVGN,New York,-3.6,7.7,54.0,2013-11-21,11.0,14.75,73.75,Health,1
+Synchrony Financial,Connecticut,SYF,New York,0.0,271.5,591.1,2014-07-31,4.3,23.0,2875.0,Finance,1
+Kempharm Inc.,Florida,KMPH,Nasdaq,0.0,0.0,148.8,2015-04-16,9.38,11.0,56.0,Health,1
+Xunlei Ltd,Nevada,XNET,Nasdaq,-119.4,0.0,240.6,2014-06-24,11.57,12.0,87.78,IT,1
+Eqm Midstream Partners Lp,Pennsylvania,EQM,New York,47.8,1190.9,1238.7,2012-06-27,5.84,21.0,262.5,Oil,1
+AlarmCom Holdings Inc.,Virginia,ALRM,Nasdaq,121.4,116.8,238.3,2015-06-26,10.59,14.0,98.0,IT,1
+Phibro Animal Health Corp,New Jersey,PAHC,Nasdaq,461.5,1807.0,2268.5,2014-04-11,11.16,15.0,191.181,Health,1
+Berry Global Group Inc.,Indiana,BERY,New York,359.4,43.0,402.4,2012-10-04,7.71,16.0,470.588,Retail,1
+Norwegian Cruise Line Holdings Ltd,Florida,NCLH,Nasdaq,7.9,74.7,82.6,2013-01-18,5.79,19.0,447.059,Retail,1
+Marcus & Millichap Inc.,California,MMI,New York,0.0,183.5,436.3,2013-10-31,9.64,12.0,72.0,Finance,1
+Merrimack Pharmaceuticals Inc.,Massachusetts,MACK,Nasdaq,344.5,19.6,364.1,2012-03-29,5.45,7.0,100.1,Health,1
+Fox Factory Holding Corp,Georgia,FOXF,Nasdaq,0.0,2.2,88.0,2013-08-08,15.02,15.0,128.571,Retail,1
+Diamondback Energy Inc.,Texas,FANG,Nasdaq,15.9,3595.1,3611.0,2012-10-12,5.95,17.5,218.75,Oil,1
+Restoration Robotics Inc.,California,HAIR,Nasdaq,0.0,0.0,253.9,2017-10-12,9.1,7.0,25.025,Health,1
+Amc Entertainment Holdings Inc.,Kansas,AMC,New York,4.6,75.5,83.9,2013-12-18,8.5,18.0,331.579,Retail,1
+Instructure Inc.,Utah,INST,New York,84.1,0.4,148.7,2015-11-13,13.9,16.0,70.4,IT,1
+Container Store Group Inc.,Texas,TCS,New York,54.5,74.9,512.9,2013-11-01,10.13,18.0,225.0,Retail,1
+Caesarstone Ltd,North Carolina,CSTE,Nasdaq,-19.5,4.7,143.3,2012-03-22,16.46,11.0,73.26,Chemical,1
+American Realty Capital Trust Inc.,Pennsylvania,ARCT,Nasdaq,0.0,0.1,779.0,2012-03-01,8.32,6.0,39.6,Finance,1
+Materialise Nv,Wisconsin,MTLS,Nasdaq,2.6,0.0,446.6,2014-06-25,8.01,12.0,96.0,IT,1
+Trinseo SA,Pennsylvania,TSE,New York,80.5,2.8,174.8,2014-06-12,7.34,19.0,190.0,Retail,1
+Pra Health Sciences Inc.,North Carolina,PRAH,Nasdaq,0.0,0.0,2560.8,2014-11-13,13.31,18.0,305.581,Health,1
+Schneider National Inc.,Wisconsin,SNDR,New York,-3.8,128.1,131.9,2017-04-06,11.06,19.0,549.993,Machinery,1
+Bellerophon Therapeutics Inc.,New Jersey,BLPH,Nasdaq,481.2,1574.5,2055.7,2015-02-13,11.19,12.0,60.0,Health,1
+Midland States Bancorp Inc.,Illinois,MSBI,Nasdaq,0.0,0.0,53.4,2016-05-24,6.97,22.0,80.053,Finance,1
+Altair Engineering Inc.,Michigan,ALTR,Nasdaq,13.8,0.1,217.0,2017-11-01,9.34,13.0,156.0,IT,1
+Premier Inc.,North Carolina,PINC,Nasdaq,0.0,21.9,145.4,2013-09-26,1.23,27.0,760.103,IT,1
+Realogy Holdings Corp,New Jersey,RLGY,New York,34.0,2848.4,2882.4,2012-10-11,9.61,27.0,1080.0,Finance,1
+Audentes Therapeutics Inc.,California,BOLD,Nasdaq,0.0,2.9,12.7,2016-07-20,10.13,15.0,75.0,Health,1
+Spirit Airlines Inc.,Florida,SAVE,Nasdaq,0.0,11.0,30.4,2011-05-26,13.72,12.0,187.2,Machinery,1
+Resonant Inc.,California,RESN,Nasdaq,0.0,11.4,28.4,2014-05-29,6.71,6.0,16.2,IT,1
+Solaris Oilfield Infrastructure Inc.,Texas,SOI,New York,0.0,4.3,244.2,2017-05-12,5.85,12.0,121.2,Oil,1
+Affimed NV,Louisiana,AFMD,Nasdaq,5.5,0.0,128.5,2014-09-12,3.37,7.0,56.0,Health,1
+Sunrun Inc.,California,RUN,Nasdaq,0.0,0.0,1.2,2015-08-05,10.5,14.0,250.6,IT,1

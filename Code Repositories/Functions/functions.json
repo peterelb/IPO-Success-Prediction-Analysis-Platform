@@ -1,0 +1,9 @@
+{
+  "useSdkSidebar": true,
+  "sdkGenerators": {
+    "npm": {
+      "semVerRange": "2.0.0 - 2.7.0"
+    }
+  },
+  "allowBetaGeneratorVersions": false
+}

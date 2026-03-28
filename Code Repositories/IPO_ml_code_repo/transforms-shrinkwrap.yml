@@ -1,0 +1,49 @@
+---
+mappings:
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/machinelearning/ml_testing"
+  modes:
+  - "BUILD"
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.084a62cb-86a9-4736-9d76-aece0df5a98c"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/models/ipo_post_ipo_model"
+  modes:
+  - "BUILD"
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.models.main.model.d8b9d5bb-3ea3-4d32-bdd7-a965e599ac43"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/models/ipo_pre_ipo_model"
+  modes:
+  - "BUILD"
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.models.main.model.d5772fa0-8534-426c-bc34-2f831e2bf897"
+- alias: "ri.foundry.main.dataset.084a62cb-86a9-4736-9d76-aece0df5a98c"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.084a62cb-86a9-4736-9d76-aece0df5a98c"
+- alias: "ri.foundry.main.dataset.6d034bd9-e32f-42bf-9b48-41d131d3bfbb"
+  modes:
+  - "BUILD"
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.6d034bd9-e32f-42bf-9b48-41d131d3bfbb"
+- alias: "ri.foundry.main.dataset.87b21df2-4ac4-4680-ae0d-aaff0714545a"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.87b21df2-4ac4-4680-ae0d-aaff0714545a"
+- alias: "ri.foundry.main.dataset.8c373bd8-3b21-47bf-8ba8-edfd80272efd"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.8c373bd8-3b21-47bf-8ba8-edfd80272efd"
+- alias: "ri.foundry.main.dataset.9082b381-dc74-45ae-b822-53f6a69a1898"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.9082b381-dc74-45ae-b822-53f6a69a1898"

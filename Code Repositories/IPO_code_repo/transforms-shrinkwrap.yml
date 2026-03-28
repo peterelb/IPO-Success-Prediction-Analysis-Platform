@@ -1,0 +1,185 @@
+---
+mappings:
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/cleaned/sp_500_cleaned"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.36f59c6d-e9f1-4d35-a853-dd69f289d3e5"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/machinelearning/evaluation/metrics/feature_importance"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.70ae3a3a-02e7-4076-be66-9bedf050d205"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/machinelearning/evaluation/metrics/future_ipo_feature_importance"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.9b20ee4a-60c8-4d6c-94e0-b86a574ead57"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/machinelearning/evaluation/metrics/model_performance_metrics"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.cbab6bbd-1b0b-427c-be83-5506d2a88300"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/preprocessed/ml_preprocessed"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.51e3e7ed-d0e4-44cf-a3d5-3041194f2335"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/preprocessed/sp500_companies_preprocessed"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.0b7054a4-7ec3-4c9d-8049-00e4939c7602"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/preprocessed/sp500_index_preprocessed"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.7e413ab2-790b-4b3d-9c28-64dabc4b8065"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/preprocessed/sp500_stock_preprocessed"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.5365c0bf-257f-477b-b0a0-09517ce37c22"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/preprocessed/us_ipo_preprocessed"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.beb1ee79-b505-48bd-865a-1a0fb7fa1047"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/preprocessed/us_ipo_preprocessed_2"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.8b2797e9-2c07-4e2b-bb88-56cacb0dca56"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/transformed/sp500_prices_with_index"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.ea44bdab-5faa-47fe-ad39-f63ec028099b"
+- alias: "/inmind.ai/Temporary Training Artifacts/Learning - Peter El Bikai/Final\
+    \ Project/code repos/datasets/transformed/sp500_stock_companies_transformed"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.43e6b1dd-3cae-400c-96d6-898fa6b4f1b5"
+- alias: "ri.foundry.main.dataset.0b7054a4-7ec3-4c9d-8049-00e4939c7602"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.0b7054a4-7ec3-4c9d-8049-00e4939c7602"
+- alias: "ri.foundry.main.dataset.19edae55-3530-46dc-9ab8-8cd24257f929"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.19edae55-3530-46dc-9ab8-8cd24257f929"
+- alias: "ri.foundry.main.dataset.21e9dcd3-c00e-4f90-a6df-109b02849b70"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.21e9dcd3-c00e-4f90-a6df-109b02849b70"
+- alias: "ri.foundry.main.dataset.43e6b1dd-3cae-400c-96d6-898fa6b4f1b5"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.43e6b1dd-3cae-400c-96d6-898fa6b4f1b5"
+- alias: "ri.foundry.main.dataset.51e3e7ed-d0e4-44cf-a3d5-3041194f2335"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.51e3e7ed-d0e4-44cf-a3d5-3041194f2335"
+- alias: "ri.foundry.main.dataset.5365c0bf-257f-477b-b0a0-09517ce37c22"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.5365c0bf-257f-477b-b0a0-09517ce37c22"
+- alias: "ri.foundry.main.dataset.6d034bd9-e32f-42bf-9b48-41d131d3bfbb"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.6d034bd9-e32f-42bf-9b48-41d131d3bfbb"
+- alias: "ri.foundry.main.dataset.70ae3a3a-02e7-4076-be66-9bedf050d205"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.70ae3a3a-02e7-4076-be66-9bedf050d205"
+- alias: "ri.foundry.main.dataset.7629dc9f-1a03-49b1-87cb-919e29caa4c5"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.7629dc9f-1a03-49b1-87cb-919e29caa4c5"
+- alias: "ri.foundry.main.dataset.7e413ab2-790b-4b3d-9c28-64dabc4b8065"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.7e413ab2-790b-4b3d-9c28-64dabc4b8065"
+- alias: "ri.foundry.main.dataset.87b21df2-4ac4-4680-ae0d-aaff0714545a"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.87b21df2-4ac4-4680-ae0d-aaff0714545a"
+- alias: "ri.foundry.main.dataset.8b2797e9-2c07-4e2b-bb88-56cacb0dca56"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.8b2797e9-2c07-4e2b-bb88-56cacb0dca56"
+- alias: "ri.foundry.main.dataset.8c373bd8-3b21-47bf-8ba8-edfd80272efd"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.8c373bd8-3b21-47bf-8ba8-edfd80272efd"
+- alias: "ri.foundry.main.dataset.9082b381-dc74-45ae-b822-53f6a69a1898"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.9082b381-dc74-45ae-b822-53f6a69a1898"
+- alias: "ri.foundry.main.dataset.abb5f937-a228-40bb-a19b-597935af05ab"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.abb5f937-a228-40bb-a19b-597935af05ab"
+- alias: "ri.foundry.main.dataset.bce5baf9-e390-48ac-8b8e-c1f34106a312"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.bce5baf9-e390-48ac-8b8e-c1f34106a312"
+- alias: "ri.foundry.main.dataset.beb1ee79-b505-48bd-865a-1a0fb7fa1047"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.beb1ee79-b505-48bd-865a-1a0fb7fa1047"
+- alias: "ri.foundry.main.dataset.d86ddcad-8b98-48b1-9703-4a7e54d12739"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.d86ddcad-8b98-48b1-9703-4a7e54d12739"
+- alias: "ri.foundry.main.dataset.def8e9bc-5850-4d45-bd96-a617f864cc2a"
+  modes:
+  - "BUILD"
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.def8e9bc-5850-4d45-bd96-a617f864cc2a"
+- alias: "ri.foundry.main.dataset.ea44bdab-5faa-47fe-ad39-f63ec028099b"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.ea44bdab-5faa-47fe-ad39-f63ec028099b"
+- alias: "ri.foundry.main.dataset.edcf7ca9-2de9-4f68-b661-02b7abe8dfdc"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.edcf7ca9-2de9-4f68-b661-02b7abe8dfdc"
+- alias: "ri.foundry.main.dataset.f528e8bd-c06b-4dd6-ac03-a71581178d72"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.f528e8bd-c06b-4dd6-ac03-a71581178d72"

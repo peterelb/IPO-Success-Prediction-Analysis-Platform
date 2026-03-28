@@ -1,0 +1,8 @@
+---
+envLayerMetadata:
+- tarHash: "f9b9cbd2884bfdde244b8851ac2001cb7dffd41213e033461557f4fad4933211"
+  gzipHash: "4ac617210ac724fe665fc9fd3d1384e2c56a4b1a8d0afd72c7a3654f0fe322a6"
+  gzipSize: 294696217
+internalCondaLockHash:
+  condaGeneratorVersion: 2
+  hash: "e2f13a04ff0b0f32f4f4d3e2594a97572ed8f30e94dfc8118761c78d6b4afcfc"
